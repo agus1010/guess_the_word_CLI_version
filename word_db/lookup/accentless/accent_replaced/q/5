@@ -1,25 +1,22 @@
-queda
-quede
-quede
-quedo
-quedo
-queja
-queje
-quejo
-quema
-queme
-quemi
-quemo
-quepi
-quere
-quien
-quien
-quita
-quite
-quito
-quito
-quiza
-quiza
-quiña
-quiñe
-quiño
+{
+    "queda": "quedá",
+    "quede": "quedé",
+    "quedo": "quedó",
+    "queja": "quejá",
+    "queje": "quejé",
+    "quejo": "quejó",
+    "quema": "quemá",
+    "queme": "quemé",
+    "quemi": "quemí",
+    "quemo": "quemó",
+    "quepi": "quepí",
+    "quere": "queré",
+    "quita": "quitá",
+    "quite": "quité",
+    "quito": "quitó",
+    "quiza": "quizá",
+    "quien": "quién",
+    "quiña": "quiñá",
+    "quiñe": "quiñé",
+    "quiño": "quiñó"
+}

@@ -1,224 +1,215 @@
-obceca
-obceco
-obispa
-obispe
-obispo
-objeta
-objete
-objeto
-obliga
-obligo
-obligo
-obrais
-obrara
-obrare
-obreis
-obtene
-obtura
-obture
-obturo
-obvias
-oceano
-oceano
-ochava
-ochave
-ochavo
-ociais
-ociara
-ociare
-ocieis
-ocluia
-ocluis
-ocluyo
-octava
-octave
-octavo
-oculta
-oculte
-oculto
-ocupas
-ocurri
-odiais
-odiara
-odiare
-odieis
-oenege
-ofende
-ofendi
-oferta
-oferte
-oferto
-oficia
-oficie
-oficio
-ofrece
-ofreci
-ofrica
-ofrico
-ofusca
-ofusco
-ohmica
-ohmico
-oiamos
-oigais
-oireis
-oirian
-oirias
-ojalas
-ojeais
-ojeara
-ojeare
-ojeeis
-ojetea
-ojetee
-ojeteo
-okupas
-oleais
-oleara
-oleare
-oleeis
-oleina
-oleran
-oleras
-oleria
-oliais
-olisca
-olisco
-olivas
-olvida
-olvide
-olvido
-olvido
-ombria
-ominas
-omitia
-omitio
-omitis
-onceas
-ondeas
-ondula
-ondule
-ondulo
-ontica
-ontico
-opacas
-opaque
-oparan
-oparas
-oparia
-opcion
-opcion
-operas
-operia
-opilas
-opinas
-opones
-oponia
-oprimi
-optais
-optara
-optare
-opteis
-optica
-optica
-optico
-optima
-optima
-optime
-optimo
-optimo
-opugna
-opugne
-opugno
-oranes
-oraran
-oraras
-oraria
-orbita
-orbita
-orbita
-orbite
-orbito
-orceis
-ordago
-ordena
-ordene
-ordeno
-ordeno
-ordeña
-ordeñe
-ordeño
-ordiga
-oreada
-oreade
-oreais
-oreara
-oreare
-oreeis
-orejea
-orejee
-orejeo
-orejon
-orfeon
-orfica
-orfico
-orfres
-organo
-organo
-orilla
-orille
-orillo
-orinas
-oripie
-orlais
-orlara
-orlare
-orleis
-ormesi
-ornais
-ornara
-ornare
-orneis
-ortiga
-ortigo
-orzais
-orzara
-orzare
-osadia
-osaran
-osaras
-osaria
-oscila
-oscile
-oscilo
-osculo
-oseais
-oseara
-oseare
-oseeis
-oseria
-ostion
-ostron
-oteais
-oteara
-oteare
-oteeis
-otoman
-otomia
-otorga
-otorgo
-otoñas
-otrosi
-ovalas
-ovaran
-ovaras
-ovaria
-ovilla
-oville
-ovillo
-ovulas
-oxeais
-oxeara
-oxeare
-oxeeis
-oxidas
+{
+    "obceca": "obcecá",
+    "obceco": "obcecó",
+    "obispa": "obispá",
+    "obispe": "obispé",
+    "obispo": "obispó",
+    "objeta": "objetá",
+    "objete": "objeté",
+    "objeto": "objetó",
+    "obliga": "obligá",
+    "obligo": "obligó",
+    "obrara": "obrará",
+    "obrare": "obraré",
+    "obrais": "obráis",
+    "obreis": "obréis",
+    "obtene": "obtené",
+    "obtura": "obturá",
+    "obture": "obturé",
+    "obturo": "obturó",
+    "obvias": "obviás",
+    "ochava": "ochavá",
+    "ochave": "ochavé",
+    "ochavo": "ochavó",
+    "ociara": "ociará",
+    "ociare": "ociaré",
+    "ociais": "ociáis",
+    "ocieis": "ociéis",
+    "ocluyo": "ocluyó",
+    "ocluia": "ocluía",
+    "ocluis": "ocluís",
+    "octava": "octavá",
+    "octave": "octavé",
+    "octavo": "octavó",
+    "oculta": "ocultá",
+    "oculte": "oculté",
+    "oculto": "ocultó",
+    "ocupas": "ocupás",
+    "ocurri": "ocurrí",
+    "oceano": "océano",
+    "odiara": "odiará",
+    "odiare": "odiaré",
+    "odiais": "odiáis",
+    "odieis": "odiéis",
+    "oenege": "oenegé",
+    "ofende": "ofendé",
+    "ofendi": "ofendí",
+    "oferta": "ofertá",
+    "oferte": "oferté",
+    "oferto": "ofertó",
+    "oficia": "oficiá",
+    "oficie": "oficié",
+    "oficio": "ofició",
+    "ofrece": "ofrecé",
+    "ofreci": "ofrecí",
+    "ofusca": "ofuscá",
+    "ofusco": "ofuscó",
+    "oigais": "oigáis",
+    "oireis": "oiréis",
+    "oirian": "oirían",
+    "oirias": "oirías",
+    "ojalas": "ojalás",
+    "ojeara": "ojeará",
+    "ojeare": "ojearé",
+    "ojetea": "ojeteá",
+    "ojetee": "ojeteé",
+    "ojeteo": "ojeteó",
+    "ojeais": "ojeáis",
+    "ojeeis": "ojeéis",
+    "okupas": "okupás",
+    "oleara": "oleará",
+    "oleare": "olearé",
+    "oleran": "olerán",
+    "oleras": "olerás",
+    "oleria": "olería",
+    "oleais": "oleáis",
+    "oleeis": "oleéis",
+    "oleina": "oleína",
+    "olisca": "oliscá",
+    "olisco": "oliscó",
+    "olivas": "olivás",
+    "olvida": "olvidá",
+    "olvide": "olvidé",
+    "olvido": "olvidó",
+    "oliais": "olíais",
+    "ombria": "ombría",
+    "ominas": "ominás",
+    "omitio": "omitió",
+    "omitia": "omitía",
+    "omitis": "omitís",
+    "onceas": "onceás",
+    "ondeas": "ondeás",
+    "ondula": "ondulá",
+    "ondule": "ondulé",
+    "ondulo": "onduló",
+    "opacas": "opacás",
+    "opaque": "opaqué",
+    "oparan": "oparán",
+    "oparas": "oparás",
+    "oparia": "oparía",
+    "opcion": "opción",
+    "operas": "operás",
+    "operia": "opería",
+    "opilas": "opilás",
+    "opinas": "opinás",
+    "opones": "oponés",
+    "oponia": "oponía",
+    "oprimi": "oprimí",
+    "optara": "optará",
+    "optare": "optaré",
+    "optima": "óptima",
+    "optime": "optimé",
+    "optimo": "óptimo",
+    "optais": "optáis",
+    "opteis": "optéis",
+    "opugna": "opugná",
+    "opugne": "opugné",
+    "opugno": "opugnó",
+    "oranes": "oranés",
+    "oraran": "orarán",
+    "oraras": "orarás",
+    "oraria": "oraría",
+    "orbita": "órbita",
+    "orbite": "orbité",
+    "orbito": "orbitó",
+    "orceis": "orcéis",
+    "ordena": "ordená",
+    "ordene": "ordené",
+    "ordeno": "ordenó",
+    "ordeña": "ordeñá",
+    "ordeñe": "ordeñé",
+    "ordeño": "ordeñó",
+    "oreara": "oreará",
+    "oreare": "orearé",
+    "orejea": "orejeá",
+    "orejee": "orejeé",
+    "orejeo": "orejeó",
+    "orejon": "orejón",
+    "oreais": "oreáis",
+    "oreeis": "oreéis",
+    "orfeon": "orfeón",
+    "orfres": "orfrés",
+    "orilla": "orillá",
+    "orille": "orillé",
+    "orillo": "orilló",
+    "orinas": "orinás",
+    "oripie": "oripié",
+    "orlara": "orlará",
+    "orlare": "orlaré",
+    "orlais": "orláis",
+    "orleis": "orléis",
+    "ormesi": "ormesí",
+    "ornara": "ornará",
+    "ornare": "ornaré",
+    "ornais": "ornáis",
+    "orneis": "ornéis",
+    "ortiga": "ortigá",
+    "ortigo": "ortigó",
+    "orzara": "orzará",
+    "orzare": "orzaré",
+    "orzais": "orzáis",
+    "oreada": "oréada",
+    "oreade": "oréade",
+    "osadia": "osadía",
+    "osaran": "osarán",
+    "osaras": "osarás",
+    "osaria": "osaría",
+    "oscila": "oscilá",
+    "oscile": "oscilé",
+    "oscilo": "osciló",
+    "oseara": "oseará",
+    "oseare": "osearé",
+    "oseria": "osería",
+    "oseais": "oseáis",
+    "oseeis": "oseéis",
+    "ostion": "ostión",
+    "ostron": "ostrón",
+    "oteara": "oteará",
+    "oteare": "otearé",
+    "oteais": "oteáis",
+    "oteeis": "oteéis",
+    "otoman": "otomán",
+    "otomia": "otomía",
+    "otorga": "otorgá",
+    "otorgo": "otorgó",
+    "otoñas": "otoñás",
+    "otrosi": "otrosí",
+    "ovalas": "ovalás",
+    "ovaran": "ovarán",
+    "ovaras": "ovarás",
+    "ovaria": "ovaría",
+    "ovilla": "ovillá",
+    "oville": "ovillé",
+    "ovillo": "ovilló",
+    "ovulas": "ovulás",
+    "oxeara": "oxeará",
+    "oxeare": "oxearé",
+    "oxeais": "oxeáis",
+    "oxeeis": "oxeéis",
+    "oxidas": "oxidás",
+    "oiamos": "oíamos",
+    "ofrica": "ófrica",
+    "ofrico": "ófrico",
+    "ohmica": "óhmica",
+    "ohmico": "óhmico",
+    "ontica": "óntica",
+    "ontico": "óntico",
+    "optica": "óptica",
+    "optico": "óptico",
+    "ordago": "órdago",
+    "ordiga": "órdiga",
+    "orfica": "órfica",
+    "orfico": "órfico",
+    "organo": "órgano",
+    "osculo": "ósculo"
+}

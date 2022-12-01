@@ -1,59 +1,57 @@
-quebras
-quedais
-quedara
-quedara
-quedare
-quedeis
-queismo
-queista
-quejais
-quejara
-quejare
-quejeis
-quekchi
-quemais
-quemara
-quemare
-quemeis
-quepais
-querais
-quereis
-querian
-querian
-querias
-quermes
-querran
-querras
-querria
-queseas
-quienes
-quietas
-quilata
-quilate
-quilato
-quimica
-quimica
-quimico
-quimico
-quincha
-quinche
-quincho
-quinola
-quinque
-quintas
-quintin
-quisame
-quisnea
-quisnee
-quisneo
-quistas
-quisten
-quitais
-quitara
-quitare
-quiteis
-quitrin
-quiñais
-quiñara
-quiñare
-quiñeis
+{
+    "quebras": "quebrás",
+    "quedara": "quedará",
+    "quedare": "quedaré",
+    "quedais": "quedáis",
+    "quedeis": "quedéis",
+    "quejara": "quejará",
+    "quejare": "quejaré",
+    "quejais": "quejáis",
+    "quejeis": "quejéis",
+    "quekchi": "quekchí",
+    "quemara": "quemará",
+    "quemare": "quemaré",
+    "quemais": "quemáis",
+    "quemeis": "queméis",
+    "quepais": "quepáis",
+    "quermes": "quermés",
+    "querran": "querrán",
+    "querras": "querrás",
+    "querria": "querría",
+    "querais": "queráis",
+    "quereis": "queréis",
+    "querian": "querían",
+    "querias": "querías",
+    "queseas": "queseás",
+    "queismo": "queísmo",
+    "queista": "queísta",
+    "quietas": "quietás",
+    "quilata": "quilatá",
+    "quilate": "quilaté",
+    "quilato": "quilató",
+    "quincha": "quinchá",
+    "quinche": "quinché",
+    "quincho": "quinchó",
+    "quinque": "quinqué",
+    "quintas": "quintás",
+    "quintin": "quintín",
+    "quisnea": "quisneá",
+    "quisnee": "quisneé",
+    "quisneo": "quisneó",
+    "quistas": "quistás",
+    "quitara": "quitará",
+    "quitare": "quitaré",
+    "quitrin": "quitrín",
+    "quitais": "quitáis",
+    "quiteis": "quitéis",
+    "quienes": "quiénes",
+    "quiñara": "quiñará",
+    "quiñare": "quiñaré",
+    "quiñais": "quiñáis",
+    "quiñeis": "quiñéis",
+    "quimica": "química",
+    "quimico": "químico",
+    "quinola": "quínola",
+    "quisame": "quísame",
+    "quisten": "quísten"
+}

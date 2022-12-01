@@ -1,36 +1,35 @@
-quebra
-quebre
-quebro
-quedas
-quejas
-quemas
-quemon
-queres
-queria
-queria
-querra
-querre
-quesea
-quesee
-queseo
-quiche
-quidam
-quieta
-quiete
-quieto
-quijon
-quimon
-quinoa
-quinta
-quinte
-quinto
-quista
-quiste
-quiste
-quisto
-quitas
-quiton
-quizas
-quizas
-quiñas
-quiñon
+{
+    "quebra": "quebrá",
+    "quebre": "quebré",
+    "quebro": "quebró",
+    "quedas": "quedás",
+    "quejas": "quejás",
+    "quemas": "quemás",
+    "quemon": "quemón",
+    "querra": "querrá",
+    "querre": "querré",
+    "queres": "querés",
+    "queria": "quería",
+    "quesea": "queseá",
+    "quesee": "queseé",
+    "queseo": "queseó",
+    "quiche": "quiché",
+    "quieta": "quietá",
+    "quiete": "quieté",
+    "quieto": "quietó",
+    "quijon": "quijón",
+    "quimon": "quimón",
+    "quinta": "quintá",
+    "quinte": "quinté",
+    "quinto": "quintó",
+    "quiste": "quíste",
+    "quisto": "quistó",
+    "quitas": "quitás",
+    "quiton": "quitón",
+    "quizas": "quizás",
+    "quiñas": "quiñás",
+    "quiñon": "quiñón",
+    "quidam": "quídam",
+    "quinoa": "quínoa",
+    "quista": "quísta"
+}

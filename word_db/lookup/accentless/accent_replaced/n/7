@@ -1,184 +1,185 @@
-naberia
-naboria
-nacarea
-nacareo
-nacaron
-naceran
-naceras
-naceria
-naciais
-nadaran
-nadaras
-nadaria
-naderia
-nahuatl
-naipeas
-nalguea
-nalguee
-nalgueo
-namoras
-nanceas
-naneais
-naneara
-naneare
-naneeis
-nanquin
-naparan
-naparas
-naparia
-naricea
-naricee
-nariceo
-narigon
-narizon
-narrais
-narrara
-narrare
-narreis
-natatil
-nateron
-nauseas
-nautica
-nautico
-navajea
-navajee
-navajeo
-navajon
-navegas
-navegue
-nazcais
-nebulon
-neceais
-neceara
-neceare
-neceeis
-necrosa
-necrose
-necroso
-negaran
-negaras
-negaria
-negligi
-negocia
-negocie
-negocio
-negreas
-negrece
-negreci
-negueis
-neisica
-neisico
-nemesis
-nenufar
-neofita
-neofito
-neogena
-neogeno
-neologa
-neologo
-nepales
-nescafe
-nesgais
-nesgara
-nesgare
-nespera
-nespilo
-netacea
-netaceo
-neutron
-nevaran
-nevaras
-nevaria
-nevazon
-neveria
-nevisco
-nicolas
-nielais
-nielara
-nielare
-nieleis
-nimbais
-nimbara
-nimbare
-nimbeis
-ninfula
-niquela
-niquele
-niquelo
-niscalo
-nispera
-nispero
-nispola
-nitaino
-nitrais
-nitrara
-nitrare
-nitreis
-nitrica
-nitrico
-nivelas
-nixquea
-nixquee
-nixqueo
-niñeais
-niñeara
-niñeare
-niñeeis
-niñeria
-nodatil
-noetica
-noetico
-nomadea
-nomadee
-nomadeo
-nombras
-nominas
-nonupla
-nonuple
-nonuplo
-noqueas
-nordica
-nordico
-normais
-normara
-normare
-normeis
-norteas
-nostica
-nostico
-notaran
-notaras
-notaria
-notaria
-notarie
-notario
-noticia
-noticie
-noticio
-notomia
-noumeno
-novaran
-novaras
-novaria
-novelas
-novelon
-noviais
-noviara
-noviare
-novieis
-nubazon
-nublais
-nublara
-nublare
-nubleis
-nucleas
-nucleon
-nucleos
-nuegado
-numeras
-numeros
-nutrais
-nutrian
-nutrias
-nutrira
-nutrire
+{
+    "naberia": "nabería",
+    "naboria": "naboría",
+    "nacaron": "nacarón",
+    "naceran": "nacerán",
+    "naceras": "nacerás",
+    "naceria": "nacería",
+    "nacarea": "nacárea",
+    "nacareo": "nacáreo",
+    "naciais": "nacíais",
+    "nadaran": "nadarán",
+    "nadaras": "nadarás",
+    "nadaria": "nadaría",
+    "naderia": "nadería",
+    "naipeas": "naipeás",
+    "nalguea": "nalgueá",
+    "nalguee": "nalgueé",
+    "nalgueo": "nalgueó",
+    "namoras": "namorás",
+    "nanceas": "nanceás",
+    "naneara": "naneará",
+    "naneare": "nanearé",
+    "naneais": "naneáis",
+    "naneeis": "naneéis",
+    "nanquin": "nanquín",
+    "naparan": "naparán",
+    "naparas": "naparás",
+    "naparia": "naparía",
+    "naricea": "nariceá",
+    "naricee": "nariceé",
+    "nariceo": "nariceó",
+    "narigon": "narigón",
+    "narizon": "narizón",
+    "narrara": "narrará",
+    "narrare": "narraré",
+    "narrais": "narráis",
+    "narreis": "narréis",
+    "nateron": "naterón",
+    "natatil": "natátil",
+    "nauseas": "nauseás",
+    "navajea": "navajeá",
+    "navajee": "navajeé",
+    "navajeo": "navajeó",
+    "navajon": "navajón",
+    "navegue": "navegué",
+    "navegas": "navegás",
+    "nazcais": "nazcáis",
+    "nebulon": "nebulón",
+    "neceara": "neceará",
+    "neceare": "necearé",
+    "neceais": "neceáis",
+    "neceeis": "neceéis",
+    "necrosa": "necrosá",
+    "necrose": "necrosé",
+    "necroso": "necrosó",
+    "negaran": "negarán",
+    "negaras": "negarás",
+    "negaria": "negaría",
+    "negligi": "negligí",
+    "negocia": "negociá",
+    "negocie": "negocié",
+    "negocio": "negoció",
+    "negrece": "negrecé",
+    "negreci": "negrecí",
+    "negreas": "negreás",
+    "negueis": "neguéis",
+    "nenufar": "nenúfar",
+    "nepales": "nepalés",
+    "nescafe": "nescafé",
+    "nesgara": "nesgará",
+    "nesgare": "nesgaré",
+    "nesgais": "nesgáis",
+    "netacea": "netácea",
+    "netaceo": "netáceo",
+    "neutron": "neutrón",
+    "nevaran": "nevarán",
+    "nevaras": "nevarás",
+    "nevaria": "nevaría",
+    "nevazon": "nevazón",
+    "neveria": "nevería",
+    "nevisco": "neviscó",
+    "neofita": "neófita",
+    "neofito": "neófito",
+    "neogena": "neógena",
+    "neogeno": "neógeno",
+    "neologa": "neóloga",
+    "neologo": "neólogo",
+    "nicolas": "nicolás",
+    "nielara": "nielará",
+    "nielare": "nielaré",
+    "nielais": "nieláis",
+    "nieleis": "nieléis",
+    "nimbara": "nimbará",
+    "nimbare": "nimbaré",
+    "nimbais": "nimbáis",
+    "nimbeis": "nimbéis",
+    "niquela": "niquelá",
+    "niquele": "niquelé",
+    "niquelo": "niqueló",
+    "nitaino": "nitaíno",
+    "nitrara": "nitrará",
+    "nitrare": "nitraré",
+    "nitrais": "nitráis",
+    "nitreis": "nitréis",
+    "nivelas": "nivelás",
+    "nixquea": "nixqueá",
+    "nixquee": "nixqueé",
+    "nixqueo": "nixqueó",
+    "niñeara": "niñeará",
+    "niñeare": "niñearé",
+    "niñeria": "niñería",
+    "niñeais": "niñeáis",
+    "niñeeis": "niñeéis",
+    "nodatil": "nodátil",
+    "nomadea": "nomadeá",
+    "nomadee": "nomadeé",
+    "nomadeo": "nomadeó",
+    "nombras": "nombrás",
+    "nominas": "nominás",
+    "noqueas": "noqueás",
+    "normara": "normará",
+    "normare": "normaré",
+    "normais": "normáis",
+    "normeis": "norméis",
+    "norteas": "norteás",
+    "notaria": "notaría",
+    "notarie": "notarié",
+    "notario": "notarió",
+    "notaran": "notarán",
+    "notaras": "notarás",
+    "noticia": "noticiá",
+    "noticie": "noticié",
+    "noticio": "notició",
+    "notomia": "notomía",
+    "novaran": "novarán",
+    "novaras": "novarás",
+    "novaria": "novaría",
+    "novelas": "novelás",
+    "novelon": "novelón",
+    "noviara": "noviará",
+    "noviare": "noviaré",
+    "noviais": "noviáis",
+    "novieis": "noviéis",
+    "noetica": "noética",
+    "noetico": "noético",
+    "noumeno": "noúmeno",
+    "nubazon": "nubazón",
+    "nublara": "nublará",
+    "nublare": "nublaré",
+    "nublais": "nubláis",
+    "nubleis": "nubléis",
+    "nucleas": "nucleás",
+    "nucleon": "nucleón",
+    "numeras": "numerás",
+    "nutrira": "nutrirá",
+    "nutrire": "nutriré",
+    "nutrais": "nutráis",
+    "nutrian": "nutrían",
+    "nutrias": "nutrías",
+    "nuegado": "nuégado",
+    "nahuatl": "náhuatl",
+    "nautica": "náutica",
+    "nautico": "náutico",
+    "neisica": "néisica",
+    "neisico": "néisico",
+    "nemesis": "némesis",
+    "nespera": "néspera",
+    "nespilo": "néspilo",
+    "ninfula": "nínfula",
+    "niscalo": "níscalo",
+    "nispera": "níspera",
+    "nispero": "níspero",
+    "nispola": "níspola",
+    "nitrica": "nítrica",
+    "nitrico": "nítrico",
+    "nonupla": "nónupla",
+    "nonuple": "nónuple",
+    "nonuplo": "nónuplo",
+    "nordica": "nórdica",
+    "nordico": "nórdico",
+    "nostica": "nóstica",
+    "nostico": "nóstico",
+    "nucleos": "núcleos",
+    "numeros": "números"
+}

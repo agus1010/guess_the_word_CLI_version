@@ -1,307 +1,282 @@
-gabata
-gachon
-gadida
-gadido
-gafais
-gafara
-gafare
-gafeas
-gafeis
-gafeti
-gaguea
-gaguee
-gagueo
-galata
-galdon
-galeon
-galiba
-galibe
-galibo
-galibo
-galica
-galico
-gallas
-gallea
-gallee
-galleo
-gallon
-galopa
-galope
-galopo
-galpon
-gamita
-gamite
-gamito
-ganais
-ganara
-ganare
-ganeis
-gansea
-gansee
-ganseo
-gantes
-ganzua
-ganzua
-ganzue
-ganzue
-ganzuo
-ganzuo
-garaba
-garbea
-garbee
-garbeo
-garbin
-garbon
-garcia
-garcia
-garfea
-garfee
-garfeo
-gargol
-garlas
-garpas
-garras
-garrea
-garree
-garreo
-garria
-garrio
-garris
-garron
-garvin
-garzon
-garzon
-gascon
-gaseas
-gastas
-gateas
-gaudon
-gavion
-gayais
-gayara
-gayare
-gayeis
-gazmia
-gazmie
-gazmio
-gaznas
-gañais
-gañian
-gañias
-gañira
-gañire
-geiser
-gelais
-gelara
-gelare
-geleis
-gelida
-gelido
-gemian
-gemias
-gemina
-gemina
-gemine
-gemino
-gemino
-gemira
-gemire
-genera
-genere
-genero
-genero
-genero
-genero
-genica
-genico
-genoli
-genoli
-gentio
-genuli
-genuli
-gepida
-gepido
-german
-german
-gestas
-gestea
-gestee
-gesteo
-getica
-getico
-getula
-getulo
-ghanes
-gibais
-gibara
-gibare
-gibeis
-gimais
-girais
-girara
-girare
-gireis
-glasea
-glasee
-glaseo
-gloria
-gloria
-glorie
-glorie
-glorio
-glorio
-glosas
-gloton
-gluglu
-glutea
-gluteo
-goceis
-gofras
-goleas
-golfan
-golfea
-golfee
-golfeo
-golfin
-golpea
-golpee
-golpeo
-gomena
-gonada
-goncea
-goncee
-gonceo
-gorgon
-gorjea
-gorjee
-gorjeo
-gormas
-gorrea
-gorree
-gorreo
-gorrin
-gorron
-gospel
-goteas
-gotele
-gotica
-gotico
-gozais
-gozara
-gozare
-grabas
-gracil
-gradas
-gradua
-gradua
-gradue
-gradue
-graduo
-graduo
-grafia
-grajea
-grajee
-grajeo
-granas
-grance
-granea
-granee
-graneo
-grapas
-gratas
-graten
-gratil
-gratin
-gravas
-grazna
-grazne
-grazno
-grañon
-grieta
-griete
-griete
-grieto
-grifas
-grifen
-grifon
-grilla
-grille
-grille
-grillo
-gripas
-grisea
-grisea
-grisee
-griseo
-griseo
-grison
-gritas
-griton
-griñon
-groais
-groara
-groare
-groeis
-gruian
-gruias
-gruira
-gruire
-grujia
-grujio
-grujis
-gruñia
-gruñis
-gruñon
-guadua
-guaimi
-guajar
-guandu
-guanin
-guapea
-guapee
-guapeo
-guaran
-guarda
-guarde
-guardo
-guarea
-guaree
-guaren
-guareo
-guaria
-guarin
-guario
-guaris
-guarni
-guasea
-guasee
-guasee
-guaseo
-guason
-guatea
-guatee
-guateo
-guaton
-guayas
-guiara
-guiare
-guijon
-guilla
-guille
-guille
-guillo
-guinda
-guinde
-guindo
-guipas
-guisas
-guitas
-guiton
-guizga
-guizgo
-guiñas
-gullan
-gumena
-gustas
-guzman
-guzman
+{
+    "gachon": "gachón",
+    "gafara": "gafará",
+    "gafare": "gafaré",
+    "gafeti": "gafetí",
+    "gafeas": "gafeás",
+    "gafais": "gafáis",
+    "gafeis": "gaféis",
+    "gaguea": "gagueá",
+    "gaguee": "gagueé",
+    "gagueo": "gagueó",
+    "galdon": "galdón",
+    "galeon": "galeón",
+    "galiba": "galibá",
+    "galibe": "galibé",
+    "galibo": "gálibo",
+    "gallea": "galleá",
+    "gallee": "galleé",
+    "galleo": "galleó",
+    "gallas": "gallás",
+    "gallon": "gallón",
+    "galopa": "galopá",
+    "galope": "galopé",
+    "galopo": "galopó",
+    "galpon": "galpón",
+    "gamita": "gamitá",
+    "gamite": "gamité",
+    "gamito": "gamitó",
+    "ganara": "ganará",
+    "ganare": "ganaré",
+    "gansea": "ganseá",
+    "gansee": "ganseé",
+    "ganseo": "ganseó",
+    "gantes": "gantés",
+    "ganzua": "ganzúa",
+    "ganzue": "ganzúe",
+    "ganzuo": "ganzúo",
+    "ganais": "ganáis",
+    "ganeis": "ganéis",
+    "garbea": "garbeá",
+    "garbee": "garbeé",
+    "garbeo": "garbeó",
+    "garbin": "garbín",
+    "garbon": "garbón",
+    "garcia": "garcía",
+    "garfea": "garfeá",
+    "garfee": "garfeé",
+    "garfeo": "garfeó",
+    "garlas": "garlás",
+    "garpas": "garpás",
+    "garrea": "garreá",
+    "garree": "garreé",
+    "garreo": "garreó",
+    "garrio": "garrió",
+    "garras": "garrás",
+    "garria": "garría",
+    "garris": "garrís",
+    "garron": "garrón",
+    "garvin": "garvín",
+    "garzon": "garzón",
+    "gascon": "gascón",
+    "gaseas": "gaseás",
+    "gastas": "gastás",
+    "gateas": "gateás",
+    "gaudon": "gaudón",
+    "gavion": "gavión",
+    "gayara": "gayará",
+    "gayare": "gayaré",
+    "gayais": "gayáis",
+    "gayeis": "gayéis",
+    "gazmia": "gazmiá",
+    "gazmie": "gazmié",
+    "gazmio": "gazmió",
+    "gaznas": "gaznás",
+    "gañira": "gañirá",
+    "gañire": "gañiré",
+    "gañais": "gañáis",
+    "gañian": "gañían",
+    "gañias": "gañías",
+    "gelara": "gelará",
+    "gelare": "gelaré",
+    "gelais": "geláis",
+    "geleis": "geléis",
+    "gemina": "gémina",
+    "gemine": "geminé",
+    "gemino": "gémino",
+    "gemira": "gemirá",
+    "gemire": "gemiré",
+    "gemian": "gemían",
+    "gemias": "gemías",
+    "genera": "generá",
+    "genere": "generé",
+    "genero": "género",
+    "genoli": "génoli",
+    "gentio": "gentío",
+    "genuli": "génuli",
+    "german": "germán",
+    "gestea": "gesteá",
+    "gestee": "gesteé",
+    "gesteo": "gesteó",
+    "gestas": "gestás",
+    "ghanes": "ghanés",
+    "gibara": "gibará",
+    "gibare": "gibaré",
+    "gibais": "gibáis",
+    "gibeis": "gibéis",
+    "gimais": "gimáis",
+    "girara": "girará",
+    "girare": "giraré",
+    "girais": "giráis",
+    "gireis": "giréis",
+    "glasea": "glaseá",
+    "glasee": "glaseé",
+    "glaseo": "glaseó",
+    "gloria": "gloría",
+    "glorie": "gloríe",
+    "glorio": "glorío",
+    "glosas": "glosás",
+    "gloton": "glotón",
+    "gluglu": "gluglú",
+    "glutea": "glútea",
+    "gluteo": "glúteo",
+    "goceis": "gocéis",
+    "gofras": "gofrás",
+    "goleas": "goleás",
+    "golfea": "golfeá",
+    "golfee": "golfeé",
+    "golfeo": "golfeó",
+    "golfan": "golfán",
+    "golfin": "golfín",
+    "golpea": "golpeá",
+    "golpee": "golpeé",
+    "golpeo": "golpeó",
+    "goncea": "gonceá",
+    "goncee": "gonceé",
+    "gonceo": "gonceó",
+    "gorgon": "gorgón",
+    "gorjea": "gorjeá",
+    "gorjee": "gorjeé",
+    "gorjeo": "gorjeó",
+    "gormas": "gormás",
+    "gorrea": "gorreá",
+    "gorree": "gorreé",
+    "gorreo": "gorreó",
+    "gorrin": "gorrín",
+    "gorron": "gorrón",
+    "gotele": "gotelé",
+    "goteas": "goteás",
+    "gozara": "gozará",
+    "gozare": "gozaré",
+    "gozais": "gozáis",
+    "grabas": "grabás",
+    "gradua": "gradúa",
+    "gradue": "gradúe",
+    "graduo": "gradúo",
+    "gradas": "gradás",
+    "grafia": "grafía",
+    "grajea": "grajeá",
+    "grajee": "grajeé",
+    "grajeo": "grajeó",
+    "grance": "grancé",
+    "granea": "graneá",
+    "granee": "graneé",
+    "graneo": "graneó",
+    "granas": "granás",
+    "grapas": "grapás",
+    "gratas": "gratás",
+    "graten": "gratén",
+    "gratin": "gratín",
+    "gravas": "gravás",
+    "grazna": "grazná",
+    "grazne": "grazné",
+    "grazno": "graznó",
+    "grañon": "grañón",
+    "griete": "griéte",
+    "grieto": "grietó",
+    "grifas": "grifás",
+    "grifon": "grifón",
+    "grille": "grílle",
+    "grillo": "grilló",
+    "gripas": "gripás",
+    "grisea": "grísea",
+    "grisee": "griseé",
+    "griseo": "gríseo",
+    "grison": "grisón",
+    "gritas": "gritás",
+    "griton": "gritón",
+    "grieta": "griéta",
+    "griñon": "griñón",
+    "groara": "groará",
+    "groare": "groaré",
+    "groais": "groáis",
+    "groeis": "groéis",
+    "gruira": "gruirá",
+    "gruire": "gruiré",
+    "grujio": "grujió",
+    "grujia": "grujía",
+    "grujis": "grujís",
+    "gruian": "gruían",
+    "gruias": "gruías",
+    "gruñia": "gruñía",
+    "gruñis": "gruñís",
+    "gruñon": "gruñón",
+    "gracil": "grácil",
+    "gratil": "grátil",
+    "grifen": "grífen",
+    "grilla": "grílla",
+    "guadua": "guadúa",
+    "guaimi": "guaimí",
+    "guandu": "guandú",
+    "guanin": "guanín",
+    "guapea": "guapeá",
+    "guapee": "guapeé",
+    "guapeo": "guapeó",
+    "guarda": "guardá",
+    "guarde": "guardé",
+    "guardo": "guardó",
+    "guarea": "guareá",
+    "guaree": "guareé",
+    "guareo": "guareó",
+    "guario": "guarió",
+    "guarni": "guarní",
+    "guaran": "guarán",
+    "guaren": "guarén",
+    "guaria": "guaría",
+    "guarin": "guarín",
+    "guaris": "guarís",
+    "guasee": "guasée",
+    "guaseo": "guaseó",
+    "guasea": "guaséa",
+    "guason": "guasón",
+    "guatea": "guateá",
+    "guatee": "guateé",
+    "guateo": "guateó",
+    "guaton": "guatón",
+    "guayas": "guayás",
+    "guiara": "guiará",
+    "guiare": "guiaré",
+    "guijon": "guijón",
+    "guille": "guílle",
+    "guillo": "guilló",
+    "guinda": "guindá",
+    "guinde": "guindé",
+    "guindo": "guindó",
+    "guipas": "guipás",
+    "guisas": "guisás",
+    "guitas": "guitás",
+    "guiton": "guitón",
+    "guizga": "guizgá",
+    "guizgo": "guizgó",
+    "guiñas": "guiñás",
+    "gullan": "gullán",
+    "gustas": "gustás",
+    "guzman": "guzmán",
+    "guajar": "guájar",
+    "guilla": "guílla",
+    "gabata": "gábata",
+    "gadida": "gádida",
+    "gadido": "gádido",
+    "galata": "gálata",
+    "galica": "gálica",
+    "galico": "gálico",
+    "garaba": "gáraba",
+    "gargol": "gárgol",
+    "geiser": "géiser",
+    "gelida": "gélida",
+    "gelido": "gélido",
+    "genica": "génica",
+    "genico": "génico",
+    "gepida": "gépida",
+    "gepido": "gépido",
+    "getica": "gética",
+    "getico": "gético",
+    "getula": "gétula",
+    "getulo": "gétulo",
+    "gomena": "gómena",
+    "gonada": "gónada",
+    "gospel": "góspel",
+    "gotica": "gótica",
+    "gotico": "gótico",
+    "gumena": "gúmena"
+}

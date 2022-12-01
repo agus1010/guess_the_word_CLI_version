@@ -1,114 +1,105 @@
-dahir
-dalla
-dalle
-dallo
-dance
-danes
-danza
-danzo
-daqui
-daran
-daran
-daras
-daria
-daria
-dario
-datas
-datea
-datee
-dateo
-datil
-dauda
-dañas
-debes
-debia
-debia
-debil
-debil
-debio
-debio
-decae
-decai
-decia
-decia
-decis
-dejas
-demas
-demas
-denta
-dente
-dento
-depon
-desda
-desde
-desdi
-desea
-desee
-deseo
-desoi
-desus
-deten
-deven
-dezma
-dezme
-dezmo
-diada
-dicta
-dicte
-dicto
-dieta
-diete
-dieto
-digna
-digne
-digne
-digno
-dilui
-diran
-diras
-diria
-diria
-disca
-disco
-dison
-dista
-diste
-disto
-divan
-diñas
-dobla
-doble
-doblo
-docil
-dogon
-dolar
-dolar
-doles
-dolia
-dolio
-domas
-donas
-donde
-donde
-donut
-dopas
-doras
-dormi
-dotas
-doñea
-doñee
-doñeo
-draga
-drago
-drena
-drene
-dreno
-droga
-drogo
-ducha
-duche
-ducho
-dudas
-dulia
-duran
-duras
+{
+    "dahir": "dahír",
+    "dalla": "dallá",
+    "dalle": "dallé",
+    "dallo": "dalló",
+    "dance": "dancé",
+    "danza": "danzá",
+    "danzo": "danzó",
+    "danes": "danés",
+    "daqui": "daquí",
+    "daran": "darán",
+    "daras": "darás",
+    "daria": "daría",
+    "dario": "darío",
+    "datea": "dateá",
+    "datee": "dateé",
+    "dateo": "dateó",
+    "datas": "datás",
+    "dauda": "daudá",
+    "dañas": "dañás",
+    "debio": "debió",
+    "debes": "debés",
+    "debia": "debía",
+    "decae": "decaé",
+    "decai": "decaí",
+    "decia": "decía",
+    "decis": "decís",
+    "dejas": "dejás",
+    "demas": "demás",
+    "denta": "dentá",
+    "dente": "denté",
+    "dento": "dentó",
+    "depon": "depón",
+    "desda": "desdá",
+    "desde": "desdé",
+    "desdi": "desdí",
+    "desea": "deseá",
+    "desee": "deseé",
+    "deseo": "deseó",
+    "desoi": "desoí",
+    "desus": "desús",
+    "deten": "detén",
+    "deven": "devén",
+    "dezma": "dezmá",
+    "dezme": "dezmé",
+    "dezmo": "dezmó",
+    "dicta": "dictá",
+    "dicte": "dicté",
+    "dicto": "dictó",
+    "dieta": "dietá",
+    "diete": "dieté",
+    "dieto": "dietó",
+    "digne": "dígne",
+    "digno": "dignó",
+    "dilui": "diluí",
+    "diran": "dirán",
+    "diras": "dirás",
+    "diria": "diría",
+    "disca": "discá",
+    "disco": "discó",
+    "dista": "distá",
+    "diste": "disté",
+    "disto": "distó",
+    "dison": "disón",
+    "divan": "diván",
+    "diñas": "diñás",
+    "dobla": "doblá",
+    "doble": "doblé",
+    "doblo": "dobló",
+    "dogon": "dogón",
+    "dolio": "dolió",
+    "doles": "dolés",
+    "dolia": "dolía",
+    "domas": "domás",
+    "donas": "donás",
+    "dopas": "dopás",
+    "dormi": "dormí",
+    "doras": "dorás",
+    "dotas": "dotás",
+    "doñea": "doñeá",
+    "doñee": "doñeé",
+    "doñeo": "doñeó",
+    "draga": "dragá",
+    "drago": "dragó",
+    "drena": "drená",
+    "drene": "drené",
+    "dreno": "drenó",
+    "droga": "drogá",
+    "drogo": "drogó",
+    "ducha": "duchá",
+    "duche": "duché",
+    "ducho": "duchó",
+    "dudas": "dudás",
+    "dulia": "dulía",
+    "duran": "durán",
+    "duras": "durás",
+    "datil": "dátil",
+    "debil": "débil",
+    "diada": "díada",
+    "digna": "dígna",
+    "docil": "dócil",
+    "dolar": "dólar",
+    "donde": "dónde",
+    "donut": "dónut"
+}

@@ -1,145 +1,139 @@
-haber
-habia
-habia
-habil
-habla
-hable
-hable
-hablo
-hablo
-habon
-habra
-habra
-habre
-habus
-hacan
-haces
-hacha
-hache
-hacho
-hacia
-hacia
-haiku
-haiti
-halas
-halla
-halle
-hallo
-halon
-hapax
-haran
-haran
-haras
-harba
-harbe
-harbo
-haren
-haria
-haria
-haron
-harta
-harte
-harto
-hatea
-hatee
-hateo
-heben
-hedes
-hedia
-hedio
-helas
-helea
-helee
-heleo
-hende
-hendi
-herba
-herbe
-herbo
-heria
-heris
-heroe
-heroe
-herra
-herre
-herro
-herve
-hervi
-heñia
-heñis
-higui
-hijea
-hijee
-hijeo
-hilas
-himpa
-himpe
-himpo
-hinca
-hinco
-hindu
-hipas
-hiper
-hirio
-hirma
-hirme
-hirmo
-hispi
-hitas
-hiton
-hojea
-hojee
-hojeo
-holan
-holea
-holee
-holeo
-holga
-holgo
-holla
-holle
-hollo
-honra
-honre
-honro
-hopas
-hopea
-hopee
-hopen
-hopeo
-horna
-horne
-horno
-horra
-horre
-horro
-hoyas
-hozas
-hueva
-hueve
-huevo
-huian
-huias
-huira
-huire
-hulas
-hulea
-hulee
-huleo
-humas
-humea
-humee
-humeo
-humil
-hundi
-hurga
-hurgo
-huron
-hurta
-hurte
-hurto
-husar
-husma
-husme
-husmo
-hutia
+{
+    "habla": "hablá",
+    "hable": "hablé",
+    "hablo": "habló",
+    "habra": "habrá",
+    "habre": "habré",
+    "habia": "había",
+    "habon": "habón",
+    "habus": "habús",
+    "hacha": "hachá",
+    "hache": "haché",
+    "hacho": "hachó",
+    "hacan": "hacán",
+    "haces": "hacés",
+    "hacia": "hacía",
+    "haiku": "haikú",
+    "haiti": "haití",
+    "halla": "hallá",
+    "halle": "hallé",
+    "hallo": "halló",
+    "halas": "halás",
+    "halon": "halón",
+    "harba": "harbá",
+    "harbe": "harbé",
+    "harbo": "harbó",
+    "harta": "hartá",
+    "harte": "harté",
+    "harto": "hartó",
+    "haran": "harán",
+    "haras": "harás",
+    "haren": "harén",
+    "haria": "haría",
+    "haron": "harón",
+    "hatea": "hateá",
+    "hatee": "hateé",
+    "hateo": "hateó",
+    "heben": "hebén",
+    "hedio": "hedió",
+    "hedes": "hedés",
+    "hedia": "hedía",
+    "helea": "heleá",
+    "helee": "heleé",
+    "heleo": "heleó",
+    "helas": "helás",
+    "hende": "hendé",
+    "hendi": "hendí",
+    "herba": "herbá",
+    "herbe": "herbé",
+    "herbo": "herbó",
+    "herra": "herrá",
+    "herre": "herré",
+    "herro": "herró",
+    "herve": "hervé",
+    "hervi": "herví",
+    "heria": "hería",
+    "heris": "herís",
+    "heñia": "heñía",
+    "heñis": "heñís",
+    "higui": "higuí",
+    "hijea": "hijeá",
+    "hijee": "hijeé",
+    "hijeo": "hijeó",
+    "hilas": "hilás",
+    "himpa": "himpá",
+    "himpe": "himpé",
+    "himpo": "himpó",
+    "hinca": "hincá",
+    "hinco": "hincó",
+    "hindu": "hindú",
+    "hipas": "hipás",
+    "hirio": "hirió",
+    "hirma": "hirmá",
+    "hirme": "hirmé",
+    "hirmo": "hirmó",
+    "hispi": "hispí",
+    "hitas": "hitás",
+    "hiton": "hitón",
+    "hojea": "hojeá",
+    "hojee": "hojeé",
+    "hojeo": "hojeó",
+    "holea": "holeá",
+    "holee": "holeé",
+    "holeo": "holeó",
+    "holga": "holgá",
+    "holgo": "holgó",
+    "holla": "hollá",
+    "holle": "hollé",
+    "hollo": "holló",
+    "holan": "holán",
+    "honra": "honrá",
+    "honre": "honré",
+    "honro": "honró",
+    "hopea": "hopeá",
+    "hopee": "hopeé",
+    "hopeo": "hopeó",
+    "hopas": "hopás",
+    "horna": "horná",
+    "horne": "horné",
+    "horno": "hornó",
+    "horra": "horrá",
+    "horre": "horré",
+    "horro": "horró",
+    "hoyas": "hoyás",
+    "hozas": "hozás",
+    "hueva": "huevá",
+    "hueve": "huevé",
+    "huevo": "huevó",
+    "huira": "huirá",
+    "huire": "huiré",
+    "hulea": "huleá",
+    "hulee": "huleé",
+    "huleo": "huleó",
+    "hulas": "hulás",
+    "humea": "humeá",
+    "humee": "humeé",
+    "humeo": "humeó",
+    "humas": "humás",
+    "hundi": "hundí",
+    "hurga": "hurgá",
+    "hurgo": "hurgó",
+    "hurta": "hurtá",
+    "hurte": "hurté",
+    "hurto": "hurtó",
+    "huron": "hurón",
+    "husma": "husmá",
+    "husme": "husmé",
+    "husmo": "husmó",
+    "hutia": "hutía",
+    "huian": "huían",
+    "huias": "huías",
+    "haber": "háber",
+    "habil": "hábil",
+    "hapax": "hápax",
+    "heroe": "héroe",
+    "hiper": "híper",
+    "hopen": "hópen",
+    "humil": "húmil",
+    "husar": "húsar"
+}

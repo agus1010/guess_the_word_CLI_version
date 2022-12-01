@@ -1,105 +1,102 @@
-ubicais
-ubicara
-ubicare
-ucronia
-ufanais
-ufanara
-ufanare
-ufaneis
-ufologa
-ufologo
-ugandes
-ulceras
-ulmacea
-ulmaceo
-ultimas
-ultimas
-ultimos
-ultraja
-ultraje
-ultrajo
-ululais
-ululara
-ululare
-ululeis
-umbrala
-umbrale
-umbralo
-unanime
-unanime
-unciais
-unciran
-unciras
-unciria
-undulas
-ungiais
-ungiran
-ungiras
-ungiria
-uniamos
-unifica
-unifico
-unipede
-unireis
-unirian
-unirias
-unisona
-unisono
-univoca
-univoca
-univoco
-univoco
-untaran
-untaras
-untaria
-upareis
-uparian
-uparias
-uperice
-uperiza
-uperizo
-urajeas
-uralica
-uralico
-urdiais
-urdiran
-urdiras
-urdiria
-uremica
-uremico
-uretera
-uretica
-uretico
-urgiais
-urgiran
-urgiras
-urgiria
-urologa
-urologo
-usareis
-usarian
-usarias
-usteais
-usteara
-usteare
-ustedea
-ustedee
-ustedeo
-usteeis
-usurais
-usurara
-usurare
-usureas
-usureis
-usurpas
-utilice
-utiliza
-utilizo
-utilizo
-utopica
-utopico
-uveitis
-uñiamos
-uñireis
-uñirian
-uñirias
+{
+    "ubicara": "ubicará",
+    "ubicare": "ubicaré",
+    "ubicais": "ubicáis",
+    "ucronia": "ucronía",
+    "ufanara": "ufanará",
+    "ufanare": "ufanaré",
+    "ufanais": "ufanáis",
+    "ufaneis": "ufanéis",
+    "ufologa": "ufóloga",
+    "ufologo": "ufólogo",
+    "ugandes": "ugandés",
+    "ulceras": "ulcerás",
+    "ulmacea": "ulmácea",
+    "ulmaceo": "ulmáceo",
+    "ultimas": "últimas",
+    "ultraja": "ultrajá",
+    "ultraje": "ultrajé",
+    "ultrajo": "ultrajó",
+    "ululara": "ululará",
+    "ululare": "ulularé",
+    "ululais": "ululáis",
+    "ululeis": "ululéis",
+    "umbrala": "umbralá",
+    "umbrale": "umbralé",
+    "umbralo": "umbraló",
+    "unciran": "uncirán",
+    "unciras": "uncirás",
+    "unciria": "unciría",
+    "unciais": "uncíais",
+    "undulas": "undulás",
+    "ungiran": "ungirán",
+    "ungiras": "ungirás",
+    "ungiria": "ungiría",
+    "ungiais": "ungíais",
+    "unifica": "unificá",
+    "unifico": "unificó",
+    "unireis": "uniréis",
+    "unirian": "unirían",
+    "unirias": "unirías",
+    "univoco": "unívoco",
+    "univoca": "unívoca",
+    "untaran": "untarán",
+    "untaras": "untarás",
+    "untaria": "untaría",
+    "unanime": "unánime",
+    "uniamos": "uníamos",
+    "unipede": "unípede",
+    "unisona": "unísona",
+    "unisono": "unísono",
+    "upareis": "uparéis",
+    "uparian": "uparían",
+    "uparias": "uparías",
+    "uperice": "upericé",
+    "uperiza": "uperizá",
+    "uperizo": "uperizó",
+    "urajeas": "urajeás",
+    "urdiran": "urdirán",
+    "urdiras": "urdirás",
+    "urdiria": "urdiría",
+    "urdiais": "urdíais",
+    "urgiran": "urgirán",
+    "urgiras": "urgirás",
+    "urgiria": "urgiría",
+    "urgiais": "urgíais",
+    "uralica": "urálica",
+    "uralico": "urálico",
+    "uremica": "urémica",
+    "uremico": "urémico",
+    "uretera": "urétera",
+    "uretica": "urética",
+    "uretico": "urético",
+    "urologa": "uróloga",
+    "urologo": "urólogo",
+    "usareis": "usaréis",
+    "usarian": "usarían",
+    "usarias": "usarías",
+    "usteara": "usteará",
+    "usteare": "ustearé",
+    "ustedea": "ustedeá",
+    "ustedee": "ustedeé",
+    "ustedeo": "ustedeó",
+    "usteais": "usteáis",
+    "usteeis": "usteéis",
+    "usurara": "usurará",
+    "usurare": "usuraré",
+    "usureas": "usureás",
+    "usurpas": "usurpás",
+    "usurais": "usuráis",
+    "usureis": "usuréis",
+    "utilice": "utilicé",
+    "utiliza": "utilizá",
+    "utilizo": "utilizó",
+    "utopica": "utópica",
+    "utopico": "utópico",
+    "uveitis": "uveítis",
+    "uñireis": "uñiréis",
+    "uñirian": "uñirían",
+    "uñirias": "uñirías",
+    "uñiamos": "uñíamos",
+    "ultimos": "últimos"
+}

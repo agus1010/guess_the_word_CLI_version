@@ -1,17 +1,19 @@
-yaces
-yacia
-yacio
-yacon
-yaiti
-yambu
-yanta
-yante
-yanto
-yapas
-yaque
-yatai
-yerma
-yerme
-yermo
-yeson
-yodas
+{
+    "yacio": "yació",
+    "yaces": "yacés",
+    "yacia": "yacía",
+    "yacon": "yacón",
+    "yaiti": "yaití",
+    "yambu": "yambú",
+    "yanta": "yantá",
+    "yante": "yanté",
+    "yanto": "yantó",
+    "yapas": "yapás",
+    "yaque": "yaqué",
+    "yatai": "yataí",
+    "yerma": "yermá",
+    "yerme": "yermé",
+    "yermo": "yermó",
+    "yeson": "yesón",
+    "yodas": "yodás"
+}

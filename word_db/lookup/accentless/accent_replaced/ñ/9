@@ -1,15 +1,17 @@
-ñampeando
-ñampearan
-ñampearas
-ñampearia
-ñangotais
-ñangotara
-ñangotare
-ñangoteis
-ñangueais
-ñangueara
-ñangueare
-ñangueeis
-ñateareis
-ñatearian
-ñatearias
+{
+    "ñampearan": "ñampearán",
+    "ñampearas": "ñampearás",
+    "ñampearia": "ñampearía",
+    "ñampeando": "ñampeándo",
+    "ñangotara": "ñangotará",
+    "ñangotare": "ñangotaré",
+    "ñangotais": "ñangotáis",
+    "ñangoteis": "ñangotéis",
+    "ñangueara": "ñangueará",
+    "ñangueare": "ñanguearé",
+    "ñangueais": "ñangueáis",
+    "ñangueeis": "ñangueéis",
+    "ñateareis": "ñatearéis",
+    "ñatearian": "ñatearían",
+    "ñatearias": "ñatearías"
+}

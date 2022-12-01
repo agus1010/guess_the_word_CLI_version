@@ -1,175 +1,150 @@
-vacas
-vacia
-vacia
-vacia
-vacie
-vacie
-vacio
-vacio
-vacio
-vadea
-vadee
-vadeo
-vagas
-vagon
-vague
-vahas
-vahea
-vahee
-vaheo
-vaida
-vajea
-vajee
-vajeo
-vales
-valia
-valia
-valio
-valla
-valle
-vallo
-valon
-valsa
-valse
-valso
-valua
-valua
-value
-value
-valuo
-valuo
-vanea
-vanee
-vaneo
-vapea
-vapee
-vapeo
-vaque
-varas
-varea
-varee
-vareo
-varia
-varia
-varia
-varie
-varie
-vario
-vario
-varon
-varon
-vater
-veais
-vease
-vedas
-veian
-veian
-veias
-vejas
-velas
-velez
-velis
-velon
-vence
-venci
-venda
-vende
-vendi
-vendo
-venga
-vengo
-venia
-venia
-venis
-venta
-vente
-vento
-veran
-veran
-veras
-veras
-verge
-veria
-veria
-vermu
-versa
-verse
-verso
-verte
-verti
-vesti
-vetas
-vetea
-vetee
-veteo
-veton
-vezas
-viaja
-viaje
-viajo
-viajo
-vibra
-vibre
-vibro
-vicha
-viche
-vichi
-vicho
-vicia
-vicie
-vicio
-video
-video
-vidon
-vigia
-vigia
-vigie
-vigie
-vigio
-vigio
-vinea
-vinee
-vineo
-viola
-viole
-violo
-viras
-vireo
-viron
-visas
-visea
-visee
-viseo
-vison
-vitas
-vitor
-vivas
-vivia
-vivia
-vivio
-vivio
-vivis
-vivon
-voace
-vocea
-vocee
-voceo
-volas
-volca
-volco
-volea
-volee
-voleo
-voley
-volon
-volve
-volvi
-volvi
-vomer
-vosea
-vosee
-voseo
-votas
-vozna
-vozne
-vozno
+{
+    "vacia": "vacía",
+    "vacie": "vacíe",
+    "vacio": "vacío",
+    "vacas": "vacás",
+    "vadea": "vadeá",
+    "vadee": "vadeé",
+    "vadeo": "vadeó",
+    "vague": "vagué",
+    "vagas": "vagás",
+    "vagon": "vagón",
+    "vahea": "vaheá",
+    "vahee": "vaheé",
+    "vaheo": "vaheó",
+    "vahas": "vahás",
+    "vajea": "vajeá",
+    "vajee": "vajeé",
+    "vajeo": "vajeó",
+    "valio": "valió",
+    "valla": "vallá",
+    "valle": "vallé",
+    "vallo": "valló",
+    "valsa": "valsá",
+    "valse": "valsé",
+    "valso": "valsó",
+    "valua": "valúa",
+    "value": "valúe",
+    "valuo": "valúo",
+    "vales": "valés",
+    "valia": "valía",
+    "valon": "valón",
+    "vanea": "vaneá",
+    "vanee": "vaneé",
+    "vaneo": "vaneó",
+    "vapea": "vapeá",
+    "vapee": "vapeé",
+    "vapeo": "vapeó",
+    "vaque": "vaqué",
+    "varea": "vareá",
+    "varee": "vareé",
+    "vareo": "vareó",
+    "varia": "varía",
+    "varie": "varíe",
+    "vario": "varío",
+    "varas": "varás",
+    "varon": "varón",
+    "vaida": "vaída",
+    "vedas": "vedás",
+    "vejas": "vejás",
+    "velas": "velás",
+    "velis": "velís",
+    "velon": "velón",
+    "vence": "vencé",
+    "venci": "vencí",
+    "venda": "vendá",
+    "vende": "vendé",
+    "vendi": "vendí",
+    "vendo": "vendó",
+    "venga": "vengá",
+    "vengo": "vengó",
+    "venta": "ventá",
+    "vente": "venté",
+    "vento": "ventó",
+    "venia": "venía",
+    "venis": "venís",
+    "verge": "vergé",
+    "vermu": "vermú",
+    "versa": "versá",
+    "verse": "versé",
+    "verso": "versó",
+    "verte": "verté",
+    "verti": "vertí",
+    "veran": "verán",
+    "veras": "verás",
+    "veria": "vería",
+    "vesti": "vestí",
+    "vetea": "veteá",
+    "vetee": "veteé",
+    "veteo": "veteó",
+    "vetas": "vetás",
+    "veton": "vetón",
+    "vezas": "vezás",
+    "veais": "veáis",
+    "veian": "veían",
+    "veias": "veías",
+    "viaja": "viajá",
+    "viaje": "viajé",
+    "viajo": "viajó",
+    "vibra": "vibrá",
+    "vibre": "vibré",
+    "vibro": "vibró",
+    "vicha": "vichá",
+    "viche": "viché",
+    "vichi": "vichí",
+    "vicho": "vichó",
+    "vicia": "viciá",
+    "vicie": "vicié",
+    "vicio": "vició",
+    "vidon": "vidón",
+    "vigia": "vigía",
+    "vigie": "vigíe",
+    "vigio": "vigío",
+    "vinea": "vineá",
+    "vinee": "vineé",
+    "vineo": "vineó",
+    "viola": "violá",
+    "viole": "violé",
+    "violo": "violó",
+    "viras": "virás",
+    "viron": "virón",
+    "visea": "viseá",
+    "visee": "viseé",
+    "viseo": "viseó",
+    "visas": "visás",
+    "vison": "visón",
+    "vitas": "vitás",
+    "vivio": "vivió",
+    "vivas": "vivás",
+    "vivia": "vivía",
+    "vivis": "vivís",
+    "vivon": "vivón",
+    "voace": "voacé",
+    "vocea": "voceá",
+    "vocee": "voceé",
+    "voceo": "voceó",
+    "volca": "volcá",
+    "volco": "volcó",
+    "volea": "voleá",
+    "volee": "voleé",
+    "voleo": "voleó",
+    "volve": "volvé",
+    "volvi": "volví",
+    "volas": "volás",
+    "volon": "volón",
+    "vosea": "voseá",
+    "vosee": "voseé",
+    "voseo": "voseó",
+    "votas": "votás",
+    "vozna": "vozná",
+    "vozne": "vozné",
+    "vozno": "voznó",
+    "vater": "váter",
+    "vease": "véase",
+    "velez": "vélez",
+    "video": "vídeo",
+    "vireo": "víreo",
+    "vitor": "vítor",
+    "voley": "vóley",
+    "vomer": "vómer"
+}

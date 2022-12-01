@@ -1,161 +1,156 @@
-jabali
-jabeca
-jabega
-jabiru
-jabona
-jabone
-jabono
-jacara
-jacaro
-jacena
-jachon
-jactas
-jaculo
-jadeas
-jaenes
-jaezas
-jahari
-jalais
-jalara
-jalare
-jaleas
-jaleis
-jalona
-jalone
-jalono
-jamais
-jamara
-jamare
-jambas
-jamben
-jameis
-jamila
-jamuas
-jamura
-jamure
-jamuro
-jaquea
-jaquee
-jaqueo
-jaquer
-jaques
-jaraiz
-jarbas
-jarcia
-jarcie
-jarcio
-jardin
-jardin
-jaropa
-jarope
-jaropo
-jarras
-jarrea
-jarree
-jarreo
-jarron
-jasais
-jasara
-jasare
-jaseis
-jaspea
-jaspee
-jaspeo
-jaspon
-jauria
-jazmin
-jergon
-jeteas
-jibara
-jibaro
-jibion
-jicama
-jicara
-jicaro
-jimais
-jimara
-jimare
-jimeis
-jimpla
-jimple
-jimplo
-jingla
-jingle
-jinglo
-jinjol
-jipian
-jipias
-jipias
-jipien
-jipies
-jiride
-jirpea
-jirpee
-jirpeo
-jiñais
-jiñara
-jiñare
-jiñeis
-jochas
-jodais
-jodeis
-jodera
-jodere
-jodian
-jodias
-jodion
-jollin
-jonica
-jonico
-jonron
-jopais
-jopara
-jopare
-jopeas
-jopeis
-jordan
-joroba
-jorobe
-jorobo
-joseas
-juarez
-jubila
-jubile
-jubilo
-jubilo
-jubilo
-jucaro
-judion
-judios
-jugais
-jugara
-jugara
-jugare
-juilin
-julian
-jumais
-jumara
-jumare
-jumeas
-jumeis
-juncea
-junceo
-juncia
-juncio
-juncis
-junior
-juntas
-jupeas
-juquea
-juquea
-juquee
-juquee
-juqueo
-jurais
-jurara
-jurare
-jurdia
-jureis
-justas
-juzgas
-juzgue
+{
+    "jabali": "jabalí",
+    "jabiru": "jabirú",
+    "jabona": "jaboná",
+    "jabone": "jaboné",
+    "jabono": "jabonó",
+    "jachon": "jachón",
+    "jactas": "jactás",
+    "jadeas": "jadeás",
+    "jaenes": "jaenés",
+    "jaezas": "jaezás",
+    "jahari": "jaharí",
+    "jalara": "jalará",
+    "jalare": "jalaré",
+    "jaleas": "jaleás",
+    "jalona": "jaloná",
+    "jalone": "jaloné",
+    "jalono": "jalonó",
+    "jalais": "jaláis",
+    "jaleis": "jaléis",
+    "jamara": "jamará",
+    "jamare": "jamaré",
+    "jambas": "jambás",
+    "jamura": "jamurá",
+    "jamure": "jamuré",
+    "jamuro": "jamuró",
+    "jamais": "jamáis",
+    "jameis": "jaméis",
+    "jamuas": "jamúas",
+    "jaquea": "jaqueá",
+    "jaquee": "jaqueé",
+    "jaqueo": "jaqueó",
+    "jaques": "jaqués",
+    "jaraiz": "jaraíz",
+    "jarbas": "jarbás",
+    "jarcia": "jarciá",
+    "jarcie": "jarcié",
+    "jarcio": "jarció",
+    "jardin": "jardín",
+    "jaropa": "jaropá",
+    "jarope": "jaropé",
+    "jaropo": "jaropó",
+    "jarrea": "jarreá",
+    "jarree": "jarreé",
+    "jarreo": "jarreó",
+    "jarras": "jarrás",
+    "jarron": "jarrón",
+    "jasara": "jasará",
+    "jasare": "jasaré",
+    "jaspea": "jaspeá",
+    "jaspee": "jaspeé",
+    "jaspeo": "jaspeó",
+    "jaspon": "jaspón",
+    "jasais": "jasáis",
+    "jaseis": "jaséis",
+    "jauria": "jauría",
+    "jazmin": "jazmín",
+    "jergon": "jergón",
+    "jeteas": "jeteás",
+    "jibion": "jibión",
+    "jimara": "jimará",
+    "jimare": "jimaré",
+    "jimpla": "jimplá",
+    "jimple": "jimplé",
+    "jimplo": "jimpló",
+    "jimais": "jimáis",
+    "jimeis": "jiméis",
+    "jingla": "jinglá",
+    "jingle": "jinglé",
+    "jinglo": "jingló",
+    "jipias": "jipías",
+    "jipian": "jipían",
+    "jipien": "jipíen",
+    "jipies": "jipíes",
+    "jirpea": "jirpeá",
+    "jirpee": "jirpeé",
+    "jirpeo": "jirpeó",
+    "jiñara": "jiñará",
+    "jiñare": "jiñaré",
+    "jiñais": "jiñáis",
+    "jiñeis": "jiñéis",
+    "jochas": "jochás",
+    "jodera": "joderá",
+    "jodere": "joderé",
+    "jodion": "jodión",
+    "jodais": "jodáis",
+    "jodeis": "jodéis",
+    "jodian": "jodían",
+    "jodias": "jodías",
+    "jollin": "jollín",
+    "jonron": "jonrón",
+    "jopara": "jopará",
+    "jopare": "joparé",
+    "jopeas": "jopeás",
+    "jopais": "jopáis",
+    "jopeis": "jopéis",
+    "jordan": "jordán",
+    "joroba": "jorobá",
+    "jorobe": "jorobé",
+    "jorobo": "jorobó",
+    "joseas": "joseás",
+    "jubila": "jubilá",
+    "jubile": "jubilé",
+    "jubilo": "júbilo",
+    "judion": "judión",
+    "judios": "judíos",
+    "jugara": "jugará",
+    "jugare": "jugaré",
+    "jugais": "jugáis",
+    "juilin": "juilín",
+    "julian": "julián",
+    "jumara": "jumará",
+    "jumare": "jumaré",
+    "jumeas": "jumeás",
+    "jumais": "jumáis",
+    "jumeis": "juméis",
+    "juncio": "junció",
+    "juncia": "juncía",
+    "juncis": "juncís",
+    "juntas": "juntás",
+    "jupeas": "jupeás",
+    "juquea": "juquéa",
+    "juquee": "juquée",
+    "juqueo": "juqueó",
+    "jurara": "jurará",
+    "jurare": "juraré",
+    "jurdia": "jurdía",
+    "jurais": "juráis",
+    "jureis": "juréis",
+    "justas": "justás",
+    "juzgue": "juzgué",
+    "juzgas": "juzgás",
+    "juarez": "juárez",
+    "jabeca": "jábeca",
+    "jabega": "jábega",
+    "jacara": "jácara",
+    "jacaro": "jácaro",
+    "jacena": "jácena",
+    "jaculo": "jáculo",
+    "jamben": "jámben",
+    "jamila": "jámila",
+    "jaquer": "jáquer",
+    "jibara": "jíbara",
+    "jibaro": "jíbaro",
+    "jicama": "jícama",
+    "jicara": "jícara",
+    "jicaro": "jícaro",
+    "jinjol": "jínjol",
+    "jiride": "jíride",
+    "jonica": "jónica",
+    "jonico": "jónico",
+    "jucaro": "júcaro",
+    "juncea": "júncea",
+    "junceo": "júnceo",
+    "junior": "júnior"
+}

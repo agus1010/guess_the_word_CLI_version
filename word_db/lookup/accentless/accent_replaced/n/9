@@ -1,268 +1,266 @@
-naceriais
-nadabamos
-nadaramos
-nadaremos
-nadariais
-nadasemos
-naipearan
-naipearas
-naipearia
-nalgueais
-nalgueara
-nalgueare
-nalgueeis
-namoraran
-namoraras
-namoraria
-nancearan
-nancearas
-nancearia
-naneareis
-nanearian
-nanearias
-nanometro
-napabamos
-naparamos
-naparemos
-napariais
-napasemos
-narcotica
-narcotice
-narcotico
-narcotiza
-narcotizo
-nariceais
-nariceara
-nariceare
-nariceeis
-narracion
-narracion
-narrareis
-narrarian
-narrarias
-nasalizas
-naufragas
-naufrague
-nausearan
-nausearas
-nausearia
-navajeais
-navajeara
-navajeare
-navajeeis
-navegaran
-navegaras
-navegaria
-navegueis
-nebulizas
-neceareis
-necearian
-necearias
-necesitas
-necrofaga
-necrofago
-necrofila
-necrofilo
-necrofora
-necroforo
-necrosais
-necrosara
-necrosare
-necroseis
-necrotica
-necrotico
-nectonica
-nectonico
-nefologia
-nefritica
-nefritico
-nefrologa
-nefrologo
-nefrotica
-nefrotico
-negabamos
-negaramos
-negaremos
-negariais
-negasemos
-negligian
-negligias
-negligira
-negligire
-neglijais
-negociais
-negociara
-negociare
-negocieis
-negrearan
-negrearas
-negrearia
-negreceis
-negrecera
-negrecere
-negrecian
-negrecias
-negrofila
-negrofilo
-neguillon
-neocortex
-neoleones
-neolitica
-neolitico
-neologica
-neologico
-neoterica
-neoterico
-neptunica
-neptunico
-nesgareis
-nesgarian
-nesgarias
-nesquisas
-neumatica
-neumatico
-neumologa
-neumologo
-neumonica
-neumonico
-neurologa
-neurologo
-neuropata
-neurotica
-neurotice
-neurotico
-neurotiza
-neurotizo
-neurotomo
-nevabamos
-nevaramos
-nevaremos
-nevariais
-nevasemos
-neviscara
-nictalope
-nictemera
-nictemero
-nictimero
-nidificas
-nidifique
-nielareis
-nielarian
-nielarias
-nigerrima
-nigerrimo
-nimbareis
-nimbarian
-nimbarias
-ninfeacea
-ninfeaceo
-ninfomana
-ninguneas
-niquelais
-niquelara
-niquelare
-niqueleis
-nitracion
-nitrareis
-nitrarian
-nitrarias
-nitrogeno
-nitrogeno
-nivelaran
-nivelaras
-nivelaria
-nixqueais
-nixqueara
-nixqueare
-nixqueeis
-niñeareis
-niñearian
-niñearias
-noctivaga
-noctivago
-noematica
-noematico
-nomadeais
-nomadeara
-nomadeare
-nomadeeis
-nombradia
-nombraran
-nombraras
-nombraria
-nominaran
-nominaras
-nominaria
-nonuplica
-nonuplico
-noquearan
-noquearas
-noquearia
-nordestea
-nordestee
-nordesteo
-normacion
-normalice
-normaliza
-normalizo
-normareis
-normarian
-normarias
-noroestea
-noroestee
-noroesteo
-nortearan
-nortearas
-nortearia
-noruestea
-noruestee
-noruesteo
-nosologia
-notabamos
-notaramos
-notaremos
-notariais
-notariais
-notariara
-notariare
-notarieis
-notarizas
-notasemos
-noticiais
-noticiara
-noticiare
-noticieis
-notificas
-notifique
-novabamos
-novaramos
-novaremos
-novariais
-novasemos
-novelaran
-novelaras
-novelaria
-noveleria
-novelizas
-noviareis
-noviarian
-noviarias
-novilleas
-novocaina
-nublareis
-nublarian
-nublarias
-nuclearan
-nuclearas
-nuclearia
-nulificas
-nulifique
-numeraran
-numeraras
-numeraria
-nutriamos
-nutricion
-nutricion
-nutrireis
-nutririan
-nutririas
+{
+    "naceriais": "naceríais",
+    "nadariais": "nadaríais",
+    "nadabamos": "nadábamos",
+    "nadaramos": "nadáramos",
+    "nadaremos": "nadáremos",
+    "nadasemos": "nadásemos",
+    "naipearan": "naipearán",
+    "naipearas": "naipearás",
+    "naipearia": "naipearía",
+    "nalgueara": "nalgueará",
+    "nalgueare": "nalguearé",
+    "nalgueais": "nalgueáis",
+    "nalgueeis": "nalgueéis",
+    "namoraran": "namorarán",
+    "namoraras": "namorarás",
+    "namoraria": "namoraría",
+    "nancearan": "nancearán",
+    "nancearas": "nancearás",
+    "nancearia": "nancearía",
+    "naneareis": "nanearéis",
+    "nanearian": "nanearían",
+    "nanearias": "nanearías",
+    "nanometro": "nanómetro",
+    "napariais": "naparíais",
+    "napabamos": "napábamos",
+    "naparamos": "napáramos",
+    "naparemos": "napáremos",
+    "napasemos": "napásemos",
+    "narcotice": "narcoticé",
+    "narcotiza": "narcotizá",
+    "narcotizo": "narcotizó",
+    "narcotica": "narcótica",
+    "narcotico": "narcótico",
+    "nariceara": "nariceará",
+    "nariceare": "naricearé",
+    "nariceais": "nariceáis",
+    "nariceeis": "nariceéis",
+    "narracion": "narración",
+    "narrareis": "narraréis",
+    "narrarian": "narrarían",
+    "narrarias": "narrarías",
+    "nasalizas": "nasalizás",
+    "naufrague": "naufragué",
+    "naufragas": "naufragás",
+    "nausearan": "nausearán",
+    "nausearas": "nausearás",
+    "nausearia": "nausearía",
+    "navajeara": "navajeará",
+    "navajeare": "navajearé",
+    "navajeais": "navajeáis",
+    "navajeeis": "navajeéis",
+    "navegaran": "navegarán",
+    "navegaras": "navegarás",
+    "navegaria": "navegaría",
+    "navegueis": "naveguéis",
+    "nebulizas": "nebulizás",
+    "neceareis": "necearéis",
+    "necearian": "necearían",
+    "necearias": "necearías",
+    "necesitas": "necesitás",
+    "necrosara": "necrosará",
+    "necrosare": "necrosaré",
+    "necrosais": "necrosáis",
+    "necroseis": "necroséis",
+    "necrofaga": "necrófaga",
+    "necrofago": "necrófago",
+    "necrofila": "necrófila",
+    "necrofilo": "necrófilo",
+    "necrofora": "necrófora",
+    "necroforo": "necróforo",
+    "necrotica": "necrótica",
+    "necrotico": "necrótico",
+    "nectonica": "nectónica",
+    "nectonico": "nectónico",
+    "nefologia": "nefología",
+    "nefritica": "nefrítica",
+    "nefritico": "nefrítico",
+    "nefrologa": "nefróloga",
+    "nefrologo": "nefrólogo",
+    "nefrotica": "nefrótica",
+    "nefrotico": "nefrótico",
+    "negariais": "negaríais",
+    "negligira": "negligirá",
+    "negligire": "negligiré",
+    "negligian": "negligían",
+    "negligias": "negligías",
+    "neglijais": "neglijáis",
+    "negociara": "negociará",
+    "negociare": "negociaré",
+    "negociais": "negociáis",
+    "negocieis": "negociéis",
+    "negrearan": "negrearán",
+    "negrearas": "negrearás",
+    "negrearia": "negrearía",
+    "negrecera": "negrecerá",
+    "negrecere": "negreceré",
+    "negreceis": "negrecéis",
+    "negrecian": "negrecían",
+    "negrecias": "negrecías",
+    "negrofila": "negrófila",
+    "negrofilo": "negrófilo",
+    "neguillon": "neguillón",
+    "negabamos": "negábamos",
+    "negaramos": "negáramos",
+    "negaremos": "negáremos",
+    "negasemos": "negásemos",
+    "neocortex": "neocórtex",
+    "neoleones": "neoleonés",
+    "neolitica": "neolítica",
+    "neolitico": "neolítico",
+    "neologica": "neológica",
+    "neologico": "neológico",
+    "neoterica": "neotérica",
+    "neoterico": "neotérico",
+    "neptunica": "neptúnica",
+    "neptunico": "neptúnico",
+    "nesgareis": "nesgaréis",
+    "nesgarian": "nesgarían",
+    "nesgarias": "nesgarías",
+    "nesquisas": "nesquisás",
+    "neumatica": "neumática",
+    "neumatico": "neumático",
+    "neumologa": "neumóloga",
+    "neumologo": "neumólogo",
+    "neumonica": "neumónica",
+    "neumonico": "neumónico",
+    "neurotice": "neuroticé",
+    "neurotiza": "neurotizá",
+    "neurotizo": "neurotizó",
+    "neurologa": "neuróloga",
+    "neurologo": "neurólogo",
+    "neuropata": "neurópata",
+    "neurotica": "neurótica",
+    "neurotico": "neurótico",
+    "neurotomo": "neurótomo",
+    "nevariais": "nevaríais",
+    "neviscara": "neviscará",
+    "nevabamos": "nevábamos",
+    "nevaramos": "neváramos",
+    "nevaremos": "neváremos",
+    "nevasemos": "nevásemos",
+    "nictalope": "nictálope",
+    "nictemera": "nictémera",
+    "nictemero": "nictémero",
+    "nictimero": "nictímero",
+    "nidificas": "nidificás",
+    "nidifique": "nidifiqué",
+    "nielareis": "nielaréis",
+    "nielarian": "nielarían",
+    "nielarias": "nielarías",
+    "nigerrima": "nigérrima",
+    "nigerrimo": "nigérrimo",
+    "nimbareis": "nimbaréis",
+    "nimbarian": "nimbarían",
+    "nimbarias": "nimbarías",
+    "ninfeacea": "ninfeácea",
+    "ninfeaceo": "ninfeáceo",
+    "ninfomana": "ninfómana",
+    "ninguneas": "ninguneás",
+    "niquelara": "niquelará",
+    "niquelare": "niquelaré",
+    "niquelais": "niqueláis",
+    "niqueleis": "niqueléis",
+    "nitracion": "nitración",
+    "nitrareis": "nitraréis",
+    "nitrarian": "nitrarían",
+    "nitrarias": "nitrarías",
+    "nitrogeno": "nitrógeno",
+    "nivelaran": "nivelarán",
+    "nivelaras": "nivelarás",
+    "nivelaria": "nivelaría",
+    "nixqueara": "nixqueará",
+    "nixqueare": "nixquearé",
+    "nixqueais": "nixqueáis",
+    "nixqueeis": "nixqueéis",
+    "niñeareis": "niñearéis",
+    "niñearian": "niñearían",
+    "niñearias": "niñearías",
+    "noctivaga": "noctívaga",
+    "noctivago": "noctívago",
+    "noematica": "noemática",
+    "noematico": "noemático",
+    "nomadeara": "nomadeará",
+    "nomadeare": "nomadearé",
+    "nomadeais": "nomadeáis",
+    "nomadeeis": "nomadeéis",
+    "nombradia": "nombradía",
+    "nombraran": "nombrarán",
+    "nombraras": "nombrarás",
+    "nombraria": "nombraría",
+    "nominaran": "nominarán",
+    "nominaras": "nominarás",
+    "nominaria": "nominaría",
+    "nonuplica": "nonuplicá",
+    "nonuplico": "nonuplicó",
+    "noquearan": "noquearán",
+    "noquearas": "noquearás",
+    "noquearia": "noquearía",
+    "nordestea": "nordesteá",
+    "nordestee": "nordesteé",
+    "nordesteo": "nordesteó",
+    "normacion": "normación",
+    "normalice": "normalicé",
+    "normaliza": "normalizá",
+    "normalizo": "normalizó",
+    "normareis": "normaréis",
+    "normarian": "normarían",
+    "normarias": "normarías",
+    "noroestea": "noroesteá",
+    "noroestee": "noroesteé",
+    "noroesteo": "noroesteó",
+    "nortearan": "nortearán",
+    "nortearas": "nortearás",
+    "nortearia": "nortearía",
+    "noruestea": "noruesteá",
+    "noruestee": "noruesteé",
+    "noruesteo": "noruesteó",
+    "nosologia": "nosología",
+    "notariara": "notariará",
+    "notariare": "notariaré",
+    "notarizas": "notarizás",
+    "notariais": "notaríais",
+    "notarieis": "notariéis",
+    "noticiara": "noticiará",
+    "noticiare": "noticiaré",
+    "noticiais": "noticiáis",
+    "noticieis": "noticiéis",
+    "notificas": "notificás",
+    "notifique": "notifiqué",
+    "notabamos": "notábamos",
+    "notaramos": "notáramos",
+    "notaremos": "notáremos",
+    "notasemos": "notásemos",
+    "novariais": "novaríais",
+    "novelaran": "novelarán",
+    "novelaras": "novelarás",
+    "novelaria": "novelaría",
+    "noveleria": "novelería",
+    "novelizas": "novelizás",
+    "noviareis": "noviaréis",
+    "noviarian": "noviarían",
+    "noviarias": "noviarías",
+    "novilleas": "novilleás",
+    "novocaina": "novocaína",
+    "novabamos": "novábamos",
+    "novaramos": "nováramos",
+    "novaremos": "nováremos",
+    "novasemos": "novásemos",
+    "nublareis": "nublaréis",
+    "nublarian": "nublarían",
+    "nublarias": "nublarías",
+    "nuclearan": "nuclearán",
+    "nuclearas": "nuclearás",
+    "nuclearia": "nuclearía",
+    "nulificas": "nulificás",
+    "nulifique": "nulifiqué",
+    "numeraran": "numerarán",
+    "numeraras": "numerarás",
+    "numeraria": "numeraría",
+    "nutricion": "nutrición",
+    "nutrireis": "nutriréis",
+    "nutririan": "nutrirían",
+    "nutririas": "nutrirías",
+    "nutriamos": "nutríamos"
+}

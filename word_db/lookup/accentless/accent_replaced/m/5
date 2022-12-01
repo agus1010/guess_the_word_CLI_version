@@ -1,293 +1,282 @@
-macas
-macea
-macee
-maceo
-macha
-mache
-macho
-macio
-macon
-macua
-magia
-magie
-magin
-magio
-mague
-mahon
-maido
-majas
-majea
-majee
-majeo
-malea
-malee
-maleo
-malla
-malle
-mallo
-malon
-mamas
-mambi
-mamia
-mamon
-mamua
-manas
-manca
-manco
-manda
-mande
-mandi
-mando
-mando
-manea
-manee
-maneo
-manes
-manga
-mango
-mangu
-mania
-manio
-manis
-manus
-maori
-mapea
-mapee
-mapeo
-maque
-marca
-marci
-marco
-marco
-marea
-maree
-mareo
-marga
-margo
-maria
-maria
-marin
-maron
-marra
-marre
-marro
-marti
-masai
-masas
-masca
-masco
-masea
-masee
-maseo
-maser
-masia
-mason
-matas
-matea
-matee
-mateo
-maton
-maula
-maule
-maulo
-mayas
-mayea
-mayee
-mayen
-mayeo
-mazas
-mazna
-mazne
-mazno
-mañea
-mañee
-mañeo
-mañio
-mbaya
-meais
-meara
-meare
-meces
-mecha
-meche
-mecho
-mecia
-mecio
-media
-media
-medie
-medio
-medis
-medra
-medre
-medro
-meeis
-mejes
-mejia
-mejia
-mejio
-melas
-melga
-melgo
-mella
-melle
-mello
-melon
-menas
-menea
-menee
-meneo
-menes
-mensu
-menta
-mente
-menti
-mento
-mequi
-meras
-merca
-merco
-merma
-merme
-mermo
-mesas
-meson
-metes
-metia
-metio
-metio
-miara
-miare
-miaña
-miañe
-miaño
-midio
-migas
-migra
-migre
-migro
-migue
-milan
-milan
-mimas
-minas
-minga
-mingo
-minia
-minie
-minio
-minue
-miras
-mirla
-mirle
-mirle
-mirlo
-miron
-misas
-mista
-miste
-misto
-mitan
-mitin
-miton
-mitra
-mitre
-mitro
-miñon
-moare
-mocas
-mocea
-mocee
-moceo
-mocha
-moche
-mocho
-modem
-mofas
-mogon
-mohin
-mohur
-mojas
-mojon
-molas
-molda
-molde
-moldo
-moles
-molia
-molio
-molon
-momea
-momee
-momeo
-monda
-monde
-mondo
-monea
-monee
-moneo
-monfi
-monis
-monta
-monte
-monto
-mopan
-moque
-moran
-moras
-morca
-morco
-morde
-mordi
-morea
-moreo
-morfa
-morfe
-morfo
-moria
-moris
-morma
-morme
-morme
-mormo
-moron
-mosca
-mosco
-moscu
-mosen
-motea
-motee
-moteo
-motin
-moton
-moves
-movia
-movia
-movil
-movil
-movio
-movio
-moñon
-muare
-mudas
-mufti
-mugas
-mugia
-mugil
-mugio
-mugis
-mugue
-mujol
-muleo
-mulli
-mullo
-multa
-multe
-multo
-muras
-murio
-murio
-mutas
-muñia
-muñis
-muñon
+{
+    "macea": "maceá",
+    "macee": "maceé",
+    "maceo": "maceó",
+    "macha": "machá",
+    "mache": "maché",
+    "macho": "machó",
+    "macua": "macuá",
+    "macas": "macás",
+    "macio": "macío",
+    "macon": "macón",
+    "magia": "magiá",
+    "magie": "magié",
+    "magio": "magió",
+    "mague": "magué",
+    "magin": "magín",
+    "mahon": "mahón",
+    "majea": "majeá",
+    "majee": "majeé",
+    "majeo": "majeó",
+    "majas": "majás",
+    "malea": "maleá",
+    "malee": "maleé",
+    "maleo": "maleó",
+    "malla": "mallá",
+    "malle": "mallé",
+    "mallo": "malló",
+    "malon": "malón",
+    "mambi": "mambí",
+    "mamas": "mamás",
+    "mamia": "mamía",
+    "mamon": "mamón",
+    "mamua": "mamúa",
+    "manca": "mancá",
+    "manco": "mancó",
+    "manda": "mandá",
+    "mande": "mandé",
+    "mandi": "mandí",
+    "mando": "mandó",
+    "manea": "maneá",
+    "manee": "maneé",
+    "maneo": "maneó",
+    "manga": "mangá",
+    "mango": "mangó",
+    "mangu": "mangú",
+    "manio": "manió",
+    "manas": "manás",
+    "manes": "manés",
+    "mania": "manía",
+    "manis": "manís",
+    "manus": "manús",
+    "maori": "maorí",
+    "mapea": "mapeá",
+    "mapee": "mapeé",
+    "mapeo": "mapeó",
+    "maque": "maqué",
+    "marca": "marcá",
+    "marci": "marcí",
+    "marco": "marcó",
+    "marea": "mareá",
+    "maree": "mareé",
+    "mareo": "mareó",
+    "marga": "margá",
+    "margo": "margó",
+    "marra": "marrá",
+    "marre": "marré",
+    "marro": "marró",
+    "marti": "martí",
+    "maria": "maría",
+    "marin": "marín",
+    "maron": "marón",
+    "masca": "mascá",
+    "masco": "mascó",
+    "masea": "maseá",
+    "masee": "maseé",
+    "maseo": "maseó",
+    "masai": "masái",
+    "masas": "masás",
+    "masia": "masía",
+    "mason": "masón",
+    "matea": "mateá",
+    "matee": "mateé",
+    "mateo": "mateó",
+    "matas": "matás",
+    "maton": "matón",
+    "maula": "maulá",
+    "maule": "maulé",
+    "maulo": "mauló",
+    "mayea": "mayeá",
+    "mayee": "mayeé",
+    "mayeo": "mayeó",
+    "mayas": "mayás",
+    "mazna": "mazná",
+    "mazne": "mazné",
+    "mazno": "maznó",
+    "mazas": "mazás",
+    "maido": "maído",
+    "mañea": "mañeá",
+    "mañee": "mañeé",
+    "mañeo": "mañeó",
+    "mañio": "mañío",
+    "mbaya": "mbayá",
+    "meara": "meará",
+    "meare": "mearé",
+    "mecha": "mechá",
+    "meche": "meché",
+    "mecho": "mechó",
+    "mecio": "meció",
+    "meces": "mecés",
+    "mecia": "mecía",
+    "media": "medía",
+    "medie": "medié",
+    "medio": "medió",
+    "medra": "medrá",
+    "medre": "medré",
+    "medro": "medró",
+    "medis": "medís",
+    "mejio": "mejió",
+    "mejes": "mejés",
+    "mejia": "mejía",
+    "melga": "melgá",
+    "melgo": "melgó",
+    "mella": "mellá",
+    "melle": "mellé",
+    "mello": "melló",
+    "melas": "melás",
+    "melon": "melón",
+    "menea": "meneá",
+    "menee": "meneé",
+    "meneo": "meneó",
+    "mensu": "mensú",
+    "menta": "mentá",
+    "mente": "menté",
+    "menti": "mentí",
+    "mento": "mentó",
+    "menas": "menás",
+    "menes": "menés",
+    "mequi": "mequí",
+    "merca": "mercá",
+    "merco": "mercó",
+    "merma": "mermá",
+    "merme": "mermé",
+    "mermo": "mermó",
+    "meras": "merás",
+    "mesas": "mesás",
+    "meson": "mesón",
+    "metio": "metió",
+    "metes": "metés",
+    "metia": "metía",
+    "meais": "meáis",
+    "meeis": "meéis",
+    "miara": "miará",
+    "miare": "miaré",
+    "miaña": "miañá",
+    "miañe": "miañé",
+    "miaño": "miañó",
+    "midio": "midió",
+    "migra": "migrá",
+    "migre": "migré",
+    "migro": "migró",
+    "migue": "migué",
+    "migas": "migás",
+    "milan": "milán",
+    "mimas": "mimás",
+    "minga": "mingá",
+    "mingo": "mingó",
+    "minia": "miniá",
+    "minie": "minié",
+    "minio": "minió",
+    "minue": "minué",
+    "minas": "minás",
+    "mirle": "mírle",
+    "mirlo": "mirló",
+    "miras": "mirás",
+    "miron": "mirón",
+    "mista": "mistá",
+    "miste": "misté",
+    "misto": "mistó",
+    "misas": "misás",
+    "mitra": "mitrá",
+    "mitre": "mitré",
+    "mitro": "mitró",
+    "mitan": "mitán",
+    "mitin": "mitín",
+    "miton": "mitón",
+    "miñon": "miñón",
+    "moare": "moaré",
+    "mocea": "moceá",
+    "mocee": "moceé",
+    "moceo": "moceó",
+    "mocha": "mochá",
+    "moche": "moché",
+    "mocho": "mochó",
+    "mocas": "mocás",
+    "mofas": "mofás",
+    "mogon": "mogón",
+    "mohin": "mohín",
+    "mohur": "mohúr",
+    "mojas": "mojás",
+    "mojon": "mojón",
+    "molda": "moldá",
+    "molde": "moldé",
+    "moldo": "moldó",
+    "molio": "molió",
+    "molas": "molás",
+    "moles": "molés",
+    "molia": "molía",
+    "molon": "molón",
+    "momea": "momeá",
+    "momee": "momeé",
+    "momeo": "momeó",
+    "monda": "mondá",
+    "monde": "mondé",
+    "mondo": "mondó",
+    "monea": "moneá",
+    "monee": "moneé",
+    "moneo": "moneó",
+    "monfi": "monfí",
+    "monta": "montá",
+    "monte": "monté",
+    "monto": "montó",
+    "monis": "monís",
+    "mopan": "mopán",
+    "moque": "moqué",
+    "morca": "morcá",
+    "morco": "morcó",
+    "morde": "mordé",
+    "mordi": "mordí",
+    "morfa": "morfá",
+    "morfe": "morfé",
+    "morfo": "morfó",
+    "morme": "mórme",
+    "mormo": "mormó",
+    "moran": "morán",
+    "moras": "morás",
+    "moria": "moría",
+    "moris": "morís",
+    "moron": "morón",
+    "mosca": "moscá",
+    "mosco": "moscó",
+    "moscu": "moscú",
+    "mosen": "mosén",
+    "motea": "moteá",
+    "motee": "moteé",
+    "moteo": "moteó",
+    "motin": "motín",
+    "moton": "motón",
+    "movio": "movió",
+    "moves": "movés",
+    "movia": "movía",
+    "moñon": "moñón",
+    "muare": "muaré",
+    "mudas": "mudás",
+    "mufti": "muftí",
+    "mugio": "mugió",
+    "mugue": "mugué",
+    "mugas": "mugás",
+    "mugia": "mugía",
+    "mugis": "mugís",
+    "mulli": "mullí",
+    "mullo": "mulló",
+    "multa": "multá",
+    "multe": "multé",
+    "multo": "multó",
+    "murio": "murió",
+    "muras": "murás",
+    "mutas": "mutás",
+    "muñia": "muñía",
+    "muñis": "muñís",
+    "muñon": "muñón",
+    "maser": "máser",
+    "mayen": "máyen",
+    "mirla": "mírla",
+    "modem": "módem",
+    "morea": "mórea",
+    "moreo": "móreo",
+    "morma": "mórma",
+    "movil": "móvil",
+    "mugil": "múgil",
+    "mujol": "mújol",
+    "muleo": "múleo"
+}

@@ -1,45 +1,47 @@
-yacabo
-yacare
-yacata
-yaceis
-yacera
-yacere
-yacian
-yacias
-yagais
-yagure
-yamana
-yantas
-yapais
-yapara
-yapare
-yapeis
-yaquil
-yarara
-yaravi
-yataro
-yautia
-yaxche
-yeismo
-yeista
-yemeni
-yerbea
-yerbee
-yerbeo
-yermas
-yersey
-yodais
-yodara
-yodare
-yodeis
-yodice
-yodiza
-yodizo
-yodura
-yodure
-yoduro
-yoquey
-yuchan
-yugula
-yugule
-yugulo
+{
+    "yacabo": "yacabó",
+    "yacare": "yacaré",
+    "yacera": "yacerá",
+    "yacere": "yaceré",
+    "yaceis": "yacéis",
+    "yacian": "yacían",
+    "yacias": "yacías",
+    "yagure": "yaguré",
+    "yagais": "yagáis",
+    "yantas": "yantás",
+    "yapara": "yapará",
+    "yapare": "yaparé",
+    "yapais": "yapáis",
+    "yapeis": "yapéis",
+    "yarara": "yarará",
+    "yaravi": "yaraví",
+    "yautia": "yautía",
+    "yaxche": "yaxché",
+    "yemeni": "yemení",
+    "yerbea": "yerbeá",
+    "yerbee": "yerbeé",
+    "yerbeo": "yerbeó",
+    "yermas": "yermás",
+    "yeismo": "yeísmo",
+    "yeista": "yeísta",
+    "yodara": "yodará",
+    "yodare": "yodaré",
+    "yodice": "yodicé",
+    "yodiza": "yodizá",
+    "yodizo": "yodizó",
+    "yodura": "yodurá",
+    "yodure": "yoduré",
+    "yoduro": "yoduró",
+    "yodais": "yodáis",
+    "yodeis": "yodéis",
+    "yuchan": "yuchán",
+    "yugula": "yugulá",
+    "yugule": "yugulé",
+    "yugulo": "yuguló",
+    "yacata": "yácata",
+    "yamana": "yámana",
+    "yaquil": "yáquil",
+    "yataro": "yátaro",
+    "yersey": "yérsey",
+    "yoquey": "yóquey"
+}

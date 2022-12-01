@@ -1,59 +1,61 @@
-ibera
-ibero
-ibice
-iceis
-icono
-ideas
-idish
-idolo
-ignea
-igneo
-ijuju
-ileon
-iludi
-imana
-imane
-imano
-imbui
-imita
-imite
-imito
-impia
-impio
-impla
-imple
-implo
-impon
-incoa
-incoe
-incoo
-index
-infla
-infle
-inflo
-ingon
-insta
-inste
-insto
-inter
-intui
-inven
-irani
-ireis
-irian
-irias
-iride
-irisa
-irise
-iriso
-irrui
-irupe
-islan
-itala
-italo
-itera
-itere
-itero
-izais
-izara
-izare
+{
+    "iceis": "icéis",
+    "ideas": "ideás",
+    "ijuju": "ijujú",
+    "iludi": "iludí",
+    "imana": "imaná",
+    "imane": "imané",
+    "imano": "imanó",
+    "imbui": "imbuí",
+    "imita": "imitá",
+    "imite": "imité",
+    "imito": "imitó",
+    "impla": "implá",
+    "imple": "implé",
+    "implo": "impló",
+    "impia": "impía",
+    "impio": "impío",
+    "impon": "impón",
+    "incoa": "incoá",
+    "incoe": "incoé",
+    "incoo": "incoó",
+    "infla": "inflá",
+    "infle": "inflé",
+    "inflo": "infló",
+    "ingon": "ingón",
+    "insta": "instá",
+    "inste": "insté",
+    "insto": "instó",
+    "intui": "intuí",
+    "inven": "invén",
+    "irani": "iraní",
+    "irisa": "irisá",
+    "irise": "irisé",
+    "iriso": "irisó",
+    "irrui": "irruí",
+    "irupe": "irupé",
+    "ireis": "iréis",
+    "irian": "irían",
+    "irias": "irías",
+    "islan": "islán",
+    "itera": "iterá",
+    "itere": "iteré",
+    "itero": "iteró",
+    "izara": "izará",
+    "izare": "izaré",
+    "izais": "izáis",
+    "ibera": "íbera",
+    "ibero": "íbero",
+    "ibice": "íbice",
+    "icono": "ícono",
+    "idish": "ídish",
+    "idolo": "ídolo",
+    "ignea": "ígnea",
+    "igneo": "ígneo",
+    "ileon": "íleon",
+    "index": "índex",
+    "inter": "ínter",
+    "iride": "íride",
+    "itala": "ítala",
+    "italo": "ítalo"
+}

@@ -1,114 +1,112 @@
-zabila
-zabuca
-zabuco
-zaceas
-zafais
-zafara
-zafare
-zafari
-zafeis
-zafran
-zaguan
-zaheri
-zahina
-zahori
-zajari
-zalamo
-zaleas
-zallas
-zamina
-zamine
-zamino
-zampas
-zampea
-zampee
-zampeo
-zampon
-zancon
-zandia
-zangon
-zanjas
-zanjea
-zanjee
-zanjeo
-zanjon
-zapais
-zapara
-zapare
-zapeas
-zapeis
-zapuce
-zapuza
-zapuzo
-zaquea
-zaquee
-zaqueo
-zarcea
-zarcee
-zarceo
-zarpas
-zarpea
-zarpee
-zarpeo
-zircon
-ziszas
-zocais
-zocalo
-zocara
-zocare
-zocola
-zocole
-zocolo
-zodiac
-zoncea
-zoncee
-zonceo
-zontea
-zontee
-zonteo
-zorrea
-zorree
-zorreo
-zorron
-zoster
-zuizon
-zulaca
-zulaco
-zullas
-zullen
-zullon
-zumaca
-zumaco
-zumbas
-zumbon
-zuncha
-zunche
-zuncho
-zunzun
-zurcia
-zurcio
-zurcis
-zurdea
-zurdee
-zurdeo
-zureas
-zurras
-zurrea
-zurree
-zurree
-zurren
-zurreo
-zurria
-zurria
-zurrie
-zurrie
-zurrio
-zurrio
-zurris
-zurron
-zurubi
-zuñais
-zuñian
-zuñias
-zuñira
-zuñire
+{
+    "zabuca": "zabucá",
+    "zabuco": "zabucó",
+    "zaceas": "zaceás",
+    "zafara": "zafará",
+    "zafare": "zafaré",
+    "zafari": "zafarí",
+    "zafran": "zafrán",
+    "zafais": "zafáis",
+    "zafeis": "zaféis",
+    "zaguan": "zaguán",
+    "zaheri": "zaherí",
+    "zahori": "zahorí",
+    "zahina": "zahína",
+    "zajari": "zajarí",
+    "zaleas": "zaleás",
+    "zallas": "zallás",
+    "zamina": "zaminá",
+    "zamine": "zaminé",
+    "zamino": "zaminó",
+    "zampea": "zampeá",
+    "zampee": "zampeé",
+    "zampeo": "zampeó",
+    "zampas": "zampás",
+    "zampon": "zampón",
+    "zancon": "zancón",
+    "zandia": "zandía",
+    "zangon": "zangón",
+    "zanjea": "zanjeá",
+    "zanjee": "zanjeé",
+    "zanjeo": "zanjeó",
+    "zanjas": "zanjás",
+    "zanjon": "zanjón",
+    "zapara": "zapará",
+    "zapare": "zaparé",
+    "zapeas": "zapeás",
+    "zapuce": "zapucé",
+    "zapuza": "zapuzá",
+    "zapuzo": "zapuzó",
+    "zapais": "zapáis",
+    "zapeis": "zapéis",
+    "zaquea": "zaqueá",
+    "zaquee": "zaqueé",
+    "zaqueo": "zaqueó",
+    "zarcea": "zarceá",
+    "zarcee": "zarceé",
+    "zarceo": "zarceó",
+    "zarpea": "zarpeá",
+    "zarpee": "zarpeé",
+    "zarpeo": "zarpeó",
+    "zarpas": "zarpás",
+    "zircon": "zircón",
+    "ziszas": "ziszás",
+    "zocara": "zocará",
+    "zocare": "zocaré",
+    "zocola": "zocolá",
+    "zocole": "zocolé",
+    "zocolo": "zocoló",
+    "zocais": "zocáis",
+    "zoncea": "zonceá",
+    "zoncee": "zonceé",
+    "zonceo": "zonceó",
+    "zontea": "zonteá",
+    "zontee": "zonteé",
+    "zonteo": "zonteó",
+    "zorrea": "zorreá",
+    "zorree": "zorreé",
+    "zorreo": "zorreó",
+    "zorron": "zorrón",
+    "zuizon": "zuizón",
+    "zulaca": "zulacá",
+    "zulaco": "zulacó",
+    "zullas": "zullás",
+    "zullon": "zullón",
+    "zumaca": "zumacá",
+    "zumaco": "zumacó",
+    "zumbas": "zumbás",
+    "zumbon": "zumbón",
+    "zuncha": "zunchá",
+    "zunche": "zunché",
+    "zuncho": "zunchó",
+    "zunzun": "zunzún",
+    "zurcio": "zurció",
+    "zurcia": "zurcía",
+    "zurcis": "zurcís",
+    "zurdea": "zurdeá",
+    "zurdee": "zurdeé",
+    "zurdeo": "zurdeó",
+    "zureas": "zureás",
+    "zurree": "zurrée",
+    "zurreo": "zurreó",
+    "zurria": "zurría",
+    "zurrie": "zurríe",
+    "zurrio": "zurrío",
+    "zurras": "zurrás",
+    "zurrea": "zurréa",
+    "zurris": "zurrís",
+    "zurron": "zurrón",
+    "zurubi": "zurubí",
+    "zuñira": "zuñirá",
+    "zuñire": "zuñiré",
+    "zuñais": "zuñáis",
+    "zuñian": "zuñían",
+    "zuñias": "zuñías",
+    "zabila": "zábila",
+    "zalamo": "zálamo",
+    "zocalo": "zócalo",
+    "zodiac": "zódiac",
+    "zoster": "zóster",
+    "zullen": "zúllen",
+    "zurren": "zúrren"
+}

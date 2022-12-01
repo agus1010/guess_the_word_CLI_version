@@ -1,129 +1,123 @@
-obelo
-obice
-obito
-obolo
-obras
-obron
-obsto
-obten
-obvia
-obvie
-obvio
-ochio
-ocias
-oclui
-oculo
-ocupa
-ocupe
-ocupo
-ocupo
-odeon
-odias
-oiais
-oible
-oidio
-oidos
-oimos
-oiran
-oiras
-oiria
-oislo
-oiste
-ojala
-ojala
-ojale
-ojalo
-ojeas
-okupa
-okupe
-okupo
-olais
-oleas
-oleis
-olera
-olere
-olian
-olias
-oliva
-olive
-olivo
-ollon
-omani
-omina
-omine
-omino
-omiti
-oncea
-oncee
-onceo
-ondea
-ondee
-ondeo
-onice
-opaca
-opaco
-opais
-opalo
-opara
-opare
-opeis
-opera
-opera
-opera
-opere
-opero
-opila
-opile
-opilo
-opina
-opine
-opino
-opino
-opone
-optas
-orais
-orale
-orara
-orare
-oreas
-oreis
-orgia
-orina
-orine
-orino
-orlas
-orlon
-ornas
-orsay
-orzas
-osais
-osara
-osare
-oscar
-oseas
-oseis
-oteas
-otica
-otico
-otoña
-otoñe
-otoño
-ovais
-ovala
-ovale
-ovalo
-ovalo
-ovara
-ovare
-oveis
-ovido
-ovolo
-ovula
-ovule
-ovulo
-ovulo
-oxeas
-oxida
-oxide
-oxido
-oxido
+{
+    "obras": "obrás",
+    "obron": "obrón",
+    "obsto": "obstó",
+    "obten": "obtén",
+    "obvia": "obviá",
+    "obvie": "obvié",
+    "obvio": "obvió",
+    "ochio": "ochío",
+    "ocias": "ociás",
+    "oclui": "ocluí",
+    "ocupa": "ocupá",
+    "ocupe": "ocupé",
+    "ocupo": "ocupó",
+    "odeon": "odeón",
+    "odias": "odiás",
+    "oiran": "oirán",
+    "oiras": "oirás",
+    "oiria": "oiría",
+    "ojala": "ojalá",
+    "ojale": "ojalé",
+    "ojalo": "ojaló",
+    "ojeas": "ojeás",
+    "okupa": "okupá",
+    "okupe": "okupé",
+    "okupo": "okupó",
+    "olera": "olerá",
+    "olere": "oleré",
+    "oleas": "oleás",
+    "oliva": "olivá",
+    "olive": "olivé",
+    "olivo": "olivó",
+    "ollon": "ollón",
+    "olais": "oláis",
+    "oleis": "oléis",
+    "olian": "olían",
+    "olias": "olías",
+    "omani": "omaní",
+    "omina": "ominá",
+    "omine": "ominé",
+    "omino": "ominó",
+    "omiti": "omití",
+    "oncea": "onceá",
+    "oncee": "onceé",
+    "onceo": "onceó",
+    "ondea": "ondeá",
+    "ondee": "ondeé",
+    "ondeo": "ondeó",
+    "opaca": "opacá",
+    "opaco": "opacó",
+    "opara": "opará",
+    "opare": "oparé",
+    "opera": "ópera",
+    "opere": "operé",
+    "opero": "operó",
+    "opila": "opilá",
+    "opile": "opilé",
+    "opilo": "opiló",
+    "opina": "opiná",
+    "opine": "opiné",
+    "opino": "opinó",
+    "opone": "oponé",
+    "optas": "optás",
+    "opais": "opáis",
+    "opeis": "opéis",
+    "orara": "orará",
+    "orare": "oraré",
+    "oreas": "oreás",
+    "orgia": "orgía",
+    "orina": "oriná",
+    "orine": "oriné",
+    "orino": "orinó",
+    "orlas": "orlás",
+    "orlon": "orlón",
+    "ornas": "ornás",
+    "orzas": "orzás",
+    "orais": "oráis",
+    "oreis": "oréis",
+    "osara": "osará",
+    "osare": "osaré",
+    "oseas": "oseás",
+    "osais": "osáis",
+    "oseis": "oséis",
+    "oteas": "oteás",
+    "otoña": "otoñá",
+    "otoñe": "otoñé",
+    "otoño": "otoñó",
+    "ovala": "ovalá",
+    "ovale": "ovalé",
+    "ovalo": "óvalo",
+    "ovara": "ovará",
+    "ovare": "ovaré",
+    "ovula": "ovulá",
+    "ovule": "ovulé",
+    "ovulo": "óvulo",
+    "ovais": "ováis",
+    "oveis": "ovéis",
+    "oxeas": "oxeás",
+    "oxida": "oxidá",
+    "oxide": "oxidé",
+    "oxido": "óxido",
+    "oiais": "oíais",
+    "oible": "oíble",
+    "oidio": "oídio",
+    "oidos": "oídos",
+    "oimos": "oímos",
+    "oislo": "oíslo",
+    "oiste": "oíste",
+    "obelo": "óbelo",
+    "obice": "óbice",
+    "obito": "óbito",
+    "obolo": "óbolo",
+    "oculo": "óculo",
+    "onice": "ónice",
+    "opalo": "ópalo",
+    "orale": "órale",
+    "orsay": "órsay",
+    "oscar": "óscar",
+    "otica": "ótica",
+    "otico": "ótico",
+    "ovido": "óvido",
+    "ovolo": "óvolo"
+}

@@ -1,424 +1,419 @@
-babeas
-bacara
-bacara
-bachea
-bachee
-bacheo
-baciga
-baculo
-badian
-bagais
-bagara
-bagare
-bahari
-bahuna
-bahuno
-bailas
-bailia
-bailio
-bailon
-baipas
-bajais
-bajara
-bajare
-bajeas
-bajeis
-baladi
-balago
-balais
-balamo
-balano
-balara
-balare
-balche
-balcon
-balcon
-baldas
-baldea
-baldee
-baldeo
-baldes
-baldia
-baldio
-baldon
-baleas
-baleis
-balice
-baliju
-balita
-balite
-balito
-baliza
-balizo
-balota
-balote
-baloto
-balsea
-balsee
-balseo
-balson
-balteo
-bambea
-bambee
-bambeo
-bancas
-bandea
-bandee
-bandeo
-bandin
-banque
-banzon
-baquea
-baquee
-baqueo
-baquia
-baraha
-baraja
-baraje
-barajo
-barbas
-barbea
-barbee
-barbeo
-barbon
-barcon
-bardas
-barema
-bareme
-baremo
-barica
-barico
-barloa
-barloe
-barloo
-barras
-barrea
-barree
-barreo
-barres
-barria
-barrio
-barron
-barzon
-basais
-basara
-basare
-baseis
-basica
-basica
-basico
-basico
-bastas
-baston
-baston
-batais
-batana
-batane
-batano
-batava
-batavo
-bateas
-batian
-batias
-batira
-batire
-bausan
-bavara
-bavaro
-bañais
-bañara
-bañare
-bañeis
-bebais
-bebeis
-bebera
-bebere
-bebian
-bebias
-becais
-becara
-becare
-befais
-befara
-befare
-befeis
-belica
-belico
-bembon
-benjui
-berlin
-berlin
-bernes
-berras
-berrea
-berree
-berreo
-berrin
-besais
-besara
-besare
-beseis
-besuca
-besuco
-betica
-betico
-bibaro
-biceps
-bichin
-bifera
-bifero
-bifida
-bifido
-bigama
-bigamo
-bigaro
-bigudi
-billon
-biloca
-biloco
-bimana
-bimano
-binais
-binara
-binare
-bineis
-bingui
-binuba
-binubo
-biogas
-bipeda
-bipede
-bipedo
-bipode
-biraro
-biricu
-birlas
-birlon
-bisais
-bisara
-bisare
-bisbis
-biseca
-biseco
-biseis
-bisela
-bisele
-biselo
-bisoñe
-bistro
-bitais
-bitamo
-bitara
-bitare
-biteis
-bizcas
-bizmas
-bizque
-blabla
-blandi
-blason
-blinda
-blinde
-blindo
-blocas
-bloque
-blumer
-bluson
-bluyin
-bobeas
-bobina
-bobine
-bobino
-bobore
-bocaci
-bocapi
-boceas
-bocela
-bocele
-bocelo
-boceta
-bocete
-boceto
-bochas
-bochin
-bocina
-bocine
-bocino
-bocota
-bofais
-bofara
-bofare
-bofeis
-bofeta
-bogais
-bogara
-bogare
-bogota
-bojais
-bojara
-bojare
-bojeas
-bojeis
-boleas
-bolido
-bollas
-bollen
-bollon
-bolsea
-bolsee
-bolseo
-bolsin
-bolson
-bombea
-bombee
-bombeo
-bombin
-bombon
-bomper
-bonasi
-bonsai
-boquea
-boquee
-boqueo
-boquin
-bordas
-bordea
-bordee
-bordeo
-bordon
-boreas
-borico
-borlon
-bornea
-bornee
-borneo
-borras
-borren
-borron
-bostea
-bostee
-bosteo
-botais
-botara
-botare
-boteas
-boteis
-boveda
-bovida
-bovido
-boxeas
-boyais
-boyara
-boyare
-boyeis
-bracea
-bracee
-braceo
-brahon
-bramas
-brasea
-brasee
-braseo
-bravea
-bravee
-braveo
-bravia
-bravio
-breais
-breara
-breare
-brecol
-breeis
-bregas
-bregue
-bresca
-bresco
-bretea
-bretee
-breteo
-breton
-brezas
-bribon
-bribri
-bridas
-bridon
-brilla
-brille
-brillo
-brinca
-brinco
-brinda
-brinde
-brindo
-brisca
-brisco
-brizas
-briñon
-brocea
-brocee
-brocee
-broceo
-brocol
-brocul
-broker
-brolla
-brolle
-brollo
-bromas
-bromea
-bromee
-bromeo
-brotas
-broton
-brozas
-brujea
-brujee
-brujeo
-brujia
-brujio
-brujis
-brumas
-bruzas
-bruñia
-bruñis
-bubala
-bubalo
-bucare
-bucaro
-buceas
-buceis
-buchin
-buchon
-budica
-budico
-budion
-bufais
-bufala
-bufalo
-bufana
-bufano
-bufara
-bufare
-bufeis
-bulica
-bulico
-bullia
-bullis
-bullon
-bululu
-bunker
-burges
-burila
-burile
-burilo
-burlas
-burlon
-buscas
-buscon
-busque
-buster
-butron
-buzais
-buzano
-buzara
-buzare
+{
+    "babeas": "babeás",
+    "bacara": "bácara",
+    "bachea": "bacheá",
+    "bachee": "bacheé",
+    "bacheo": "bacheó",
+    "badian": "badián",
+    "bagara": "bagará",
+    "bagare": "bagaré",
+    "bagais": "bagáis",
+    "bahari": "baharí",
+    "bahuna": "bahúna",
+    "bahuno": "bahúno",
+    "bailas": "bailás",
+    "bailia": "bailía",
+    "bailio": "bailío",
+    "bailon": "bailón",
+    "baipas": "baipás",
+    "bajara": "bajará",
+    "bajare": "bajaré",
+    "bajeas": "bajeás",
+    "bajais": "bajáis",
+    "bajeis": "bajéis",
+    "baladi": "baladí",
+    "balara": "balará",
+    "balare": "balaré",
+    "balche": "balché",
+    "balcon": "balcón",
+    "baldea": "baldeá",
+    "baldee": "baldeé",
+    "baldeo": "baldeó",
+    "baldas": "baldás",
+    "baldes": "baldés",
+    "baldia": "baldía",
+    "baldio": "baldío",
+    "baldon": "baldón",
+    "baleas": "baleás",
+    "balice": "balicé",
+    "baliju": "balijú",
+    "balita": "balitá",
+    "balite": "balité",
+    "balito": "balitó",
+    "baliza": "balizá",
+    "balizo": "balizó",
+    "balota": "balotá",
+    "balote": "baloté",
+    "baloto": "balotó",
+    "balsea": "balseá",
+    "balsee": "balseé",
+    "balseo": "balseó",
+    "balson": "balsón",
+    "balais": "baláis",
+    "baleis": "baléis",
+    "bambea": "bambeá",
+    "bambee": "bambeé",
+    "bambeo": "bambeó",
+    "bancas": "bancás",
+    "bandea": "bandeá",
+    "bandee": "bandeé",
+    "bandeo": "bandeó",
+    "bandin": "bandín",
+    "banque": "banqué",
+    "banzon": "banzón",
+    "baquea": "baqueá",
+    "baquee": "baqueé",
+    "baqueo": "baqueó",
+    "baquia": "baquía",
+    "baraha": "barahá",
+    "baraja": "barajá",
+    "baraje": "barajé",
+    "barajo": "barajó",
+    "barbea": "barbeá",
+    "barbee": "barbeé",
+    "barbeo": "barbeó",
+    "barbas": "barbás",
+    "barbon": "barbón",
+    "barcon": "barcón",
+    "bardas": "bardás",
+    "barema": "baremá",
+    "bareme": "baremé",
+    "baremo": "baremó",
+    "barloa": "barloá",
+    "barloe": "barloé",
+    "barloo": "barloó",
+    "barrea": "barreá",
+    "barree": "barreé",
+    "barreo": "barreó",
+    "barrio": "barrió",
+    "barras": "barrás",
+    "barres": "barrés",
+    "barria": "barría",
+    "barron": "barrón",
+    "barzon": "barzón",
+    "basara": "basará",
+    "basare": "basaré",
+    "bastas": "bastás",
+    "baston": "bastón",
+    "basais": "basáis",
+    "baseis": "baséis",
+    "batana": "bataná",
+    "batane": "batané",
+    "batano": "batanó",
+    "bateas": "bateás",
+    "batira": "batirá",
+    "batire": "batiré",
+    "batais": "batáis",
+    "batian": "batían",
+    "batias": "batías",
+    "bausan": "bausán",
+    "bañara": "bañará",
+    "bañare": "bañaré",
+    "bañais": "bañáis",
+    "bañeis": "bañéis",
+    "bebera": "beberá",
+    "bebere": "beberé",
+    "bebais": "bebáis",
+    "bebeis": "bebéis",
+    "bebian": "bebían",
+    "bebias": "bebías",
+    "becara": "becará",
+    "becare": "becaré",
+    "becais": "becáis",
+    "befara": "befará",
+    "befare": "befaré",
+    "befais": "befáis",
+    "befeis": "beféis",
+    "bembon": "bembón",
+    "benjui": "benjuí",
+    "berlin": "berlín",
+    "bernes": "bernés",
+    "berrea": "berreá",
+    "berree": "berreé",
+    "berreo": "berreó",
+    "berras": "berrás",
+    "berrin": "berrín",
+    "besara": "besará",
+    "besare": "besaré",
+    "besuca": "besucá",
+    "besuco": "besucó",
+    "besais": "besáis",
+    "beseis": "beséis",
+    "bichin": "bichín",
+    "bigudi": "bigudí",
+    "billon": "billón",
+    "biloco": "bilocó",
+    "biloca": "bilóca",
+    "binara": "binará",
+    "binare": "binaré",
+    "bingui": "binguí",
+    "binais": "bináis",
+    "bineis": "binéis",
+    "biogas": "biogás",
+    "biraro": "biraró",
+    "biricu": "biricú",
+    "birlas": "birlás",
+    "birlon": "birlón",
+    "bisara": "bisará",
+    "bisare": "bisaré",
+    "bisbis": "bisbís",
+    "biseca": "bisecá",
+    "biseco": "bisecó",
+    "bisela": "biselá",
+    "bisele": "biselé",
+    "biselo": "biseló",
+    "bisoñe": "bisoñé",
+    "bistro": "bistró",
+    "bisais": "bisáis",
+    "biseis": "biséis",
+    "bitara": "bitará",
+    "bitare": "bitaré",
+    "bitais": "bitáis",
+    "biteis": "bitéis",
+    "bizcas": "bizcás",
+    "bizmas": "bizmás",
+    "bizque": "bizqué",
+    "blabla": "blablá",
+    "blandi": "blandí",
+    "blason": "blasón",
+    "blinda": "blindá",
+    "blinde": "blindé",
+    "blindo": "blindó",
+    "blocas": "blocás",
+    "bloque": "bloqué",
+    "bluson": "blusón",
+    "bluyin": "bluyín",
+    "blumer": "blúmer",
+    "bobeas": "bobeás",
+    "bobina": "bobiná",
+    "bobine": "bobiné",
+    "bobino": "bobinó",
+    "bobore": "boboré",
+    "bocaci": "bocací",
+    "bocapi": "bocapí",
+    "bocela": "bocelá",
+    "bocele": "bocelé",
+    "bocelo": "boceló",
+    "boceta": "bocetá",
+    "bocete": "boceté",
+    "boceto": "bocetó",
+    "boceas": "boceás",
+    "bochas": "bochás",
+    "bochin": "bochín",
+    "bocina": "bociná",
+    "bocine": "bociné",
+    "bocino": "bocinó",
+    "bocota": "bocotá",
+    "bofara": "bofará",
+    "bofare": "bofaré",
+    "bofais": "bofáis",
+    "bofeis": "boféis",
+    "bogara": "bogará",
+    "bogare": "bogaré",
+    "bogota": "bogotá",
+    "bogais": "bogáis",
+    "bojara": "bojará",
+    "bojare": "bojaré",
+    "bojeas": "bojeás",
+    "bojais": "bojáis",
+    "bojeis": "bojéis",
+    "boleas": "boleás",
+    "bollas": "bollás",
+    "bollen": "bollén",
+    "bollon": "bollón",
+    "bolsea": "bolseá",
+    "bolsee": "bolseé",
+    "bolseo": "bolseó",
+    "bolsin": "bolsín",
+    "bolson": "bolsón",
+    "bombea": "bombeá",
+    "bombee": "bombeé",
+    "bombeo": "bombeó",
+    "bombin": "bombín",
+    "bombon": "bombón",
+    "bonasi": "bonasí",
+    "bonsai": "bonsái",
+    "boquea": "boqueá",
+    "boquee": "boqueé",
+    "boqueo": "boqueó",
+    "boquin": "boquín",
+    "bordea": "bordeá",
+    "bordee": "bordeé",
+    "bordeo": "bordeó",
+    "bordas": "bordás",
+    "bordon": "bordón",
+    "borlon": "borlón",
+    "bornea": "borneá",
+    "bornee": "borneé",
+    "borneo": "borneó",
+    "borras": "borrás",
+    "borren": "borrén",
+    "borron": "borrón",
+    "bostea": "bosteá",
+    "bostee": "bosteé",
+    "bosteo": "bosteó",
+    "botara": "botará",
+    "botare": "botaré",
+    "boteas": "boteás",
+    "botais": "botáis",
+    "boteis": "botéis",
+    "boxeas": "boxeás",
+    "boyara": "boyará",
+    "boyare": "boyaré",
+    "boyais": "boyáis",
+    "boyeis": "boyéis",
+    "bracea": "braceá",
+    "bracee": "braceé",
+    "braceo": "braceó",
+    "brahon": "brahón",
+    "bramas": "bramás",
+    "brasea": "braseá",
+    "brasee": "braseé",
+    "braseo": "braseó",
+    "bravea": "braveá",
+    "bravee": "braveé",
+    "braveo": "braveó",
+    "bravia": "bravía",
+    "bravio": "bravío",
+    "breara": "breará",
+    "breare": "brearé",
+    "bregue": "bregué",
+    "bregas": "bregás",
+    "bresca": "brescá",
+    "bresco": "brescó",
+    "bretea": "breteá",
+    "bretee": "breteé",
+    "breteo": "breteó",
+    "breton": "bretón",
+    "brezas": "brezás",
+    "breais": "breáis",
+    "breeis": "breéis",
+    "bribri": "bribrí",
+    "bribon": "bribón",
+    "bridas": "bridás",
+    "bridon": "bridón",
+    "brilla": "brillá",
+    "brille": "brillé",
+    "brillo": "brilló",
+    "brinca": "brincá",
+    "brinco": "brincó",
+    "brinda": "brindá",
+    "brinde": "brindé",
+    "brindo": "brindó",
+    "brisca": "briscá",
+    "brisco": "briscó",
+    "brizas": "brizás",
+    "briñon": "briñón",
+    "brocee": "brocée",
+    "broceo": "broceó",
+    "brocea": "brocéa",
+    "brolla": "brollá",
+    "brolle": "brollé",
+    "brollo": "brolló",
+    "bromea": "bromeá",
+    "bromee": "bromeé",
+    "bromeo": "bromeó",
+    "bromas": "bromás",
+    "brotas": "brotás",
+    "broton": "brotón",
+    "brozas": "brozás",
+    "brujea": "brujeá",
+    "brujee": "brujeé",
+    "brujeo": "brujeó",
+    "brujio": "brujió",
+    "brujia": "brujía",
+    "brujis": "brujís",
+    "brumas": "brumás",
+    "bruzas": "bruzás",
+    "bruñia": "bruñía",
+    "bruñis": "bruñís",
+    "brecol": "brécol",
+    "brocol": "brócol",
+    "brocul": "brócul",
+    "broker": "bróker",
+    "buceas": "buceás",
+    "buchin": "buchín",
+    "buchon": "buchón",
+    "buceis": "bucéis",
+    "budion": "budión",
+    "bufara": "bufará",
+    "bufare": "bufaré",
+    "bufais": "bufáis",
+    "bufeis": "buféis",
+    "bullia": "bullía",
+    "bullis": "bullís",
+    "bullon": "bullón",
+    "bululu": "bululú",
+    "burges": "burgés",
+    "burila": "burilá",
+    "burile": "burilé",
+    "burilo": "buriló",
+    "burlas": "burlás",
+    "burlon": "burlón",
+    "buscas": "buscás",
+    "buscon": "buscón",
+    "busque": "busqué",
+    "butron": "butrón",
+    "buzara": "buzará",
+    "buzare": "buzaré",
+    "buzais": "buzáis",
+    "baciga": "báciga",
+    "baculo": "báculo",
+    "balago": "bálago",
+    "balamo": "bálamo",
+    "balano": "bálano",
+    "balteo": "bálteo",
+    "barica": "bárica",
+    "barico": "bárico",
+    "basica": "básica",
+    "basico": "básico",
+    "batava": "bátava",
+    "batavo": "bátavo",
+    "bavara": "bávara",
+    "bavaro": "bávaro",
+    "belica": "bélica",
+    "belico": "bélico",
+    "betica": "bética",
+    "betico": "bético",
+    "bibaro": "bíbaro",
+    "biceps": "bíceps",
+    "bifera": "bífera",
+    "bifero": "bífero",
+    "bifida": "bífida",
+    "bifido": "bífido",
+    "bigama": "bígama",
+    "bigamo": "bígamo",
+    "bigaro": "bígaro",
+    "bimana": "bímana",
+    "bimano": "bímano",
+    "binuba": "bínuba",
+    "binubo": "bínubo",
+    "bipeda": "bípeda",
+    "bipede": "bípede",
+    "bipedo": "bípedo",
+    "bipode": "bípode",
+    "bitamo": "bítamo",
+    "bofeta": "bófeta",
+    "bolido": "bólido",
+    "bomper": "bómper",
+    "boreas": "bóreas",
+    "borico": "bórico",
+    "boveda": "bóveda",
+    "bovida": "bóvida",
+    "bovido": "bóvido",
+    "bubala": "búbala",
+    "bubalo": "búbalo",
+    "bucare": "búcare",
+    "bucaro": "búcaro",
+    "budica": "búdica",
+    "budico": "búdico",
+    "bufala": "búfala",
+    "bufalo": "búfalo",
+    "bufana": "búfana",
+    "bufano": "búfano",
+    "bulica": "búlica",
+    "bulico": "búlico",
+    "bunker": "búnker",
+    "buster": "búster",
+    "buzano": "búzano"
+}

@@ -1,7 +1,9 @@
-kerosen
-kerosin
-ketchup
-kiloton
-kirguis
-kripton
-kuwaiti
+{
+    "kerosen": "kerosén",
+    "kerosin": "kerosín",
+    "kiloton": "kilotón",
+    "kirguis": "kirguís",
+    "kripton": "kriptón",
+    "kuwaiti": "kuwaití",
+    "ketchup": "kétchup"
+}

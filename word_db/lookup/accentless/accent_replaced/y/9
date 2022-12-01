@@ -1,31 +1,33 @@
-yaceriais
-yaguarete
-yantareis
-yantarian
-yantarias
-yapabamos
-yaparamos
-yaparemos
-yapariais
-yapasemos
-yerbearan
-yerbearas
-yerbearia
-yermareis
-yermarian
-yermarias
-yodabamos
-yodaramos
-yodaremos
-yodariais
-yodasemos
-yodizaran
-yodizaras
-yodizaria
-yoduraran
-yoduraras
-yoduraria
-yugularan
-yugularas
-yugularia
-yuxtapone
+{
+    "yaceriais": "yaceríais",
+    "yaguarete": "yaguareté",
+    "yantareis": "yantaréis",
+    "yantarian": "yantarían",
+    "yantarias": "yantarías",
+    "yapariais": "yaparíais",
+    "yapabamos": "yapábamos",
+    "yaparamos": "yapáramos",
+    "yaparemos": "yapáremos",
+    "yapasemos": "yapásemos",
+    "yerbearan": "yerbearán",
+    "yerbearas": "yerbearás",
+    "yerbearia": "yerbearía",
+    "yermareis": "yermaréis",
+    "yermarian": "yermarían",
+    "yermarias": "yermarías",
+    "yodariais": "yodaríais",
+    "yodizaran": "yodizarán",
+    "yodizaras": "yodizarás",
+    "yodizaria": "yodizaría",
+    "yoduraran": "yodurarán",
+    "yoduraras": "yodurarás",
+    "yoduraria": "yoduraría",
+    "yodabamos": "yodábamos",
+    "yodaramos": "yodáramos",
+    "yodaremos": "yodáremos",
+    "yodasemos": "yodásemos",
+    "yugularan": "yugularán",
+    "yugularas": "yugularás",
+    "yugularia": "yugularía",
+    "yuxtapone": "yuxtaponé"
+}

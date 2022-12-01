@@ -1,70 +1,69 @@
-quebrais
-quebraja
-quebraje
-quebrajo
-quebrara
-quebrare
-quebreis
-quedaran
-quedaran
-quedaras
-quedaria
-quedaria
-quejaran
-quejaras
-quejaria
-quemaran
-quemaras
-quemaria
-quemazon
-querandi
-querella
-querelle
-querelle
-querello
-queriais
-querocha
-queroche
-querocho
-querosen
-querosin
-querreis
-querrian
-querrias
-querubin
-queseais
-queseara
-queseare
-queseeis
-queseria
-quietais
-quietara
-quietare
-quieteis
-quilatas
-quimerea
-quimeree
-quimereo
-quimicas
-quimicos
-quinchas
-quintais
-quintara
-quintare
-quinteis
-quisneas
-quistais
-quistara
-quistare
-quisteis
-quistica
-quistico
-quistion
-quitapon
-quitaran
-quitaras
-quitaria
-quizarra
-quiñaran
-quiñaras
-quiñaria
+{
+    "quebraja": "quebrajá",
+    "quebraje": "quebrajé",
+    "quebrajo": "quebrajó",
+    "quebrara": "quebrará",
+    "quebrare": "quebraré",
+    "quebrais": "quebráis",
+    "quebreis": "quebréis",
+    "quedaran": "quedarán",
+    "quedaras": "quedarás",
+    "quedaria": "quedaría",
+    "quejaran": "quejarán",
+    "quejaras": "quejarás",
+    "quejaria": "quejaría",
+    "quemaran": "quemarán",
+    "quemaras": "quemarás",
+    "quemaria": "quemaría",
+    "quemazon": "quemazón",
+    "querandi": "querandí",
+    "querelle": "querélle",
+    "querello": "querelló",
+    "querocha": "querochá",
+    "queroche": "queroché",
+    "querocho": "querochó",
+    "querosen": "querosén",
+    "querosin": "querosín",
+    "querreis": "querréis",
+    "querrian": "querrían",
+    "querrias": "querrías",
+    "querubin": "querubín",
+    "querella": "querélla",
+    "queriais": "queríais",
+    "queseara": "queseará",
+    "queseare": "quesearé",
+    "queseria": "quesería",
+    "queseais": "queseáis",
+    "queseeis": "queseéis",
+    "quietara": "quietará",
+    "quietare": "quietaré",
+    "quietais": "quietáis",
+    "quieteis": "quietéis",
+    "quilatas": "quilatás",
+    "quimerea": "quimereá",
+    "quimeree": "quimereé",
+    "quimereo": "quimereó",
+    "quinchas": "quinchás",
+    "quintara": "quintará",
+    "quintare": "quintaré",
+    "quintais": "quintáis",
+    "quinteis": "quintéis",
+    "quisneas": "quisneás",
+    "quistara": "quistará",
+    "quistare": "quistaré",
+    "quistion": "quistión",
+    "quistais": "quistáis",
+    "quisteis": "quistéis",
+    "quitapon": "quitapón",
+    "quitaran": "quitarán",
+    "quitaras": "quitarás",
+    "quitaria": "quitaría",
+    "quizarra": "quizarrá",
+    "quiñaran": "quiñarán",
+    "quiñaras": "quiñarás",
+    "quiñaria": "quiñaría",
+    "quimicas": "químicas",
+    "quimicos": "químicos",
+    "quistica": "quística",
+    "quistico": "quístico"
+}

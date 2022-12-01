@@ -1,6 +1,8 @@
-karstica
-karstico
-kiliarea
-kinesica
-kinesico
-klistron
+{
+    "kiliarea": "kiliárea",
+    "kinesica": "kinésica",
+    "kinesico": "kinésico",
+    "klistron": "klistrón",
+    "karstica": "kárstica",
+    "karstico": "kárstico"
+}

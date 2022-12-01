@@ -1,39 +1,41 @@
-yaacabo
-yaceran
-yaceras
-yaceria
-yaciais
-yaguane
-yambica
-yambico
-yanacon
-yantais
-yantara
-yantare
-yanteis
-yaparan
-yaparas
-yaparia
-yatagan
-yazcais
-yazgais
-yerbeas
-yergais
-yermais
-yermara
-yermare
-yermeis
-yeseria
-yodaran
-yodaras
-yodaria
-yodizas
-yoduras
-yoguica
-yoguico
-yogurin
-yucatan
-yugalan
-yugulas
-yuqueri
-yuyeria
+{
+    "yaacabo": "yaacabó",
+    "yaceran": "yacerán",
+    "yaceras": "yacerás",
+    "yaceria": "yacería",
+    "yaciais": "yacíais",
+    "yaguane": "yaguané",
+    "yanacon": "yanacón",
+    "yantara": "yantará",
+    "yantare": "yantaré",
+    "yantais": "yantáis",
+    "yanteis": "yantéis",
+    "yaparan": "yaparán",
+    "yaparas": "yaparás",
+    "yaparia": "yaparía",
+    "yatagan": "yatagán",
+    "yazcais": "yazcáis",
+    "yazgais": "yazgáis",
+    "yerbeas": "yerbeás",
+    "yergais": "yergáis",
+    "yermara": "yermará",
+    "yermare": "yermaré",
+    "yermais": "yermáis",
+    "yermeis": "yerméis",
+    "yeseria": "yesería",
+    "yodaran": "yodarán",
+    "yodaras": "yodarás",
+    "yodaria": "yodaría",
+    "yodizas": "yodizás",
+    "yoduras": "yodurás",
+    "yogurin": "yogurín",
+    "yucatan": "yucatán",
+    "yugalan": "yugalán",
+    "yugulas": "yugulás",
+    "yuqueri": "yuquerí",
+    "yuyeria": "yuyería",
+    "yambica": "yámbica",
+    "yambico": "yámbico",
+    "yoguica": "yóguica",
+    "yoguico": "yóguico"
+}

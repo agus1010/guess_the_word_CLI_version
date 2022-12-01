@@ -1,40 +1,42 @@
-yacereis
-yacerian
-yacerias
-yaciamos
-yantaran
-yantaras
-yantaria
-yapareis
-yaparian
-yaparias
-yerbeais
-yerbeara
-yerbeare
-yerbeeis
-yerberia
-yermaran
-yermaras
-yermaria
-yesifera
-yesifero
-yodacion
-yodareis
-yodarian
-yodarias
-yodiceis
-yodizais
-yodizara
-yodizare
-yodurais
-yodurara
-yodurare
-yodureis
-yugulais
-yugulara
-yugulare
-yuguleis
-yungaina
-yungaino
-yunteria
-yuxtapon
+{
+    "yacereis": "yaceréis",
+    "yacerian": "yacerían",
+    "yacerias": "yacerías",
+    "yaciamos": "yacíamos",
+    "yantaran": "yantarán",
+    "yantaras": "yantarás",
+    "yantaria": "yantaría",
+    "yapareis": "yaparéis",
+    "yaparian": "yaparían",
+    "yaparias": "yaparías",
+    "yerbeara": "yerbeará",
+    "yerbeare": "yerbearé",
+    "yerberia": "yerbería",
+    "yerbeais": "yerbeáis",
+    "yerbeeis": "yerbeéis",
+    "yermaran": "yermarán",
+    "yermaras": "yermarás",
+    "yermaria": "yermaría",
+    "yesifera": "yesífera",
+    "yesifero": "yesífero",
+    "yodacion": "yodación",
+    "yodareis": "yodaréis",
+    "yodarian": "yodarían",
+    "yodarias": "yodarías",
+    "yodiceis": "yodicéis",
+    "yodizara": "yodizará",
+    "yodizare": "yodizaré",
+    "yodizais": "yodizáis",
+    "yodurara": "yodurará",
+    "yodurare": "yoduraré",
+    "yodurais": "yoduráis",
+    "yodureis": "yoduréis",
+    "yugulara": "yugulará",
+    "yugulare": "yugularé",
+    "yugulais": "yuguláis",
+    "yuguleis": "yuguléis",
+    "yungaina": "yungaína",
+    "yungaino": "yungaíno",
+    "yunteria": "yuntería",
+    "yuxtapon": "yuxtapón"
+}

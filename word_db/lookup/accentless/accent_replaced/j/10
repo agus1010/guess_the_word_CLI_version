@@ -1,285 +1,286 @@
-jabalconas
-jabalonais
-jabalonara
-jabalonare
-jabaloneis
-jabardeais
-jabardeara
-jabardeare
-jabardeeis
-jabonareis
-jabonarian
-jabonarias
-jacalearan
-jacalearas
-jacalearia
-jacarearan
-jacarearas
-jacarearia
-jactabamos
-jactaramos
-jactaremos
-jactariais
-jactasemos
-jadeabamos
-jadearamos
-jadearemos
-jadeariais
-jadeasemos
-jaezabamos
-jaezaramos
-jaezaremos
-jaezariais
-jaezasemos
-jaguarundi
-jaharraran
-jaharraras
-jaharraria
-jajajearan
-jajajearas
-jajajearia
-jalariamos
-jalbegaran
-jalbegaras
-jalbegaria
-jalbegueis
-jaleabamos
-jalearamos
-jalearemos
-jaleariais
-jaleasemos
-jalonareis
-jalonarian
-jalonarias
-jalonearan
-jalonearas
-jalonearia
-jamaqueais
-jamaqueara
-jamaqueare
-jamaqueeis
-jamariamos
-jambabamos
-jambaramos
-jambaremos
-jambariais
-jambasemos
-jamerdaran
-jamerdaras
-jamerdaria
-jamurareis
-jamurarian
-jamurarias
-jaqueareis
-jaquearian
-jaquearias
-jarabearan
-jarabearas
-jarabearia
-jaranearan
-jaranearas
-jaranearia
-jarbabamos
-jarbaramos
-jarbaremos
-jarbariais
-jarbasemos
-jarciareis
-jarciarian
-jarciarias
-jardineais
-jardineara
-jardineare
-jardineeis
-jardineria
-jaripearan
-jaripearas
-jaripearia
-jaropareis
-jaroparian
-jaroparias
-jaropearan
-jaropearas
-jaropearia
-jarrabamos
-jarraramos
-jarraremos
-jarrariais
-jarrasemos
-jarreareis
-jarrearian
-jarrearias
-jarretaran
-jarretaras
-jarretaria
-jasariamos
-jaspeareis
-jaspearian
-jaspearias
-jayanearan
-jayanearas
-jayanearia
-jazzistica
-jazzistico
-jerarquica
-jerarquice
-jerarquico
-jerarquiza
-jerarquizo
-jeremiquea
-jeremiquee
-jeremiqueo
-jeringaran
-jeringaras
-jeringaria
-jeringueis
-jesusearan
-jesusearas
-jesusearia
-jeteabamos
-jetearamos
-jetearemos
-jeteariais
-jeteasemos
-jetonearan
-jetonearas
-jetonearia
-jibariceis
-jibarizais
-jibarizara
-jibarizare
-jicotearan
-jicotearas
-jicotearia
-jilotearan
-jilotearas
-jilotearia
-jimariamos
-jimplareis
-jimplarian
-jimplarias
-jinetearan
-jinetearas
-jinetearia
-jinglareis
-jinglarian
-jinglarias
-jipiabamos
-jipiaramos
-jipiaremos
-jipiariais
-jipiasemos
-jirpeareis
-jirpearian
-jirpearias
-jiñariamos
-jochabamos
-jocharamos
-jocharemos
-jochariais
-jochasemos
-jocotearan
-jocotearas
-jocotearia
-joderiamos
-jodieramos
-jodieremos
-jodiesemos
-jonjabaran
-jonjabaras
-jonjabaria
-jonroneais
-jonroneara
-jonroneare
-jonroneeis
-jopariamos
-jopeabamos
-jopearamos
-jopearemos
-jopeariais
-jopeasemos
-jornalaran
-jornalaras
-jornalaria
-jornaleais
-jornaleara
-jornaleare
-jornaleeis
-jorobareis
-jorobarian
-jorobarias
-joropearan
-joropearas
-joropearia
-joseabamos
-josearamos
-josearemos
-joseariais
-joseasemos
-jubilacion
-jubilacion
-jubilareis
-jubilarian
-jubilarias
-judaizaran
-judaizaras
-judaizaria
-juergueais
-juergueara
-juergueare
-juergueeis
-jugariamos
-juglareria
-jugueteais
-jugueteara
-jugueteare
-jugueteeis
-jugueteria
-julepearan
-julepearas
-julepearia
-jumariamos
-jumeabamos
-jumearamos
-jumearemos
-jumeariais
-jumeasemos
-junciriais
-juntabamos
-juntaramos
-juntaremos
-juntariais
-juntasemos
-jupeabamos
-jupearamos
-jupearemos
-jupeariais
-jupeasemos
-juqueareis
-juquearian
-juquearias
-juramentas
-jurariamos
-juridifica
-juridifico
-jurungaran
-jurungaras
-jurungaria
-jurungueis
-justabamos
-justaramos
-justaremos
-justariais
-justasemos
-justiciais
-justiciara
-justiciare
-justicieis
-justificas
-justifique
-juzgabamos
-juzgaduria
-juzgaramos
-juzgaremos
-juzgariais
-juzgasemos
+{
+    "jabalconas": "jabalconás",
+    "jabalonara": "jabalonará",
+    "jabalonare": "jabalonaré",
+    "jabalonais": "jabalonáis",
+    "jabaloneis": "jabalonéis",
+    "jabardeara": "jabardeará",
+    "jabardeare": "jabardearé",
+    "jabardeais": "jabardeáis",
+    "jabardeeis": "jabardeéis",
+    "jabonareis": "jabonaréis",
+    "jabonarian": "jabonarían",
+    "jabonarias": "jabonarías",
+    "jacalearan": "jacalearán",
+    "jacalearas": "jacalearás",
+    "jacalearia": "jacalearía",
+    "jacarearan": "jacarearán",
+    "jacarearas": "jacarearás",
+    "jacarearia": "jacarearía",
+    "jactariais": "jactaríais",
+    "jactabamos": "jactábamos",
+    "jactaramos": "jactáramos",
+    "jactaremos": "jactáremos",
+    "jactasemos": "jactásemos",
+    "jadeariais": "jadearíais",
+    "jadeabamos": "jadeábamos",
+    "jadearamos": "jadeáramos",
+    "jadearemos": "jadeáremos",
+    "jadeasemos": "jadeásemos",
+    "jaezariais": "jaezaríais",
+    "jaezabamos": "jaezábamos",
+    "jaezaramos": "jaezáramos",
+    "jaezaremos": "jaezáremos",
+    "jaezasemos": "jaezásemos",
+    "jaguarundi": "jaguarundí",
+    "jaharraran": "jaharrarán",
+    "jaharraras": "jaharrarás",
+    "jaharraria": "jaharraría",
+    "jajajearan": "jajajearán",
+    "jajajearas": "jajajearás",
+    "jajajearia": "jajajearía",
+    "jalariamos": "jalaríamos",
+    "jalbegaran": "jalbegarán",
+    "jalbegaras": "jalbegarás",
+    "jalbegaria": "jalbegaría",
+    "jalbegueis": "jalbeguéis",
+    "jaleariais": "jalearíais",
+    "jaleabamos": "jaleábamos",
+    "jalearamos": "jaleáramos",
+    "jalearemos": "jaleáremos",
+    "jaleasemos": "jaleásemos",
+    "jalonareis": "jalonaréis",
+    "jalonarian": "jalonarían",
+    "jalonarias": "jalonarías",
+    "jalonearan": "jalonearán",
+    "jalonearas": "jalonearás",
+    "jalonearia": "jalonearía",
+    "jamaqueara": "jamaqueará",
+    "jamaqueare": "jamaquearé",
+    "jamaqueais": "jamaqueáis",
+    "jamaqueeis": "jamaqueéis",
+    "jamariamos": "jamaríamos",
+    "jambariais": "jambaríais",
+    "jambabamos": "jambábamos",
+    "jambaramos": "jambáramos",
+    "jambaremos": "jambáremos",
+    "jambasemos": "jambásemos",
+    "jamerdaran": "jamerdarán",
+    "jamerdaras": "jamerdarás",
+    "jamerdaria": "jamerdaría",
+    "jamurareis": "jamuraréis",
+    "jamurarian": "jamurarían",
+    "jamurarias": "jamurarías",
+    "jaqueareis": "jaquearéis",
+    "jaquearian": "jaquearían",
+    "jaquearias": "jaquearías",
+    "jarabearan": "jarabearán",
+    "jarabearas": "jarabearás",
+    "jarabearia": "jarabearía",
+    "jaranearan": "jaranearán",
+    "jaranearas": "jaranearás",
+    "jaranearia": "jaranearía",
+    "jarbariais": "jarbaríais",
+    "jarbabamos": "jarbábamos",
+    "jarbaramos": "jarbáramos",
+    "jarbaremos": "jarbáremos",
+    "jarbasemos": "jarbásemos",
+    "jarciareis": "jarciaréis",
+    "jarciarian": "jarciarían",
+    "jarciarias": "jarciarías",
+    "jardineara": "jardineará",
+    "jardineare": "jardinearé",
+    "jardineria": "jardinería",
+    "jardineais": "jardineáis",
+    "jardineeis": "jardineéis",
+    "jaripearan": "jaripearán",
+    "jaripearas": "jaripearás",
+    "jaripearia": "jaripearía",
+    "jaropareis": "jaroparéis",
+    "jaroparian": "jaroparían",
+    "jaroparias": "jaroparías",
+    "jaropearan": "jaropearán",
+    "jaropearas": "jaropearás",
+    "jaropearia": "jaropearía",
+    "jarrariais": "jarraríais",
+    "jarreareis": "jarrearéis",
+    "jarrearian": "jarrearían",
+    "jarrearias": "jarrearías",
+    "jarretaran": "jarretarán",
+    "jarretaras": "jarretarás",
+    "jarretaria": "jarretaría",
+    "jarrabamos": "jarrábamos",
+    "jarraramos": "jarráramos",
+    "jarraremos": "jarráremos",
+    "jarrasemos": "jarrásemos",
+    "jasariamos": "jasaríamos",
+    "jaspeareis": "jaspearéis",
+    "jaspearian": "jaspearían",
+    "jaspearias": "jaspearías",
+    "jayanearan": "jayanearán",
+    "jayanearas": "jayanearás",
+    "jayanearia": "jayanearía",
+    "jazzistica": "jazzística",
+    "jazzistico": "jazzístico",
+    "jerarquice": "jerarquicé",
+    "jerarquiza": "jerarquizá",
+    "jerarquizo": "jerarquizó",
+    "jeremiquea": "jeremiqueá",
+    "jeremiquee": "jeremiqueé",
+    "jeremiqueo": "jeremiqueó",
+    "jeringaran": "jeringarán",
+    "jeringaras": "jeringarás",
+    "jeringaria": "jeringaría",
+    "jeringueis": "jeringuéis",
+    "jerarquica": "jerárquica",
+    "jerarquico": "jerárquico",
+    "jesusearan": "jesusearán",
+    "jesusearas": "jesusearás",
+    "jesusearia": "jesusearía",
+    "jeteariais": "jetearíais",
+    "jeteabamos": "jeteábamos",
+    "jetearamos": "jeteáramos",
+    "jetearemos": "jeteáremos",
+    "jeteasemos": "jeteásemos",
+    "jetonearan": "jetonearán",
+    "jetonearas": "jetonearás",
+    "jetonearia": "jetonearía",
+    "jibariceis": "jibaricéis",
+    "jibarizara": "jibarizará",
+    "jibarizare": "jibarizaré",
+    "jibarizais": "jibarizáis",
+    "jicotearan": "jicotearán",
+    "jicotearas": "jicotearás",
+    "jicotearia": "jicotearía",
+    "jilotearan": "jilotearán",
+    "jilotearas": "jilotearás",
+    "jilotearia": "jilotearía",
+    "jimariamos": "jimaríamos",
+    "jimplareis": "jimplaréis",
+    "jimplarian": "jimplarían",
+    "jimplarias": "jimplarías",
+    "jinetearan": "jinetearán",
+    "jinetearas": "jinetearás",
+    "jinetearia": "jinetearía",
+    "jinglareis": "jinglaréis",
+    "jinglarian": "jinglarían",
+    "jinglarias": "jinglarías",
+    "jipiariais": "jipiaríais",
+    "jipiabamos": "jipiábamos",
+    "jipiaramos": "jipiáramos",
+    "jipiaremos": "jipiáremos",
+    "jipiasemos": "jipiásemos",
+    "jirpeareis": "jirpearéis",
+    "jirpearian": "jirpearían",
+    "jirpearias": "jirpearías",
+    "jiñariamos": "jiñaríamos",
+    "jochariais": "jocharíais",
+    "jochabamos": "jochábamos",
+    "jocharamos": "jocháramos",
+    "jocharemos": "jocháremos",
+    "jochasemos": "jochásemos",
+    "jocotearan": "jocotearán",
+    "jocotearas": "jocotearás",
+    "jocotearia": "jocotearía",
+    "joderiamos": "joderíamos",
+    "jodieramos": "jodiéramos",
+    "jodieremos": "jodiéremos",
+    "jodiesemos": "jodiésemos",
+    "jonjabaran": "jonjabarán",
+    "jonjabaras": "jonjabarás",
+    "jonjabaria": "jonjabaría",
+    "jonroneara": "jonroneará",
+    "jonroneare": "jonronearé",
+    "jonroneais": "jonroneáis",
+    "jonroneeis": "jonroneéis",
+    "jopariamos": "joparíamos",
+    "jopeariais": "jopearíais",
+    "jopeabamos": "jopeábamos",
+    "jopearamos": "jopeáramos",
+    "jopearemos": "jopeáremos",
+    "jopeasemos": "jopeásemos",
+    "jornalaran": "jornalarán",
+    "jornalaras": "jornalarás",
+    "jornalaria": "jornalaría",
+    "jornaleara": "jornaleará",
+    "jornaleare": "jornalearé",
+    "jornaleais": "jornaleáis",
+    "jornaleeis": "jornaleéis",
+    "jorobareis": "jorobaréis",
+    "jorobarian": "jorobarían",
+    "jorobarias": "jorobarías",
+    "joropearan": "joropearán",
+    "joropearas": "joropearás",
+    "joropearia": "joropearía",
+    "joseariais": "josearíais",
+    "joseabamos": "joseábamos",
+    "josearamos": "joseáramos",
+    "josearemos": "joseáremos",
+    "joseasemos": "joseásemos",
+    "jubilacion": "jubilación",
+    "jubilareis": "jubilaréis",
+    "jubilarian": "jubilarían",
+    "jubilarias": "jubilarías",
+    "judaizaran": "judaizarán",
+    "judaizaras": "judaizarás",
+    "judaizaria": "judaizaría",
+    "juergueara": "juergueará",
+    "juergueare": "juerguearé",
+    "juergueais": "juergueáis",
+    "juergueeis": "juergueéis",
+    "jugariamos": "jugaríamos",
+    "juglareria": "juglarería",
+    "jugueteara": "jugueteará",
+    "jugueteare": "juguetearé",
+    "jugueteria": "juguetería",
+    "jugueteais": "jugueteáis",
+    "jugueteeis": "jugueteéis",
+    "julepearan": "julepearán",
+    "julepearas": "julepearás",
+    "julepearia": "julepearía",
+    "jumariamos": "jumaríamos",
+    "jumeariais": "jumearíais",
+    "jumeabamos": "jumeábamos",
+    "jumearamos": "jumeáramos",
+    "jumearemos": "jumeáremos",
+    "jumeasemos": "jumeásemos",
+    "junciriais": "junciríais",
+    "juntariais": "juntaríais",
+    "juntabamos": "juntábamos",
+    "juntaramos": "juntáramos",
+    "juntaremos": "juntáremos",
+    "juntasemos": "juntásemos",
+    "jupeariais": "jupearíais",
+    "jupeabamos": "jupeábamos",
+    "jupearamos": "jupeáramos",
+    "jupearemos": "jupeáremos",
+    "jupeasemos": "jupeásemos",
+    "juqueareis": "juquearéis",
+    "juquearian": "juquearían",
+    "juquearias": "juquearías",
+    "juramentas": "juramentás",
+    "jurariamos": "juraríamos",
+    "juridifica": "juridificá",
+    "juridifico": "juridificó",
+    "jurungaran": "jurungarán",
+    "jurungaras": "jurungarás",
+    "jurungaria": "jurungaría",
+    "jurungueis": "jurunguéis",
+    "justariais": "justaríais",
+    "justiciara": "justiciará",
+    "justiciare": "justiciaré",
+    "justiciais": "justiciáis",
+    "justicieis": "justiciéis",
+    "justificas": "justificás",
+    "justifique": "justifiqué",
+    "justabamos": "justábamos",
+    "justaramos": "justáramos",
+    "justaremos": "justáremos",
+    "justasemos": "justásemos",
+    "juzgaduria": "juzgaduría",
+    "juzgariais": "juzgaríais",
+    "juzgabamos": "juzgábamos",
+    "juzgaramos": "juzgáramos",
+    "juzgaremos": "juzgáremos",
+    "juzgasemos": "juzgásemos"
+}

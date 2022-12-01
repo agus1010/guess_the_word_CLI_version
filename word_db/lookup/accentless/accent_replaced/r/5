@@ -1,289 +1,274 @@
-rabea
-rabee
-rabeo
-rabia
-rabie
-rabio
-rabon
-racea
-racee
-raceo
-radia
-radie
-radio
-radon
-raeis
-raera
-raere
-rafea
-rafee
-rafeo
-raian
-raias
-raice
-raice
-raida
-raido
-raiza
-raiza
-raizo
-raizo
-rajas
-rajon
-ralea
-ralee
-raleo
-ralla
-ralle
-rallo
-ralva
-ralve
-ralvo
-ramea
-ramea
-ramee
-rameo
-rameo
-ramon
-ramon
-rampa
-rampe
-rampo
-rapas
-rapel
-rapta
-rapte
-rapto
-rarea
-raree
-rareo
-rasas
-rasca
-rasco
-rasea
-rasee
-rasen
-raseo
-rasga
-rasgo
-raspa
-raspe
-raspo
-ratea
-ratee
-rateo
-raton
-raton
-rauli
-rayas
-rayon
-razon
-razon
-reama
-reame
-reamo
-reara
-reare
-rearo
-reata
-reate
-reato
-rebla
-reble
-reblo
-rebus
-recae
-recai
-recta
-recte
-recto
-redas
-redox
-regas
-regia
-regis
-regla
-regle
-reglo
-regue
-rehen
-rehui
-rehus
-reian
-reias
-reido
-reina
-reine
-reino
-reira
-reire
-rejin
-rejon
-rejus
-relee
-relei
-relva
-relve
-relvo
-remas
-renda
-rende
-rendi
-rendo
-renga
-rengo
-renta
-rente
-rento
-repon
-repta
-repte
-repto
-resta
-reste
-resto
-retas
-reten
-retin
-retor
-reuma
-reuna
-reune
-reune
-reuni
-reuno
-reven
-reves
-reves
-revio
-reyas
-rezas
-rezon
-reñia
-reñis
-riela
-riele
-rielo
-rifas
-rigio
-rilas
-rimas
-rimel
-ringa
-ringo
-ripia
-ripie
-ripio
-risca
-risco
-rispa
-rispe
-rispo
-ritma
-ritme
-ritmo
-riton
-rizas
-rizon
-riñon
-roais
-robas
-robin
-robla
-roble
-roblo
-rocha
-roche
-rocho
-rocia
-rocia
-rocie
-rocie
-rocin
-rocio
-rocio
-rocio
-rodas
-rodea
-rodee
-rodeo
-roeis
-roera
-roere
-rogas
-rogue
-roian
-roias
-roida
-roido
-rojea
-rojee
-rojeo
-rolas
-rolda
-rolde
-roldo
-rolla
-rolle
-rollo
-roman
-roman
-romin
-rompe
-rompi
-ronca
-ronce
-ronco
-ronda
-ronde
-rondo
-ronza
-ronzo
-ropon
-roras
-rosas
-rosca
-rosco
-rosea
-rosea
-rosee
-rosen
-roseo
-roseo
-roson
-rosti
-rotas
-rozas
-rozna
-rozne
-rozno
-rozon
-roñia
-ruara
-ruare
-rubea
-ruben
-rubeo
-rubin
-rufon
-rugas
-rugia
-rugio
-rugis
-rugue
-ruina
-ruine
-ruino
-rulas
-rumba
-rumbe
-rumbo
-rumia
-rumie
-rumio
-rurru
-rusti
-ruter
-ruñas
-ruñia
-ruñis
+{
+    "rabea": "rabeá",
+    "rabee": "rabeé",
+    "rabeo": "rabeó",
+    "rabia": "rabiá",
+    "rabie": "rabié",
+    "rabio": "rabió",
+    "rabon": "rabón",
+    "racea": "raceá",
+    "racee": "raceé",
+    "raceo": "raceó",
+    "radia": "radiá",
+    "radie": "radié",
+    "radio": "radió",
+    "radon": "radón",
+    "raera": "raerá",
+    "raere": "raeré",
+    "rafea": "rafeá",
+    "rafee": "rafeé",
+    "rafeo": "rafeó",
+    "raice": "raíce",
+    "raiza": "raíza",
+    "raizo": "raízo",
+    "rajas": "rajás",
+    "rajon": "rajón",
+    "ralea": "raleá",
+    "ralee": "raleé",
+    "raleo": "raleó",
+    "ralla": "rallá",
+    "ralle": "rallé",
+    "rallo": "ralló",
+    "ralva": "ralvá",
+    "ralve": "ralvé",
+    "ralvo": "ralvó",
+    "ramea": "rámea",
+    "ramee": "rameé",
+    "rameo": "rámeo",
+    "rampa": "rampá",
+    "rampe": "rampé",
+    "rampo": "rampó",
+    "ramon": "ramón",
+    "rapta": "raptá",
+    "rapte": "rapté",
+    "rapto": "raptó",
+    "rapas": "rapás",
+    "rarea": "rareá",
+    "raree": "rareé",
+    "rareo": "rareó",
+    "rasca": "rascá",
+    "rasco": "rascó",
+    "rasea": "raseá",
+    "rasee": "raseé",
+    "raseo": "raseó",
+    "rasga": "rasgá",
+    "rasgo": "rasgó",
+    "raspa": "raspá",
+    "raspe": "raspé",
+    "raspo": "raspó",
+    "rasas": "rasás",
+    "ratea": "rateá",
+    "ratee": "rateé",
+    "rateo": "rateó",
+    "raton": "ratón",
+    "rauli": "raulí",
+    "rayas": "rayás",
+    "rayon": "rayón",
+    "razon": "razón",
+    "raeis": "raéis",
+    "raian": "raían",
+    "raias": "raías",
+    "raida": "raída",
+    "raido": "raído",
+    "reama": "reamá",
+    "reame": "reamé",
+    "reamo": "reamó",
+    "reara": "reará",
+    "reare": "rearé",
+    "rearo": "rearó",
+    "reata": "reatá",
+    "reate": "reaté",
+    "reato": "reató",
+    "rebla": "reblá",
+    "reble": "reblé",
+    "reblo": "rebló",
+    "rebus": "rebús",
+    "recae": "recaé",
+    "recai": "recaí",
+    "recta": "rectá",
+    "recte": "recté",
+    "recto": "rectó",
+    "redas": "redás",
+    "regla": "reglá",
+    "regle": "reglé",
+    "reglo": "regló",
+    "regue": "regué",
+    "regas": "regás",
+    "regia": "regía",
+    "regis": "regís",
+    "rehui": "rehuí",
+    "rehen": "rehén",
+    "rehus": "rehús",
+    "reina": "reiná",
+    "reine": "reiné",
+    "reino": "reinó",
+    "reira": "reirá",
+    "reire": "reiré",
+    "rejin": "rejín",
+    "rejon": "rejón",
+    "rejus": "rejús",
+    "relee": "releé",
+    "relei": "releí",
+    "relva": "relvá",
+    "relve": "relvé",
+    "relvo": "relvó",
+    "remas": "remás",
+    "renda": "rendá",
+    "rende": "rendé",
+    "rendi": "rendí",
+    "rendo": "rendó",
+    "renga": "rengá",
+    "rengo": "rengó",
+    "renta": "rentá",
+    "rente": "renté",
+    "rento": "rentó",
+    "repta": "reptá",
+    "repte": "repté",
+    "repto": "reptó",
+    "repon": "repón",
+    "resta": "restá",
+    "reste": "resté",
+    "resto": "restó",
+    "retas": "retás",
+    "reten": "retén",
+    "retin": "retín",
+    "reuni": "reuní",
+    "revio": "revió",
+    "reven": "revén",
+    "reves": "revés",
+    "reyas": "reyás",
+    "rezas": "rezás",
+    "rezon": "rezón",
+    "reian": "reían",
+    "reias": "reías",
+    "reido": "reído",
+    "reñia": "reñía",
+    "reñis": "reñís",
+    "reuma": "reúma",
+    "reuna": "reúna",
+    "reune": "reúne",
+    "reuno": "reúno",
+    "riela": "rielá",
+    "riele": "rielé",
+    "rielo": "rieló",
+    "rifas": "rifás",
+    "rigio": "rigió",
+    "rilas": "rilás",
+    "rimas": "rimás",
+    "ringa": "ringá",
+    "ringo": "ringó",
+    "ripia": "ripiá",
+    "ripie": "ripié",
+    "ripio": "ripió",
+    "risca": "riscá",
+    "risco": "riscó",
+    "rispa": "rispá",
+    "rispe": "rispé",
+    "rispo": "rispó",
+    "ritma": "ritmá",
+    "ritme": "ritmé",
+    "ritmo": "ritmó",
+    "riton": "ritón",
+    "rizas": "rizás",
+    "rizon": "rizón",
+    "riñon": "riñón",
+    "robla": "roblá",
+    "roble": "roblé",
+    "roblo": "robló",
+    "robas": "robás",
+    "robin": "robín",
+    "rocha": "rochá",
+    "roche": "roché",
+    "rocho": "rochó",
+    "rocia": "rocía",
+    "rocie": "rocíe",
+    "rocio": "rocío",
+    "rocin": "rocín",
+    "rodea": "rodeá",
+    "rodee": "rodeé",
+    "rodeo": "rodeó",
+    "rodas": "rodás",
+    "roera": "roerá",
+    "roere": "roeré",
+    "rogue": "rogué",
+    "rogas": "rogás",
+    "rojea": "rojeá",
+    "rojee": "rojeé",
+    "rojeo": "rojeó",
+    "rolda": "roldá",
+    "rolde": "roldé",
+    "roldo": "roldó",
+    "rolla": "rollá",
+    "rolle": "rollé",
+    "rollo": "rolló",
+    "rolas": "rolás",
+    "rompe": "rompé",
+    "rompi": "rompí",
+    "roman": "román",
+    "romin": "romín",
+    "ronca": "roncá",
+    "ronce": "roncé",
+    "ronco": "roncó",
+    "ronda": "rondá",
+    "ronde": "rondé",
+    "rondo": "rondó",
+    "ronza": "ronzá",
+    "ronzo": "ronzó",
+    "ropon": "ropón",
+    "roras": "rorás",
+    "rosca": "roscá",
+    "rosco": "roscó",
+    "rosea": "rósea",
+    "rosee": "roseé",
+    "roseo": "róseo",
+    "rosti": "rostí",
+    "rosas": "rosás",
+    "roson": "rosón",
+    "rotas": "rotás",
+    "rozna": "rozná",
+    "rozne": "rozné",
+    "rozno": "roznó",
+    "rozas": "rozás",
+    "rozon": "rozón",
+    "roais": "roáis",
+    "roeis": "roéis",
+    "roian": "roían",
+    "roias": "roías",
+    "roida": "roída",
+    "roido": "roído",
+    "roñia": "roñía",
+    "ruara": "ruará",
+    "ruare": "ruaré",
+    "ruben": "rubén",
+    "rubin": "rubín",
+    "rufon": "rufón",
+    "rugio": "rugió",
+    "rugue": "rugué",
+    "rugas": "rugás",
+    "rugia": "rugía",
+    "rugis": "rugís",
+    "ruina": "ruiná",
+    "ruine": "ruiné",
+    "ruino": "ruinó",
+    "rulas": "rulás",
+    "rumba": "rumbá",
+    "rumbe": "rumbé",
+    "rumbo": "rumbó",
+    "rumia": "rumiá",
+    "rumie": "rumié",
+    "rumio": "rumió",
+    "rurru": "rurrú",
+    "rusti": "rustí",
+    "ruñas": "ruñás",
+    "ruñia": "ruñía",
+    "ruñis": "ruñís",
+    "rapel": "rápel",
+    "rasen": "rásen",
+    "redox": "rédox",
+    "retor": "rétor",
+    "rimel": "rímel",
+    "rosen": "rósen",
+    "rubea": "rúbea",
+    "rubeo": "rúbeo",
+    "ruter": "rúter"
+}

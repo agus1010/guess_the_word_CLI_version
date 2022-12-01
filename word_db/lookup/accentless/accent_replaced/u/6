@@ -1,84 +1,80 @@
-ubicas
-ubique
-ufanas
-ufanen
-ufania
-ulcera
-ulcera
-ulcere
-ulcero
-ultima
-ultima
-ultima
-ultime
-ultimo
-ultimo
-ultimo
-ululas
-umbria
-umbrio
-uncian
-uncias
-uncion
-uncira
-uncire
-undula
-undule
-undulo
-ungian
-ungias
-ungira
-ungire
-uniais
-unicas
-unicos
-uniran
-uniras
-uniria
-unison
-unjais
-untais
-untara
-untare
-unteis
-unzais
-uparan
-uparas
-uparia
-urajea
-urajee
-urajeo
-urdais
-urdian
-urdias
-urdira
-urdire
-ureter
-urgian
-urgias
-urgira
-urgire
-urjais
-ursido
-urutau
-usaran
-usaras
-usarce
-usaria
-usiria
-usteas
-ustion
-usuras
-usurea
-usuree
-usureo
-usurpa
-usurpe
-usurpo
-utiles
-utopia
-utopia
-uñiais
-uñiran
-uñiras
-uñiria
+{
+    "ubicas": "ubicás",
+    "ubique": "ubiqué",
+    "ufanas": "ufanás",
+    "ufania": "ufanía",
+    "ufanen": "ufánen",
+    "ulcera": "úlcera",
+    "ulcere": "ulceré",
+    "ulcero": "ulceró",
+    "ultima": "última",
+    "ultime": "ultimé",
+    "ultimo": "último",
+    "ululas": "ululás",
+    "umbria": "umbría",
+    "umbrio": "umbrío",
+    "uncira": "uncirá",
+    "uncire": "unciré",
+    "uncion": "unción",
+    "uncian": "uncían",
+    "uncias": "uncías",
+    "undula": "undulá",
+    "undule": "undulé",
+    "undulo": "unduló",
+    "ungira": "ungirá",
+    "ungire": "ungiré",
+    "ungian": "ungían",
+    "ungias": "ungías",
+    "uniran": "unirán",
+    "uniras": "unirás",
+    "uniria": "uniría",
+    "unison": "unisón",
+    "unjais": "unjáis",
+    "untara": "untará",
+    "untare": "untaré",
+    "untais": "untáis",
+    "unteis": "untéis",
+    "unzais": "unzáis",
+    "uniais": "uníais",
+    "uparan": "uparán",
+    "uparas": "uparás",
+    "uparia": "uparía",
+    "urajea": "urajeá",
+    "urajee": "urajeé",
+    "urajeo": "urajeó",
+    "urdira": "urdirá",
+    "urdire": "urdiré",
+    "urdais": "urdáis",
+    "urdian": "urdían",
+    "urdias": "urdías",
+    "urgira": "urgirá",
+    "urgire": "urgiré",
+    "urgian": "urgían",
+    "urgias": "urgías",
+    "urjais": "urjáis",
+    "urutau": "urutaú",
+    "ureter": "uréter",
+    "usarce": "usarcé",
+    "usaran": "usarán",
+    "usaras": "usarás",
+    "usaria": "usaría",
+    "usiria": "usiría",
+    "usteas": "usteás",
+    "ustion": "ustión",
+    "usurea": "usureá",
+    "usuree": "usureé",
+    "usureo": "usureó",
+    "usurpa": "usurpá",
+    "usurpe": "usurpé",
+    "usurpo": "usurpó",
+    "usuras": "usurás",
+    "utopia": "utopía",
+    "uñiran": "uñirán",
+    "uñiras": "uñirás",
+    "uñiria": "uñiría",
+    "uñiais": "uñíais",
+    "unicas": "únicas",
+    "unicos": "únicos",
+    "ursido": "úrsido",
+    "utiles": "útiles"
+}

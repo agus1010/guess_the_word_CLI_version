@@ -1,367 +1,359 @@
-haberio
-habiais
-habitas
-habitat
-habitat
-habitos
-habitua
-habitua
-habitue
-habitue
-habituo
-habituo
-hablais
-hablara
-hablare
-hableis
-habreis
-habrian
-habrian
-habrias
-hacenda
-hacende
-hacendo
-hachais
-hachara
-hachare
-hacheas
-hacheis
-hachemi
-haciais
-hacinas
-hackeas
-haketia
-halagas
-halague
-halaran
-halaras
-halaria
-haldeas
-hallais
-hallara
-hallare
-halleis
-hamacas
-hamaque
-hambrea
-hambree
-hambreo
-hambria
-hambrio
-hambron
-hamster
-haptica
-haptico
-haragan
-harbais
-harbara
-harbare
-harbeis
-hariais
-harineo
-harneas
-haronea
-haronee
-haroneo
-haronia
-hartais
-hartara
-hartare
-harteis
-hastian
-hastias
-hastias
-hastien
-hasties
-hateais
-hateara
-hateare
-hateeis
-hateria
-hebetas
-hebijon
-hebilla
-hebille
-hebillo
-hechice
-hechiza
-hechizo
-hectica
-hectico
-hederan
-hederas
-hederia
-hediais
-helaran
-helaras
-helaria
-heleais
-heleara
-heleare
-heleeis
-heliaca
-heliaco
-helicon
-hematie
-hembrea
-hembree
-hembreo
-hembron
-henchia
-henchis
-hendais
-hendeis
-hendera
-hendere
-hendian
-hendias
-hendira
-hendire
-herbais
-herbaja
-herbaje
-herbajo
-herbara
-herbare
-herbece
-herbeci
-herbeis
-herbola
-herbole
-herbolo
-heredas
-herejia
-heriais
-heriran
-heriras
-heriria
-hermana
-hermane
-hermano
-hernias
-hernica
-hernico
-hernien
-heroina
-heroina
-herrais
-herrara
-herrare
-herreis
-hervais
-herveis
-hervera
-hervere
-hervian
-hervias
-hervira
-hervire
-hesitas
-hespera
-hespero
-heñiais
-heñiran
-heñiras
-heñiria
-hiberna
-hiberne
-hiberno
-hibrida
-hibrida
-hibride
-hibrido
-hibrido
-hidrata
-hidrate
-hidrato
-hidrica
-hidrico
-hijeais
-hijeara
-hijeare
-hijeeis
-hijuela
-hijuele
-hijuelo
-hilaran
-hilaras
-hilaria
-hilvana
-hilvane
-hilvano
-himpais
-himpara
-himpare
-himpeis
-himplas
-hincais
-hincara
-hincare
-hinchas
-hinchio
-hinojas
-hiparan
-hiparas
-hiparia
-hirmais
-hirmara
-hirmare
-hirmeis
-hirvais
-hisopas
-hisopea
-hisopee
-hisopeo
-hispais
-hispian
-hispias
-hispida
-hispido
-hispira
-hispire
-histica
-histico
-hitaran
-hitaras
-hitaria
-hocicas
-hocicon
-hocique
-hojeais
-hojeara
-hojeare
-hojeces
-hojecia
-hojecio
-hojeeis
-holeais
-holeara
-holeare
-holeeis
-holgais
-holgara
-holgare
-hollais
-hollara
-hollare
-holleis
-hombrea
-hombree
-hombreo
-hombria
-hombron
-homilia
-hondeas
-honesta
-honeste
-honesto
-honoras
-honrais
-honrara
-honrare
-honreis
-hopando
-hoparan
-hoparas
-hoparia
-hopeais
-hopeara
-hopeare
-hopeeis
-horadas
-hornais
-hornara
-hornare
-horneas
-horneis
-horrais
-horrara
-horrare
-horreis
-horrida
-horrido
-hospeda
-hospede
-hospedo
-hostias
-hostiga
-hostigo
-hoyaran
-hoyaras
-hoyaria
-hozaran
-hozaras
-hozaria
-huacala
-huachas
-huaquea
-huaquee
-huaqueo
-hucheas
-huchoho
-huequea
-huequee
-huequeo
-huesped
-huestea
-huestee
-huesteo
-huevais
-huevara
-huevare
-hueveas
-hueveis
-huiamos
-huillin
-huingan
-huireis
-huirian
-huirias
-hularan
-hularas
-hularia
-huleais
-huleara
-huleare
-huleeis
-humanas
-humaran
-humaras
-humaria
-humazon
-humeais
-humeara
-humeare
-humecta
-humecte
-humecto
-humeeis
-humilla
-humille
-humillo
-hundais
-hundian
-hundias
-hundira
-hundire
-hungara
-hungaro
-hungria
-huracan
-huracan
-hurañia
-hurgais
-hurgara
-hurgare
-huronea
-huronee
-huroneo
-hurtais
-hurtara
-hurtare
-hurteis
-husmais
-husmara
-husmare
-husmeas
-husmeis
+{
+    "haberio": "haberío",
+    "habitua": "habitúa",
+    "habitue": "habitúe",
+    "habituo": "habitúo",
+    "habitas": "habitás",
+    "hablara": "hablará",
+    "hablare": "hablaré",
+    "hablais": "habláis",
+    "hableis": "habléis",
+    "habreis": "habréis",
+    "habrian": "habrían",
+    "habrias": "habrías",
+    "habiais": "habíais",
+    "hacenda": "hacendá",
+    "hacende": "hacendé",
+    "hacendo": "hacendó",
+    "hachara": "hachará",
+    "hachare": "hacharé",
+    "hachemi": "hachemí",
+    "hacheas": "hacheás",
+    "hachais": "hacháis",
+    "hacheis": "hachéis",
+    "hacinas": "hacinás",
+    "hackeas": "hackeás",
+    "haciais": "hacíais",
+    "haketia": "haketía",
+    "halague": "halagué",
+    "halagas": "halagás",
+    "halaran": "halarán",
+    "halaras": "halarás",
+    "halaria": "halaría",
+    "haldeas": "haldeás",
+    "hallara": "hallará",
+    "hallare": "hallaré",
+    "hallais": "halláis",
+    "halleis": "halléis",
+    "hamacas": "hamacás",
+    "hamaque": "hamaqué",
+    "hambrea": "hambreá",
+    "hambree": "hambreé",
+    "hambreo": "hambreó",
+    "hambria": "hambría",
+    "hambrio": "hambrío",
+    "hambron": "hambrón",
+    "haragan": "haragán",
+    "harbara": "harbará",
+    "harbare": "harbaré",
+    "harbais": "harbáis",
+    "harbeis": "harbéis",
+    "harineo": "harineó",
+    "harneas": "harneás",
+    "haronea": "haroneá",
+    "haronee": "haroneé",
+    "haroneo": "haroneó",
+    "haronia": "haronía",
+    "hartara": "hartará",
+    "hartare": "hartaré",
+    "hartais": "hartáis",
+    "harteis": "hartéis",
+    "hariais": "haríais",
+    "hastias": "hastías",
+    "hastian": "hastían",
+    "hastien": "hastíen",
+    "hasties": "hastíes",
+    "hateara": "hateará",
+    "hateare": "hatearé",
+    "hateria": "hatería",
+    "hateais": "hateáis",
+    "hateeis": "hateéis",
+    "hebetas": "hebetás",
+    "hebijon": "hebijón",
+    "hebilla": "hebillá",
+    "hebille": "hebillé",
+    "hebillo": "hebilló",
+    "hechice": "hechicé",
+    "hechiza": "hechizá",
+    "hechizo": "hechizó",
+    "hederan": "hederán",
+    "hederas": "hederás",
+    "hederia": "hedería",
+    "hediais": "hedíais",
+    "helaran": "helarán",
+    "helaras": "helarás",
+    "helaria": "helaría",
+    "heleara": "heleará",
+    "heleare": "helearé",
+    "heleais": "heleáis",
+    "heleeis": "heleéis",
+    "helicon": "helicón",
+    "heliaca": "helíaca",
+    "heliaco": "helíaco",
+    "hematie": "hematíe",
+    "hembrea": "hembreá",
+    "hembree": "hembreé",
+    "hembreo": "hembreó",
+    "hembron": "hembrón",
+    "henchia": "henchía",
+    "henchis": "henchís",
+    "hendera": "henderá",
+    "hendere": "henderé",
+    "hendira": "hendirá",
+    "hendire": "hendiré",
+    "hendais": "hendáis",
+    "hendeis": "hendéis",
+    "hendian": "hendían",
+    "hendias": "hendías",
+    "herbaja": "herbajá",
+    "herbaje": "herbajé",
+    "herbajo": "herbajó",
+    "herbara": "herbará",
+    "herbare": "herbaré",
+    "herbece": "herbecé",
+    "herbeci": "herbecí",
+    "herbola": "herbolá",
+    "herbole": "herbolé",
+    "herbolo": "herboló",
+    "herbais": "herbáis",
+    "herbeis": "herbéis",
+    "heredas": "heredás",
+    "herejia": "herejía",
+    "heriran": "herirán",
+    "heriras": "herirás",
+    "heriria": "heriría",
+    "hermana": "hermaná",
+    "hermane": "hermané",
+    "hermano": "hermanó",
+    "hernias": "herniás",
+    "heroina": "heroína",
+    "herrara": "herrará",
+    "herrare": "herraré",
+    "herrais": "herráis",
+    "herreis": "herréis",
+    "hervera": "herverá",
+    "hervere": "herveré",
+    "hervira": "hervirá",
+    "hervire": "herviré",
+    "hervais": "herváis",
+    "herveis": "hervéis",
+    "hervian": "hervían",
+    "hervias": "hervías",
+    "heriais": "heríais",
+    "hesitas": "hesitás",
+    "heñiran": "heñirán",
+    "heñiras": "heñirás",
+    "heñiria": "heñiría",
+    "heñiais": "heñíais",
+    "hiberna": "hiberná",
+    "hiberne": "hiberné",
+    "hiberno": "hibernó",
+    "hibrida": "híbrida",
+    "hibride": "hibridé",
+    "hibrido": "híbrido",
+    "hidrata": "hidratá",
+    "hidrate": "hidraté",
+    "hidrato": "hidrató",
+    "hijeara": "hijeará",
+    "hijeare": "hijearé",
+    "hijeais": "hijeáis",
+    "hijeeis": "hijeéis",
+    "hijuela": "hijuelá",
+    "hijuele": "hijuelé",
+    "hijuelo": "hijueló",
+    "hilaran": "hilarán",
+    "hilaras": "hilarás",
+    "hilaria": "hilaría",
+    "hilvana": "hilvaná",
+    "hilvane": "hilvané",
+    "hilvano": "hilvanó",
+    "himpara": "himpará",
+    "himpare": "himparé",
+    "himplas": "himplás",
+    "himpais": "himpáis",
+    "himpeis": "himpéis",
+    "hincara": "hincará",
+    "hincare": "hincaré",
+    "hinchio": "hinchió",
+    "hinchas": "hinchás",
+    "hincais": "hincáis",
+    "hinojas": "hinojás",
+    "hiparan": "hiparán",
+    "hiparas": "hiparás",
+    "hiparia": "hiparía",
+    "hirmara": "hirmará",
+    "hirmare": "hirmaré",
+    "hirmais": "hirmáis",
+    "hirmeis": "hirméis",
+    "hirvais": "hirváis",
+    "hisopea": "hisopeá",
+    "hisopee": "hisopeé",
+    "hisopeo": "hisopeó",
+    "hisopas": "hisopás",
+    "hispira": "hispirá",
+    "hispire": "hispiré",
+    "hispais": "hispáis",
+    "hispian": "hispían",
+    "hispias": "hispías",
+    "hitaran": "hitarán",
+    "hitaras": "hitarás",
+    "hitaria": "hitaría",
+    "hocicas": "hocicás",
+    "hocicon": "hocicón",
+    "hocique": "hociqué",
+    "hojeara": "hojeará",
+    "hojeare": "hojearé",
+    "hojecio": "hojeció",
+    "hojeces": "hojecés",
+    "hojecia": "hojecía",
+    "hojeais": "hojeáis",
+    "hojeeis": "hojeéis",
+    "holeara": "holeará",
+    "holeare": "holearé",
+    "holeais": "holeáis",
+    "holeeis": "holeéis",
+    "holgara": "holgará",
+    "holgare": "holgaré",
+    "holgais": "holgáis",
+    "hollara": "hollará",
+    "hollare": "hollaré",
+    "hollais": "holláis",
+    "holleis": "holléis",
+    "hombrea": "hombreá",
+    "hombree": "hombreé",
+    "hombreo": "hombreó",
+    "hombria": "hombría",
+    "hombron": "hombrón",
+    "homilia": "homilía",
+    "hondeas": "hondeás",
+    "honesta": "honestá",
+    "honeste": "honesté",
+    "honesto": "honestó",
+    "honoras": "honorás",
+    "honrara": "honrará",
+    "honrare": "honraré",
+    "honrais": "honráis",
+    "honreis": "honréis",
+    "hoparan": "hoparán",
+    "hoparas": "hoparás",
+    "hoparia": "hoparía",
+    "hopeara": "hopeará",
+    "hopeare": "hopearé",
+    "hopeais": "hopeáis",
+    "hopeeis": "hopeéis",
+    "hopando": "hopándo",
+    "horadas": "horadás",
+    "hornara": "hornará",
+    "hornare": "hornaré",
+    "horneas": "horneás",
+    "hornais": "hornáis",
+    "horneis": "hornéis",
+    "horrara": "horrará",
+    "horrare": "horraré",
+    "horrais": "horráis",
+    "horreis": "horréis",
+    "hospeda": "hospedá",
+    "hospede": "hospedé",
+    "hospedo": "hospedó",
+    "hostiga": "hostigá",
+    "hostigo": "hostigó",
+    "hostias": "hostiás",
+    "hoyaran": "hoyarán",
+    "hoyaras": "hoyarás",
+    "hoyaria": "hoyaría",
+    "hozaran": "hozarán",
+    "hozaras": "hozarás",
+    "hozaria": "hozaría",
+    "huachas": "huachás",
+    "huaquea": "huaqueá",
+    "huaquee": "huaqueé",
+    "huaqueo": "huaqueó",
+    "hucheas": "hucheás",
+    "huchoho": "huchohó",
+    "huequea": "huequeá",
+    "huequee": "huequeé",
+    "huequeo": "huequeó",
+    "huestea": "huesteá",
+    "huestee": "huesteé",
+    "huesteo": "huesteó",
+    "huevara": "huevará",
+    "huevare": "huevaré",
+    "hueveas": "hueveás",
+    "huevais": "hueváis",
+    "hueveis": "huevéis",
+    "huillin": "huillín",
+    "huingan": "huingán",
+    "huireis": "huiréis",
+    "huirian": "huirían",
+    "huirias": "huirías",
+    "hularan": "hularán",
+    "hularas": "hularás",
+    "hularia": "hularía",
+    "huleara": "huleará",
+    "huleare": "hulearé",
+    "huleais": "huleáis",
+    "huleeis": "huleéis",
+    "humanas": "humanás",
+    "humaran": "humarán",
+    "humaras": "humarás",
+    "humaria": "humaría",
+    "humazon": "humazón",
+    "humeara": "humeará",
+    "humeare": "humearé",
+    "humecta": "humectá",
+    "humecte": "humecté",
+    "humecto": "humectó",
+    "humeais": "humeáis",
+    "humeeis": "humeéis",
+    "humilla": "humillá",
+    "humille": "humillé",
+    "humillo": "humilló",
+    "hundira": "hundirá",
+    "hundire": "hundiré",
+    "hundais": "hundáis",
+    "hundian": "hundían",
+    "hundias": "hundías",
+    "hungria": "hungría",
+    "huracan": "huracán",
+    "hurañia": "hurañía",
+    "hurgara": "hurgará",
+    "hurgare": "hurgaré",
+    "hurgais": "hurgáis",
+    "huronea": "huroneá",
+    "huronee": "huroneé",
+    "huroneo": "huroneó",
+    "hurtara": "hurtará",
+    "hurtare": "hurtaré",
+    "hurtais": "hurtáis",
+    "hurteis": "hurtéis",
+    "husmara": "husmará",
+    "husmare": "husmaré",
+    "husmeas": "husmeás",
+    "husmais": "husmáis",
+    "husmeis": "husméis",
+    "huacala": "huácala",
+    "huesped": "huésped",
+    "huiamos": "huíamos",
+    "habitat": "hábitat",
+    "habitos": "hábitos",
+    "hamster": "hámster",
+    "haptica": "háptica",
+    "haptico": "háptico",
+    "hectica": "héctica",
+    "hectico": "héctico",
+    "hernica": "hérnica",
+    "hernico": "hérnico",
+    "hernien": "hérnien",
+    "hespera": "héspera",
+    "hespero": "héspero",
+    "hidrica": "hídrica",
+    "hidrico": "hídrico",
+    "hispida": "híspida",
+    "hispido": "híspido",
+    "histica": "hística",
+    "histico": "hístico",
+    "horrida": "hórrida",
+    "horrido": "hórrido",
+    "hungara": "húngara",
+    "hungaro": "húngaro"
+}

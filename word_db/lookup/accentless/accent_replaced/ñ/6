@@ -1,9 +1,10 @@
-ñacara
-ñampea
-ñampee
-ñampee
-ñampeo
-ñateas
-ñañara
-ñañiga
-ñañigo
+{
+    "ñampee": "ñampée",
+    "ñampeo": "ñampeó",
+    "ñampea": "ñampéa",
+    "ñateas": "ñateás",
+    "ñacara": "ñácara",
+    "ñañara": "ñáñara",
+    "ñañiga": "ñáñiga",
+    "ñañigo": "ñáñigo"
+}

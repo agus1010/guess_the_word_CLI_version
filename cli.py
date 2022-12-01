@@ -9,6 +9,7 @@ from gamestate import GameState
 from gui import GUI
 from gameglobals import ACCENTED_GAME_CHARS, ACCENTLESS_GAME_CHARS
 
+import dictionary
 import wordutils
 
 
@@ -45,6 +46,15 @@ def _print_from_file(path:Path):
         for line in src.readlines():
             print(line)
 
+def _translate_type(word:str) -> str:
+    return {
+        "adjective": "Adj",
+        "adverb": "Adv",
+        "interjection": "Int",
+        "noun": "Sus",
+        "pronoun": "Pro",
+        "verb": "Ver"
+    }[word]
 
 
 init() # colorama.init()
@@ -100,6 +110,7 @@ class CLI(GUI):  #Command Line Interface
         pass
 
     def show_end_game(self, game_state:GameState):
+        self.show_word_definition(game_state)
         print("\nGracias por jugar! Vuelva prontos!\n")
 
     def show_game_error(self, game_state:GameState, user_word:str, error:GameError):
@@ -110,6 +121,15 @@ class CLI(GUI):  #Command Line Interface
         error_display = _back_chars(user_word) + clampped_word + self._prev_error_msg
         _print(error_display)
         self._line_dirty = True
+    
+    def show_word_definition(self, game_state:GameState):
+        definitions = dictionary.request_definitions(game_state.word, game_state.accents)
+        for definition in definitions:
+            print(definition)
+            gender = definition["category"]["abbr"]
+            word_types = [ _translate_type(elem) for elem in definition["is"] if elem == True ]
+            text = definition["sentence"]["text"]
+            print(f"  {gender} " + ", ".join(word_types) + f": {text}")
 
 
     @classmethod

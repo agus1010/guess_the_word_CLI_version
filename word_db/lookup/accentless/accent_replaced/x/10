@@ -1,14 +1,13 @@
-xenofobica
-xenofobico
-xenogenica
-xenogenico
-xerocopias
-xerofitica
-xerofitico
-xerografia
-xerografia
-xerografie
-xerografie
-xerografio
-xerografio
-xilografia
+{
+    "xenofobica": "xenofóbica",
+    "xenofobico": "xenofóbico",
+    "xenogenica": "xenogénica",
+    "xenogenico": "xenogénico",
+    "xerocopias": "xerocopiás",
+    "xerofitica": "xerofítica",
+    "xerofitico": "xerofítico",
+    "xerografia": "xerografía",
+    "xerografie": "xerografíe",
+    "xerografio": "xerografío",
+    "xilografia": "xilografía"
+}

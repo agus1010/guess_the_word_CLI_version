@@ -1,5 +1,7 @@
-kaiser
-karate
-kermes
-kinder
-kungfu
+{
+    "kermes": "kermés",
+    "kungfu": "kungfú",
+    "kaiser": "káiser",
+    "karate": "kárate",
+    "kinder": "kínder"
+}

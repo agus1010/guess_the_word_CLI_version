@@ -1,11 +1,13 @@
-ñacurutu
-ñampeais
-ñampeara
-ñampeare
-ñampeeis
-ñangotas
-ñangoten
-ñangueas
-ñatearan
-ñatearas
-ñatearia
+{
+    "ñacurutu": "ñacurutú",
+    "ñampeara": "ñampeará",
+    "ñampeare": "ñampearé",
+    "ñampeais": "ñampeáis",
+    "ñampeeis": "ñampeéis",
+    "ñangotas": "ñangotás",
+    "ñangueas": "ñangueás",
+    "ñangoten": "ñangóten",
+    "ñatearan": "ñatearán",
+    "ñatearas": "ñatearás",
+    "ñatearia": "ñatearía"
+}

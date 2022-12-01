@@ -1,232 +1,205 @@
-sabes
-sabia
-sabia
-sabra
-sabra
-sabre
-sacas
-sacha
-sache
-sacho
-sacia
-sacie
-sacio
-sacon
-saenz
-saeta
-saete
-saeti
-saeto
-saina
-saina
-saine
-saine
-saino
-saino
-sajas
-sajia
-sajon
-salas
-salda
-salde
-saldo
-salea
-salee
-salee
-saleo
-salia
-salia
-salin
-salio
-salio
-salis
-salla
-salle
-sallo
-salon
-salon
-salta
-salte
-salto
-salto
-salva
-salve
-salvo
-salvo
-saman
-samba
-sambe
-sambo
-sanas
-sanea
-sanee
-saneo
-sapea
-sapee
-sapeo
-saque
-saran
-saria
-satan
-saten
-satin
-sauco
-saudi
-saxea
-saxeo
-sayon
-sazon
-seais
-secas
-secon
-sedan
-sedas
-sedea
-sedee
-sedeo
-segas
-segri
-segue
-segui
-segui
-segun
-segun
-seibo
-sella
-selle
-sello
-senta
-sente
-senti
-senti
-sento
-sento
-seque
-seran
-seran
-seras
-seria
-seria
-seria
-serie
-serio
-seron
-serra
-serre
-serro
-servi
-sesea
-sesee
-sesen
-seseo
-sesga
-sesgo
-sesil
-sexas
-señas
-sifon
-sifue
-signa
-signe
-signo
-silba
-silbe
-silbo
-silex
-silga
-silgo
-simil
-simon
-simon
-simun
-singa
-singo
-sirga
-sirgo
-sirin
-sisas
-sisea
-sisee
-siseo
-sison
-sitia
-sitie
-sitio
-situa
-situa
-situa
-situe
-situe
-situo
-situo
-situo
-soasa
-soase
-soaso
-sobas
-sobon
-sobra
-sobre
-sobro
-sofia
-sogun
-solas
-solda
-solde
-soldo
-solea
-solee
-solen
-soleo
-soleo
-soles
-solia
-solia
-solio
-solta
-solte
-solto
-solto
-sonas
-sonda
-sonde
-sondo
-sopas
-sopea
-sopee
-sopeo
-sopie
-sopla
-sople
-soplo
-sopon
-sorbe
-sorbi
-sorna
-sorne
-sorno
-soror
-soñas
-subia
-subia
-subio
-subio
-subis
-sudas
-sufle
-sufri
-sumas
-sumia
-sumio
-sumis
-sunni
-super
-supli
-supon
-surca
-surco
-surdi
-surgi
-surti
-sutas
-suzon
+{
+    "sabra": "sabrá",
+    "sabre": "sabré",
+    "sabes": "sabés",
+    "sabia": "sabía",
+    "sacha": "sachá",
+    "sache": "saché",
+    "sacho": "sachó",
+    "sacia": "saciá",
+    "sacie": "sacié",
+    "sacio": "sació",
+    "sacas": "sacás",
+    "sacon": "sacón",
+    "saeta": "saetá",
+    "saete": "saeté",
+    "saeti": "saetí",
+    "saeto": "saetó",
+    "saina": "saína",
+    "saine": "saíne",
+    "saino": "saíno",
+    "sajas": "sajás",
+    "sajia": "sajía",
+    "sajon": "sajón",
+    "salda": "saldá",
+    "salde": "saldé",
+    "saldo": "saldó",
+    "salee": "salée",
+    "saleo": "saleó",
+    "salio": "salió",
+    "salla": "sallá",
+    "salle": "sallé",
+    "sallo": "salló",
+    "salta": "saltá",
+    "salte": "salté",
+    "salto": "saltó",
+    "salva": "salvá",
+    "salve": "salvé",
+    "salvo": "salvó",
+    "salas": "salás",
+    "salea": "saléa",
+    "salia": "salía",
+    "salin": "salín",
+    "salis": "salís",
+    "salon": "salón",
+    "samba": "sambá",
+    "sambe": "sambé",
+    "sambo": "sambó",
+    "saman": "samán",
+    "sanea": "saneá",
+    "sanee": "saneé",
+    "saneo": "saneó",
+    "sanas": "sanás",
+    "sapea": "sapeá",
+    "sapee": "sapeé",
+    "sapeo": "sapeó",
+    "saque": "saqué",
+    "saria": "sariá",
+    "saran": "sarán",
+    "satan": "satán",
+    "saten": "satén",
+    "satin": "satín",
+    "saudi": "saudí",
+    "sayon": "sayón",
+    "sazon": "sazón",
+    "sauco": "saúco",
+    "secas": "secás",
+    "secon": "secón",
+    "sedea": "sedeá",
+    "sedee": "sedeé",
+    "sedeo": "sedeó",
+    "sedan": "sedán",
+    "sedas": "sedás",
+    "segri": "segrí",
+    "segue": "segué",
+    "segui": "seguí",
+    "segas": "segás",
+    "segun": "según",
+    "seibo": "seibó",
+    "sella": "sellá",
+    "selle": "sellé",
+    "sello": "selló",
+    "senta": "sentá",
+    "sente": "senté",
+    "senti": "sentí",
+    "sento": "sentó",
+    "seque": "sequé",
+    "seria": "sería",
+    "serie": "serié",
+    "serio": "serió",
+    "serra": "serrá",
+    "serre": "serré",
+    "serro": "serró",
+    "servi": "serví",
+    "seran": "serán",
+    "seras": "serás",
+    "seron": "serón",
+    "sesea": "seseá",
+    "sesee": "seseé",
+    "seseo": "seseó",
+    "sesga": "sesgá",
+    "sesgo": "sesgó",
+    "sesen": "sesén",
+    "sexas": "sexás",
+    "seais": "seáis",
+    "señas": "señás",
+    "sifue": "sifué",
+    "sifon": "sifón",
+    "signa": "signá",
+    "signe": "signé",
+    "signo": "signó",
+    "silba": "silbá",
+    "silbe": "silbé",
+    "silbo": "silbó",
+    "silga": "silgá",
+    "silgo": "silgó",
+    "simon": "simón",
+    "simun": "simún",
+    "singa": "singá",
+    "singo": "singó",
+    "sirga": "sirgá",
+    "sirgo": "sirgó",
+    "sirin": "sirín",
+    "sisea": "siseá",
+    "sisee": "siseé",
+    "siseo": "siseó",
+    "sisas": "sisás",
+    "sison": "sisón",
+    "sitia": "sitiá",
+    "sitie": "sitié",
+    "sitio": "sitió",
+    "situa": "sitúa",
+    "situe": "sitúe",
+    "situo": "sitúo",
+    "soasa": "soasá",
+    "soase": "soasé",
+    "soaso": "soasó",
+    "sobra": "sobrá",
+    "sobre": "sobré",
+    "sobro": "sobró",
+    "sobas": "sobás",
+    "sobon": "sobón",
+    "sofia": "sofía",
+    "sogun": "sogún",
+    "solda": "soldá",
+    "solde": "soldé",
+    "soldo": "soldó",
+    "solea": "soleá",
+    "solee": "soleé",
+    "soleo": "sóleo",
+    "solio": "solió",
+    "solta": "soltá",
+    "solte": "solté",
+    "solto": "soltó",
+    "solas": "solás",
+    "solen": "solén",
+    "soles": "solés",
+    "solia": "solía",
+    "sonda": "sondá",
+    "sonde": "sondé",
+    "sondo": "sondó",
+    "sonas": "sonás",
+    "sopea": "sopeá",
+    "sopee": "sopeé",
+    "sopeo": "sopeó",
+    "sopie": "sopié",
+    "sopla": "soplá",
+    "sople": "soplé",
+    "soplo": "sopló",
+    "sopas": "sopás",
+    "sopon": "sopón",
+    "sorbe": "sorbé",
+    "sorbi": "sorbí",
+    "sorna": "sorná",
+    "sorne": "sorné",
+    "sorno": "sornó",
+    "soñas": "soñás",
+    "subio": "subió",
+    "subia": "subía",
+    "subis": "subís",
+    "sudas": "sudás",
+    "sufle": "suflé",
+    "sufri": "sufrí",
+    "sumio": "sumió",
+    "sumas": "sumás",
+    "sumia": "sumía",
+    "sumis": "sumís",
+    "sunni": "sunní",
+    "supli": "suplí",
+    "supon": "supón",
+    "surca": "surcá",
+    "surco": "surcó",
+    "surdi": "surdí",
+    "surgi": "surgí",
+    "surti": "surtí",
+    "sutas": "sutás",
+    "suzon": "suzón",
+    "saenz": "sáenz",
+    "saxea": "sáxea",
+    "saxeo": "sáxeo",
+    "sesil": "sésil",
+    "silex": "sílex",
+    "simil": "símil",
+    "soror": "sóror",
+    "super": "súper"
+}

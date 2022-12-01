@@ -1,60 +1,57 @@
-ubica
-ubico
-ufana
-ufane
-ufane
-ufano
-ujule
-ulula
-ulula
-ulule
-ululo
-unais
-uncia
-uncio
-uncis
-ungia
-ungio
-ungis
-unian
-unias
-unica
-unica
-unico
-unico
-union
-union
-unira
-unire
-untas
-upais
-upara
-upare
-upeis
-urdia
-urdio
-urdis
-urgia
-urgio
-urgis
-urica
-urico
-urubu
-urucu
-usais
-usara
-usare
-useis
-ustea
-ustee
-usteo
-usura
-usure
-usuro
-utero
-uvula
-uñais
-uñian
-uñias
-uñira
-uñire
+{
+    "ubica": "ubicá",
+    "ubico": "ubicó",
+    "ufane": "ufáne",
+    "ufano": "ufanó",
+    "ufana": "ufána",
+    "ulula": "úlula",
+    "ulule": "ululé",
+    "ululo": "ululó",
+    "uncio": "unció",
+    "uncia": "uncía",
+    "uncis": "uncís",
+    "ungio": "ungió",
+    "ungia": "ungía",
+    "ungis": "ungís",
+    "unira": "unirá",
+    "unire": "uniré",
+    "union": "unión",
+    "untas": "untás",
+    "unais": "unáis",
+    "unian": "unían",
+    "unias": "unías",
+    "upara": "upará",
+    "upare": "uparé",
+    "upais": "upáis",
+    "upeis": "upéis",
+    "urdio": "urdió",
+    "urdia": "urdía",
+    "urdis": "urdís",
+    "urgio": "urgió",
+    "urgia": "urgía",
+    "urgis": "urgís",
+    "urubu": "urubú",
+    "urucu": "urucú",
+    "usara": "usará",
+    "usare": "usaré",
+    "ustea": "usteá",
+    "ustee": "usteé",
+    "usteo": "usteó",
+    "usura": "usurá",
+    "usure": "usuré",
+    "usuro": "usuró",
+    "usais": "usáis",
+    "useis": "uséis",
+    "uñira": "uñirá",
+    "uñire": "uñiré",
+    "uñais": "uñáis",
+    "uñian": "uñían",
+    "uñias": "uñías",
+    "ujule": "újule",
+    "unica": "única",
+    "unico": "único",
+    "urica": "úrica",
+    "urico": "úrico",
+    "utero": "útero",
+    "uvula": "úvula"
+}

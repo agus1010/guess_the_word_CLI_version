@@ -1,346 +1,339 @@
-fabula
-fabula
-fabule
-fabulo
-facata
-faceta
-facete
-faceto
-fachas
-fachea
-fachee
-facheo
-facion
-facula
-faenas
-faeton
-faisan
-fajais
-fajara
-fajare
-fajeas
-fajeis
-falcon
-faldea
-faldee
-faldeo
-faldon
-falica
-falico
-fallas
-falsas
-falsea
-falsee
-falseo
-falsia
-faltas
-falton
-famula
-famulo
-faquin
-farala
-faraon
-fardas
-fardon
-farfan
-farrea
-farree
-farreo
-fatica
-fatico
-fatiga
-fatigo
-fatimi
-faulea
-faulee
-fauleo
-faxeas
-fañais
-fañara
-fañare
-fañeis
-fechas
-fecula
-federa
-federe
-federo
-fefaut
-feismo
-feista
-felida
-felido
-felpas
-felpea
-felpee
-felpeo
-femina
-fenece
-feneci
-fenico
-ferias
-ferlin
-fermin
-feroes
-ferras
-ferrea
-ferreo
-ferron
-fertil
-ferula
-festin
-feston
-fetida
-fetido
-feucha
-feucho
-feudas
-fiaran
-fiaras
-fiaria
-fibula
-fichas
-fideua
-fiesta
-fieste
-fiesto
-fifais
-fifara
-fifare
-fifeis
-figaro
-figura
-figure
-figuro
-fijais
-fijara
-fijare
-fijeis
-filais
-filara
-filare
-fildea
-fildee
-fildeo
-fileis
-fileli
-filias
-filili
-filmas
-filtra
-filtre
-filtro
-filvan
-fimica
-fimico
-finais
-finara
-finare
-fincas
-fincha
-finche
-fincho
-fineis
-fingia
-fingio
-fingis
-finian
-finias
-finira
-finire
-finque
-fintas
-fintea
-fintee
-finteo
-fiofio
-firman
-firmas
-firmon
-fisgas
-fisgon
-fisgue
-fisica
-fisica
-fisico
-fisico
-fision
-fisura
-fisure
-fisuro
-flacon
-flagra
-flagre
-flagro
-flamea
-flamea
-flamee
-flameo
-flameo
-flebil
-flecha
-fleche
-flecho
-flecta
-flecte
-flecto
-flejas
-flemon
-fletan
-fletas
-fletea
-fletee
-fleteo
-flipas
-flipea
-flipee
-flipee
-flipeo
-flojea
-flojee
-flojeo
-floras
-florea
-floree
-floreo
-florin
-floron
-flotas
-fluian
-fluias
-fluira
-fluire
-fluora
-fluore
-fluoro
-fobica
-fobico
-foculo
-fodoli
-foguea
-foguee
-fogueo
-folder
-folias
-folico
-folion
-follas
-follon
-fomite
-fondea
-fondee
-fondeo
-fondon
-fonica
-fonico
-forjas
-forlon
-formas
-formon
-forras
-forrea
-forree
-forreo
-fortin
-forzas
-fosais
-fosara
-fosare
-foseis
-fragil
-fragil
-fragua
-fraguo
-framea
-frangi
-franja
-franje
-franjo
-frasea
-frasee
-fraseo
-fratas
-fregas
-fregon
-fregue
-freian
-freias
-freido
-freira
-freire
-frejol
-frejon
-frejul
-frenas
-fresas
-freson
-fretas
-frezas
-fricas
-frijol
-frijon
-frique
-frisas
-frisol
-frison
-fritas
-frogas
-frogue
-frotas
-frufru
-fruian
-fruias
-fruira
-fruire
-frunci
-frutas
-frutea
-frutee
-fruteo
-fucila
-fucile
-fucilo
-fuetea
-fuetee
-fueteo
-fufais
-fufara
-fufare
-fufeis
-fugais
-fugara
-fugare
-fugida
-fugido
-fulgia
-fulgio
-fulgis
-fulica
-fumais
-fumara
-fumare
-fumeis
-fumiga
-fumigo
-funcas
-fundas
-fundia
-fundio
-fundis
-fungia
-fungio
-fungis
-funque
-furgon
-furica
-furico
-furlon
-fusila
-fusile
-fusilo
-fusion
-fusion
-fustan
-futbol
-futbol
-fuñica
-fuñico
+{
+    "fabula": "fábula",
+    "fabule": "fabulé",
+    "fabulo": "fabuló",
+    "faceta": "facetá",
+    "facete": "faceté",
+    "faceto": "facetó",
+    "fachea": "facheá",
+    "fachee": "facheé",
+    "facheo": "facheó",
+    "fachas": "fachás",
+    "facion": "fación",
+    "faenas": "faenás",
+    "faeton": "faetón",
+    "faisan": "faisán",
+    "fajara": "fajará",
+    "fajare": "fajaré",
+    "fajeas": "fajeás",
+    "fajais": "fajáis",
+    "fajeis": "fajéis",
+    "falcon": "falcón",
+    "faldea": "faldeá",
+    "faldee": "faldeé",
+    "faldeo": "faldeó",
+    "faldon": "faldón",
+    "fallas": "fallás",
+    "falsea": "falseá",
+    "falsee": "falseé",
+    "falseo": "falseó",
+    "falsas": "falsás",
+    "falsia": "falsía",
+    "faltas": "faltás",
+    "falton": "faltón",
+    "faquin": "faquín",
+    "farala": "faralá",
+    "faraon": "faraón",
+    "fardas": "fardás",
+    "fardon": "fardón",
+    "farfan": "farfán",
+    "farrea": "farreá",
+    "farree": "farreé",
+    "farreo": "farreó",
+    "fatiga": "fatigá",
+    "fatigo": "fatigó",
+    "fatimi": "fatimí",
+    "faulea": "fauleá",
+    "faulee": "fauleé",
+    "fauleo": "fauleó",
+    "faxeas": "faxeás",
+    "fañara": "fañará",
+    "fañare": "fañaré",
+    "fañais": "fañáis",
+    "fañeis": "fañéis",
+    "fechas": "fechás",
+    "federa": "federá",
+    "federe": "federé",
+    "federo": "federó",
+    "fefaut": "fefaút",
+    "felpea": "felpeá",
+    "felpee": "felpeé",
+    "felpeo": "felpeó",
+    "felpas": "felpás",
+    "fenece": "fenecé",
+    "feneci": "fenecí",
+    "ferias": "feriás",
+    "ferlin": "ferlín",
+    "fermin": "fermín",
+    "feroes": "feroés",
+    "ferras": "ferrás",
+    "ferron": "ferrón",
+    "festin": "festín",
+    "feston": "festón",
+    "feudas": "feudás",
+    "feismo": "feísmo",
+    "feista": "feísta",
+    "feucha": "feúcha",
+    "feucho": "feúcho",
+    "fiaran": "fiarán",
+    "fiaras": "fiarás",
+    "fiaria": "fiaría",
+    "fichas": "fichás",
+    "fideua": "fideuá",
+    "fiesta": "fiestá",
+    "fieste": "fiesté",
+    "fiesto": "fiestó",
+    "fifara": "fifará",
+    "fifare": "fifaré",
+    "fifais": "fifáis",
+    "fifeis": "fiféis",
+    "figura": "figurá",
+    "figure": "figuré",
+    "figuro": "figuró",
+    "fijara": "fijará",
+    "fijare": "fijaré",
+    "fijais": "fijáis",
+    "fijeis": "fijéis",
+    "filara": "filará",
+    "filare": "filaré",
+    "fildea": "fildeá",
+    "fildee": "fildeé",
+    "fildeo": "fildeó",
+    "fileli": "filelí",
+    "filili": "fililí",
+    "filias": "filiás",
+    "filmas": "filmás",
+    "filtra": "filtrá",
+    "filtre": "filtré",
+    "filtro": "filtró",
+    "filvan": "filván",
+    "filais": "filáis",
+    "fileis": "filéis",
+    "finara": "finará",
+    "finare": "finaré",
+    "fincha": "finchá",
+    "finche": "finché",
+    "fincho": "finchó",
+    "fincas": "fincás",
+    "fingio": "fingió",
+    "fingia": "fingía",
+    "fingis": "fingís",
+    "finira": "finirá",
+    "finire": "finiré",
+    "finque": "finqué",
+    "fintea": "finteá",
+    "fintee": "finteé",
+    "finteo": "finteó",
+    "fintas": "fintás",
+    "finais": "fináis",
+    "fineis": "finéis",
+    "finian": "finían",
+    "finias": "finías",
+    "fiofio": "fiofío",
+    "firman": "firmán",
+    "firmas": "firmás",
+    "firmon": "firmón",
+    "fisgue": "fisgué",
+    "fisgas": "fisgás",
+    "fisgon": "fisgón",
+    "fision": "fisión",
+    "fisura": "fisurá",
+    "fisure": "fisuré",
+    "fisuro": "fisuró",
+    "flacon": "flacón",
+    "flagra": "flagrá",
+    "flagre": "flagré",
+    "flagro": "flagró",
+    "flamea": "flámea",
+    "flamee": "flameé",
+    "flameo": "flámeo",
+    "flecha": "flechá",
+    "fleche": "fleché",
+    "flecho": "flechó",
+    "flecta": "flectá",
+    "flecte": "flecté",
+    "flecto": "flectó",
+    "flejas": "flejás",
+    "flemon": "flemón",
+    "fletea": "fleteá",
+    "fletee": "fleteé",
+    "fleteo": "fleteó",
+    "fletan": "fletán",
+    "fletas": "fletás",
+    "flipee": "flipée",
+    "flipeo": "flipeó",
+    "flipas": "flipás",
+    "flipea": "flipéa",
+    "flojea": "flojeá",
+    "flojee": "flojeé",
+    "flojeo": "flojeó",
+    "florea": "floreá",
+    "floree": "floreé",
+    "floreo": "floreó",
+    "floras": "florás",
+    "florin": "florín",
+    "floron": "florón",
+    "flotas": "flotás",
+    "fluira": "fluirá",
+    "fluire": "fluiré",
+    "fluora": "fluorá",
+    "fluore": "fluoré",
+    "fluoro": "fluoró",
+    "fluian": "fluían",
+    "fluias": "fluías",
+    "flebil": "flébil",
+    "fodoli": "fodolí",
+    "foguea": "fogueá",
+    "foguee": "fogueé",
+    "fogueo": "fogueó",
+    "folias": "foliás",
+    "folion": "folión",
+    "follas": "follás",
+    "follon": "follón",
+    "fondea": "fondeá",
+    "fondee": "fondeé",
+    "fondeo": "fondeó",
+    "fondon": "fondón",
+    "forjas": "forjás",
+    "forlon": "forlón",
+    "formas": "formás",
+    "formon": "formón",
+    "forrea": "forreá",
+    "forree": "forreé",
+    "forreo": "forreó",
+    "forras": "forrás",
+    "fortin": "fortín",
+    "forzas": "forzás",
+    "fosara": "fosará",
+    "fosare": "fosaré",
+    "fosais": "fosáis",
+    "foseis": "foséis",
+    "fragua": "fraguá",
+    "fraguo": "fraguó",
+    "frangi": "frangí",
+    "franja": "franjá",
+    "franje": "franjé",
+    "franjo": "franjó",
+    "frasea": "fraseá",
+    "frasee": "fraseé",
+    "fraseo": "fraseó",
+    "fratas": "fratás",
+    "fregue": "fregué",
+    "fregas": "fregás",
+    "fregon": "fregón",
+    "freira": "freirá",
+    "freire": "freiré",
+    "frejon": "frejón",
+    "frenas": "frenás",
+    "fresas": "fresás",
+    "freson": "fresón",
+    "fretas": "fretás",
+    "frezas": "frezás",
+    "freian": "freían",
+    "freias": "freías",
+    "freido": "freído",
+    "fricas": "fricás",
+    "frijon": "frijón",
+    "frique": "friqué",
+    "frisas": "frisás",
+    "frison": "frisón",
+    "fritas": "fritás",
+    "frogue": "frogué",
+    "frogas": "frogás",
+    "frotas": "frotás",
+    "frufru": "frufrú",
+    "fruira": "fruirá",
+    "fruire": "fruiré",
+    "frunci": "fruncí",
+    "frutea": "fruteá",
+    "frutee": "fruteé",
+    "fruteo": "fruteó",
+    "frutas": "frutás",
+    "fruian": "fruían",
+    "fruias": "fruías",
+    "fragil": "frágil",
+    "framea": "frámea",
+    "frejol": "fréjol",
+    "frejul": "fréjul",
+    "frijol": "fríjol",
+    "frisol": "frísol",
+    "fucila": "fucilá",
+    "fucile": "fucilé",
+    "fucilo": "fuciló",
+    "fuetea": "fueteá",
+    "fuetee": "fueteé",
+    "fueteo": "fueteó",
+    "fufara": "fufará",
+    "fufare": "fufaré",
+    "fufais": "fufáis",
+    "fufeis": "fuféis",
+    "fugara": "fugará",
+    "fugare": "fugaré",
+    "fugais": "fugáis",
+    "fulgio": "fulgió",
+    "fulgia": "fulgía",
+    "fulgis": "fulgís",
+    "fumara": "fumará",
+    "fumare": "fumaré",
+    "fumiga": "fumigá",
+    "fumigo": "fumigó",
+    "fumais": "fumáis",
+    "fumeis": "fuméis",
+    "funcas": "funcás",
+    "fundio": "fundió",
+    "fundas": "fundás",
+    "fundia": "fundía",
+    "fundis": "fundís",
+    "fungio": "fungió",
+    "fungia": "fungía",
+    "fungis": "fungís",
+    "funque": "funqué",
+    "furgon": "furgón",
+    "furlon": "furlón",
+    "fusila": "fusilá",
+    "fusile": "fusilé",
+    "fusilo": "fusiló",
+    "fusion": "fusión",
+    "fustan": "fustán",
+    "fuñica": "fuñicá",
+    "fuñico": "fuñicó",
+    "facata": "fácata",
+    "facula": "fácula",
+    "falica": "fálica",
+    "falico": "fálico",
+    "famula": "fámula",
+    "famulo": "fámulo",
+    "fatica": "fática",
+    "fatico": "fático",
+    "fecula": "fécula",
+    "felida": "félida",
+    "felido": "félido",
+    "femina": "fémina",
+    "fenico": "fénico",
+    "ferrea": "férrea",
+    "ferreo": "férreo",
+    "fertil": "fértil",
+    "ferula": "férula",
+    "fetida": "fétida",
+    "fetido": "fétido",
+    "fibula": "fíbula",
+    "figaro": "fígaro",
+    "fimica": "fímica",
+    "fimico": "fímico",
+    "fisica": "física",
+    "fisico": "físico",
+    "fobica": "fóbica",
+    "fobico": "fóbico",
+    "foculo": "fóculo",
+    "folder": "fólder",
+    "folico": "fólico",
+    "fomite": "fómite",
+    "fonica": "fónica",
+    "fonico": "fónico",
+    "fugida": "fúgida",
+    "fugido": "fúgido",
+    "fulica": "fúlica",
+    "furica": "fúrica",
+    "furico": "fúrico",
+    "futbol": "fútbol"
+}

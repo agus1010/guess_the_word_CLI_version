@@ -1,461 +1,439 @@
-cabas
-cabes
-cabia
-cabia
-cabra
-cabre
-cabus
-cacan
-cacea
-cacee
-caceo
-cacha
-cache
-cacho
-cachu
-cadiz
-caeis
-caera
-caere
-cagas
-cagon
-cague
-cahiz
-caian
-caias
-caida
-caida
-caido
-caido
-cajea
-cajee
-cajeo
-cajin
-cajon
-cajon
-calan
-calao
-calas
-calca
-calce
-calco
-calen
-cales
-caliz
-calla
-calle
-callo
-calma
-calme
-calmo
-calon
-calva
-calve
-calvo
-calza
-calzo
-camel
-camon
-campa
-campe
-campo
-cansa
-canse
-canso
-canta
-cante
-canto
-cantu
-capas
-capea
-capee
-capeo
-capin
-capon
-capta
-capte
-capto
-carau
-carau
-carda
-carde
-cardo
-carea
-caree
-careo
-carga
-cargo
-caria
-caria
-carie
-carie
-cario
-cario
-carlo
-carne
-caron
-carpi
-casas
-casca
-casco
-casea
-caseo
-caser
-cason
-catan
-catas
-catea
-catee
-cateo
-catin
-caton
-causa
-cause
-causo
-causo
-cavan
-cavas
-cavea
-cavio
-cavon
-cayan
-cazas
-cazon
-cañea
-cañee
-cañeo
-cañon
-cañon
-cebas
-cebon
-cebti
-cecea
-cecee
-ceceo
-cedes
-cedia
-cedio
-cedio
-cegas
-cegue
-cejas
-celan
-celas
-cenas
-cenit
-censa
-cense
-censo
-cepti
-cequi
-cerca
-cerco
-cerea
-cereo
-cerne
-cerni
-ceron
-cerra
-cerre
-cerro
-cerro
-cesar
-cesar
-cesas
-cetis
-ceuti
-ceñia
-ceñis
-chace
-chaco
-chafa
-chafe
-chafo
-chaja
-chala
-chale
-chalo
-chama
-chame
-chamo
-chana
-chane
-chapa
-chape
-chapo
-chaul
-chava
-chave
-chavo
-chaya
-chaye
-chayo
-chaza
-chazo
-checa
-checo
-chian
-chias
-chien
-chies
-chima
-chime
-chimo
-chimu
-china
-chine
-chino
-chipa
-chipe
-chita
-chite
-chito
-chiva
-chive
-chivo
-choca
-choco
-chora
-chore
-choro
-choya
-choye
-choyo
-chuce
-chufa
-chufe
-chufo
-chule
-chupa
-chupe
-chupo
-churu
-chuta
-chute
-chuto
-chuza
-chuzo
-ciani
-ciara
-ciare
-cicla
-cicle
-ciclo
-cifra
-cifre
-cifro
-cinta
-cinte
-cinto
-cisca
-cisco
-citas
-clama
-clame
-clamo
-clava
-clave
-clavo
-clica
-clico
-clisa
-clise
-cliso
-cloca
-cloco
-clona
-clone
-clono
-clora
-clore
-cloro
-coati
-cobra
-cobre
-cobro
-cocas
-cocea
-cocee
-coceo
-coces
-cocia
-cocio
-codea
-codee
-codeo
-codex
-codin
-codon
-cofan
-cofin
-coges
-cogia
-cogio
-cogio
-cogon
-coine
-coita
-coite
-coito
-cojea
-cojee
-cojeo
-cojin
-cojon
-colas
-colea
-colee
-coleo
-colga
-colgo
-colin
-colma
-colme
-colmo
-colon
-colon
-comba
-combe
-combo
-comes
-comia
-comic
-comio
-comis
-comun
-comun
-conta
-conte
-conto
-conto
-copas
-copea
-copee
-copeo
-copia
-copie
-copin
-copio
-copon
-coque
-coqui
-corea
-coree
-coreo
-corio
-corla
-corle
-corlo
-corre
-corri
-corse
-corta
-corte
-corto
-corto
-corua
-corva
-corve
-corvo
-cosca
-cosco
-coses
-cosia
-cosio
-costa
-coste
-costo
-costo
-cotas
-cotin
-coton
-cotua
-coyan
-coñea
-coñee
-coñee
-coñeo
-coñon
-creas
-crece
-creci
-crees
-creia
-creia
-crema
-creme
-cremo
-crepe
-creyo
-creyo
-crian
-crias
-criba
-cribe
-cribo
-crien
-cries
-crina
-crine
-crino
-croas
-croma
-crome
-cromo
-cruce
-cruji
-cruor
-cruza
-cruzo
-cruzo
-cuaja
-cuaje
-cuajo
-cuati
-cubri
-cucas
-cuche
-cuchi
-cuida
-cuide
-cuido
-cujin
-cujon
-culea
-culee
-culen
-culeo
-culin
-culio
-culon
-culpa
-culpe
-culpo
-cumbe
-cumel
-cunas
-cundi
-cunea
-cunee
-cuneo
-cuneo
-cuple
-cupon
-cuque
-curas
-curra
-curre
-curro
-cursa
-curse
-curso
-curti
-curva
-curve
-curvo
-cuscu
-cusia
-cusio
-cusis
-cuter
-cuñas
+{
+    "cabra": "cabrá",
+    "cabre": "cabré",
+    "cabas": "cabás",
+    "cabes": "cabés",
+    "cabia": "cabía",
+    "cabus": "cabús",
+    "cacea": "caceá",
+    "cacee": "caceé",
+    "caceo": "caceó",
+    "cacha": "cachá",
+    "cache": "caché",
+    "cacho": "cachó",
+    "cachu": "cachú",
+    "cacan": "cacán",
+    "caera": "caerá",
+    "caere": "caeré",
+    "cague": "cagué",
+    "cagas": "cagás",
+    "cagon": "cagón",
+    "cahiz": "cahíz",
+    "cajea": "cajeá",
+    "cajee": "cajeé",
+    "cajeo": "cajeó",
+    "cajin": "cajín",
+    "cajon": "cajón",
+    "calca": "calcá",
+    "calce": "calcé",
+    "calco": "calcó",
+    "calla": "callá",
+    "calle": "callé",
+    "callo": "calló",
+    "calma": "calmá",
+    "calme": "calmé",
+    "calmo": "calmó",
+    "calva": "calvá",
+    "calve": "calvé",
+    "calvo": "calvó",
+    "calza": "calzá",
+    "calzo": "calzó",
+    "calan": "calán",
+    "calas": "calás",
+    "cales": "calés",
+    "calon": "calón",
+    "campa": "campá",
+    "campe": "campé",
+    "campo": "campó",
+    "camon": "camón",
+    "cansa": "cansá",
+    "canse": "cansé",
+    "canso": "cansó",
+    "canta": "cantá",
+    "cante": "canté",
+    "canto": "cantó",
+    "cantu": "cantú",
+    "capea": "capeá",
+    "capee": "capeé",
+    "capeo": "capeó",
+    "capta": "captá",
+    "capte": "capté",
+    "capto": "captó",
+    "capas": "capás",
+    "capin": "capín",
+    "capon": "capón",
+    "carau": "caráu",
+    "carda": "cardá",
+    "carde": "cardé",
+    "cardo": "cardó",
+    "carea": "careá",
+    "caree": "careé",
+    "careo": "careó",
+    "carga": "cargá",
+    "cargo": "cargó",
+    "caria": "caría",
+    "carie": "caríe",
+    "cario": "carío",
+    "carlo": "carló",
+    "carne": "carné",
+    "carpi": "carpí",
+    "caron": "carón",
+    "casca": "cascá",
+    "casco": "cascó",
+    "casas": "casás",
+    "cason": "casón",
+    "catea": "cateá",
+    "catee": "cateé",
+    "cateo": "cateó",
+    "catan": "catán",
+    "catas": "catás",
+    "catin": "catín",
+    "caton": "catón",
+    "causa": "causá",
+    "cause": "causé",
+    "causo": "causó",
+    "cavan": "caván",
+    "cavas": "cavás",
+    "cavio": "cavío",
+    "cavon": "cavón",
+    "cayan": "cayán",
+    "cazas": "cazás",
+    "cazon": "cazón",
+    "caeis": "caéis",
+    "caian": "caían",
+    "caias": "caías",
+    "caida": "caída",
+    "caido": "caído",
+    "cañea": "cañeá",
+    "cañee": "cañeé",
+    "cañeo": "cañeó",
+    "cañon": "cañón",
+    "cebti": "cebtí",
+    "cebas": "cebás",
+    "cebon": "cebón",
+    "cecea": "ceceá",
+    "cecee": "ceceé",
+    "ceceo": "ceceó",
+    "cedio": "cedió",
+    "cedes": "cedés",
+    "cedia": "cedía",
+    "cegue": "cegué",
+    "cegas": "cegás",
+    "cejas": "cejás",
+    "celan": "celán",
+    "celas": "celás",
+    "censa": "censá",
+    "cense": "censé",
+    "censo": "censó",
+    "cenas": "cenás",
+    "cepti": "ceptí",
+    "cequi": "cequí",
+    "cerca": "cercá",
+    "cerco": "cercó",
+    "cerne": "cerné",
+    "cerni": "cerní",
+    "cerra": "cerrá",
+    "cerre": "cerré",
+    "cerro": "cerró",
+    "ceron": "cerón",
+    "cesas": "cesás",
+    "cetis": "cetís",
+    "ceuti": "ceutí",
+    "ceñia": "ceñía",
+    "ceñis": "ceñís",
+    "chace": "chacé",
+    "chaco": "chacó",
+    "chafa": "chafá",
+    "chafe": "chafé",
+    "chafo": "chafó",
+    "chaja": "chajá",
+    "chala": "chalá",
+    "chale": "chalé",
+    "chalo": "chaló",
+    "chama": "chamá",
+    "chame": "chamé",
+    "chamo": "chamó",
+    "chana": "chaná",
+    "chane": "chané",
+    "chapa": "chapá",
+    "chape": "chapé",
+    "chapo": "chapó",
+    "chava": "chavá",
+    "chave": "chavé",
+    "chavo": "chavó",
+    "chaya": "chayá",
+    "chaye": "chayé",
+    "chayo": "chayó",
+    "chaza": "chazá",
+    "chazo": "chazó",
+    "chaul": "chaúl",
+    "checa": "checá",
+    "checo": "checó",
+    "chima": "chimá",
+    "chime": "chimé",
+    "chimo": "chimó",
+    "chimu": "chimú",
+    "china": "chiná",
+    "chine": "chiné",
+    "chino": "chinó",
+    "chipa": "chipá",
+    "chipe": "chipé",
+    "chita": "chitá",
+    "chite": "chité",
+    "chito": "chitó",
+    "chiva": "chivá",
+    "chive": "chivé",
+    "chivo": "chivó",
+    "choca": "chocá",
+    "choco": "chocó",
+    "chora": "chorá",
+    "chore": "choré",
+    "choro": "choró",
+    "choya": "choyá",
+    "choye": "choyé",
+    "choyo": "choyó",
+    "chuce": "chucé",
+    "chufa": "chufá",
+    "chufe": "chufé",
+    "chufo": "chufó",
+    "chule": "chulé",
+    "chupa": "chupá",
+    "chupe": "chupé",
+    "chupo": "chupó",
+    "churu": "churú",
+    "chuta": "chutá",
+    "chute": "chuté",
+    "chuto": "chutó",
+    "chuza": "chuzá",
+    "chuzo": "chuzó",
+    "chian": "chían",
+    "chias": "chías",
+    "chien": "chíen",
+    "chies": "chíes",
+    "ciani": "cianí",
+    "ciara": "ciará",
+    "ciare": "ciaré",
+    "cicla": "ciclá",
+    "cicle": "ciclé",
+    "ciclo": "cicló",
+    "cifra": "cifrá",
+    "cifre": "cifré",
+    "cifro": "cifró",
+    "cinta": "cintá",
+    "cinte": "cinté",
+    "cinto": "cintó",
+    "cisca": "ciscá",
+    "cisco": "ciscó",
+    "citas": "citás",
+    "clama": "clamá",
+    "clame": "clamé",
+    "clamo": "clamó",
+    "clava": "clavá",
+    "clave": "clavé",
+    "clavo": "clavó",
+    "clica": "clicá",
+    "clico": "clicó",
+    "clisa": "clisá",
+    "clise": "clisé",
+    "cliso": "clisó",
+    "cloca": "clocá",
+    "cloco": "clocó",
+    "clona": "cloná",
+    "clone": "cloné",
+    "clono": "clonó",
+    "clora": "clorá",
+    "clore": "cloré",
+    "cloro": "cloró",
+    "coati": "coatí",
+    "cobra": "cobrá",
+    "cobre": "cobré",
+    "cobro": "cobró",
+    "cocea": "coceá",
+    "cocee": "coceé",
+    "coceo": "coceó",
+    "cocio": "coció",
+    "cocas": "cocás",
+    "coces": "cocés",
+    "cocia": "cocía",
+    "codea": "codeá",
+    "codee": "codeé",
+    "codeo": "codeó",
+    "codin": "codín",
+    "codon": "codón",
+    "cofan": "cofán",
+    "cofin": "cofín",
+    "cogio": "cogió",
+    "coges": "cogés",
+    "cogia": "cogía",
+    "cogon": "cogón",
+    "coine": "coiné",
+    "coita": "coitá",
+    "coite": "coité",
+    "coito": "coitó",
+    "cojea": "cojeá",
+    "cojee": "cojeé",
+    "cojeo": "cojeó",
+    "cojin": "cojín",
+    "cojon": "cojón",
+    "colea": "coleá",
+    "colee": "coleé",
+    "coleo": "coleó",
+    "colga": "colgá",
+    "colgo": "colgó",
+    "colma": "colmá",
+    "colme": "colmé",
+    "colmo": "colmó",
+    "colas": "colás",
+    "colin": "colín",
+    "colon": "colón",
+    "comba": "combá",
+    "combe": "combé",
+    "combo": "combó",
+    "comio": "comió",
+    "comes": "comés",
+    "comia": "comía",
+    "comis": "comís",
+    "comun": "común",
+    "conta": "contá",
+    "conte": "conté",
+    "conto": "contó",
+    "copea": "copeá",
+    "copee": "copeé",
+    "copeo": "copeó",
+    "copia": "copiá",
+    "copie": "copié",
+    "copio": "copió",
+    "copas": "copás",
+    "copin": "copín",
+    "copon": "copón",
+    "coque": "coqué",
+    "coqui": "coquí",
+    "corea": "coreá",
+    "coree": "coreé",
+    "coreo": "coreó",
+    "corla": "corlá",
+    "corle": "corlé",
+    "corlo": "corló",
+    "corre": "corré",
+    "corri": "corrí",
+    "corse": "corsé",
+    "corta": "cortá",
+    "corte": "corté",
+    "corto": "cortó",
+    "corva": "corvá",
+    "corve": "corvé",
+    "corvo": "corvó",
+    "corio": "corío",
+    "corua": "corúa",
+    "cosco": "coscó",
+    "cosio": "cosió",
+    "costa": "costá",
+    "coste": "costé",
+    "costo": "costó",
+    "coses": "cosés",
+    "cosia": "cosía",
+    "cotas": "cotás",
+    "cotin": "cotín",
+    "coton": "cotón",
+    "cotua": "cotúa",
+    "coyan": "coyán",
+    "coñee": "coñée",
+    "coñeo": "coñeó",
+    "coñea": "coñéa",
+    "coñon": "coñón",
+    "crece": "crecé",
+    "creci": "crecí",
+    "crema": "cremá",
+    "creme": "cremé",
+    "cremo": "cremó",
+    "crepe": "crepé",
+    "creyo": "creyó",
+    "creas": "creás",
+    "crees": "creés",
+    "creia": "creía",
+    "criba": "cribá",
+    "cribe": "cribé",
+    "cribo": "cribó",
+    "crina": "criná",
+    "crine": "criné",
+    "crino": "crinó",
+    "croma": "cromá",
+    "crome": "cromé",
+    "cromo": "cromó",
+    "croas": "croás",
+    "cruce": "crucé",
+    "cruji": "crují",
+    "cruza": "cruzá",
+    "cruzo": "cruzó",
+    "crian": "crían",
+    "crias": "crías",
+    "crien": "críen",
+    "cries": "críes",
+    "cruor": "crúor",
+    "cuaja": "cuajá",
+    "cuaje": "cuajé",
+    "cuajo": "cuajó",
+    "cuati": "cuatí",
+    "cubri": "cubrí",
+    "cuche": "cuché",
+    "cuchi": "cuchí",
+    "cucas": "cucás",
+    "cuida": "cuidá",
+    "cuide": "cuidé",
+    "cuido": "cuidó",
+    "cujin": "cujín",
+    "cujon": "cujón",
+    "culea": "culeá",
+    "culee": "culeé",
+    "culeo": "culeó",
+    "culpa": "culpá",
+    "culpe": "culpé",
+    "culpo": "culpó",
+    "culen": "culén",
+    "culin": "culín",
+    "culio": "culío",
+    "culon": "culón",
+    "cumbe": "cumbé",
+    "cundi": "cundí",
+    "cunea": "cuneá",
+    "cunee": "cuneé",
+    "cuneo": "cúneo",
+    "cunas": "cunás",
+    "cuple": "cuplé",
+    "cupon": "cupón",
+    "cuque": "cuqué",
+    "curra": "currá",
+    "curre": "curré",
+    "curro": "curró",
+    "cursa": "cursá",
+    "curse": "cursé",
+    "curso": "cursó",
+    "curti": "curtí",
+    "curva": "curvá",
+    "curve": "curvé",
+    "curvo": "curvó",
+    "curas": "curás",
+    "cuscu": "cuscú",
+    "cusio": "cusió",
+    "cusia": "cusía",
+    "cusis": "cusís",
+    "cuñas": "cuñás",
+    "cadiz": "cádiz",
+    "calao": "cálao",
+    "calen": "cálen",
+    "caliz": "cáliz",
+    "camel": "cámel",
+    "casea": "cásea",
+    "caseo": "cáseo",
+    "caser": "cáser",
+    "cavea": "cávea",
+    "cenit": "cénit",
+    "cerea": "cérea",
+    "cereo": "céreo",
+    "cesar": "césar",
+    "codex": "códex",
+    "comic": "cómic",
+    "cosca": "cósca",
+    "cumel": "cúmel",
+    "cuter": "cúter"
+}

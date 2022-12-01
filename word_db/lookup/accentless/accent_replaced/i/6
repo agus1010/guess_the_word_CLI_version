@@ -1,202 +1,184 @@
-ibamos
-ibamos
-ibañez
-icarea
-icareo
-ideais
-ideara
-ideare
-ideeis
-idonea
-idoneo
-ignora
-ignore
-ignoro
-iguala
-iguale
-igualo
-iliaca
-iliaco
-iludia
-iludio
-iludis
-imanas
-imanta
-imante
-imanto
-imbuia
-imbuis
-imbuyo
-imitas
-impedi
-impele
-impeli
-impera
-impere
-impero
-impeto
-impetu
-implas
-impone
-imputa
-impute
-imputo
-incidi
-incita
-incite
-incito
-inclin
-inclui
-incoas
-incola
-incona
-incone
-incono
-incuba
-incube
-incubo
-incubo
-incusa
-incuse
-incuso
-indaga
-indago
-indexa
-indexe
-indexo
-indica
-indica
-indice
-indice
-indice
-indico
-indico
-indico
-indigo
-indina
-indine
-indino
-indiza
-indizo
-indole
-indole
-induci
-inerva
-inerve
-inervo
-infama
-infame
-infamo
-infera
-inferi
-infero
-infima
-infimo
-inflas
-influi
-infula
-ingeri
-ingles
-ingles
-inhala
-inhale
-inhalo
-inhibi
-inhuma
-inhume
-inhumo
-inicia
-inicie
-inicio
-inicio
-injeri
-inmola
-inmole
-inmolo
-inmuta
-inmute
-inmuto
-inniva
-innive
-innivo
-innova
-innove
-innovo
-inseri
-insita
-insito
-insola
-insole
-insolo
-instas
-insuda
-insude
-insudo
-insula
-insumi
-intima
-intima
-intima
-intime
-intimo
-intimo
-intimo
-intuba
-intube
-intubo
-intuia
-intuis
-intuyo
-inunda
-inunde
-inundo
-inutil
-inutil
-invadi
-inveni
-invida
-invido
-invita
-invite
-invito
-invito
-invoca
-invoco
-ionica
-ionice
-ionico
-ioniza
-ionizo
-iraqui
-iraqui
-irgais
-irguio
-iriais
-iridea
-irideo
-irisas
-ironia
-ironia
-irriga
-irrigo
-irrita
-irrita
-irrite
-irrito
-irrito
-irroga
-irrogo
-irruia
-irruis
-irruyo
-irunes
-isatis
-isiaca
-isiaco
-iteras
-iverna
-iverne
-iverno
-izaran
-izaras
-izaria
+{
+    "ibañez": "ibáñez",
+    "icarea": "icárea",
+    "icareo": "icáreo",
+    "ideara": "ideará",
+    "ideare": "idearé",
+    "ideais": "ideáis",
+    "ideeis": "ideéis",
+    "idonea": "idónea",
+    "idoneo": "idóneo",
+    "ignora": "ignorá",
+    "ignore": "ignoré",
+    "ignoro": "ignoró",
+    "iguala": "igualá",
+    "iguale": "igualé",
+    "igualo": "igualó",
+    "iludio": "iludió",
+    "iludia": "iludía",
+    "iludis": "iludís",
+    "iliaca": "ilíaca",
+    "iliaco": "ilíaco",
+    "imanta": "imantá",
+    "imante": "imanté",
+    "imanto": "imantó",
+    "imanas": "imanás",
+    "imbuyo": "imbuyó",
+    "imbuia": "imbuía",
+    "imbuis": "imbuís",
+    "imitas": "imitás",
+    "impedi": "impedí",
+    "impele": "impelé",
+    "impeli": "impelí",
+    "impera": "imperá",
+    "impere": "imperé",
+    "impero": "imperó",
+    "implas": "implás",
+    "impone": "imponé",
+    "imputa": "imputá",
+    "impute": "imputé",
+    "imputo": "imputó",
+    "incidi": "incidí",
+    "incita": "incitá",
+    "incite": "incité",
+    "incito": "incitó",
+    "inclui": "incluí",
+    "inclin": "inclín",
+    "incona": "inconá",
+    "incone": "inconé",
+    "incono": "inconó",
+    "incoas": "incoás",
+    "incuba": "incubá",
+    "incube": "incubé",
+    "incubo": "íncubo",
+    "incusa": "incusá",
+    "incuse": "incusé",
+    "incuso": "incusó",
+    "indaga": "indagá",
+    "indago": "indagó",
+    "indexa": "indexá",
+    "indexe": "indexé",
+    "indexo": "indexó",
+    "indica": "índica",
+    "indice": "índice",
+    "indico": "índico",
+    "indina": "indiná",
+    "indine": "indiné",
+    "indino": "indinó",
+    "indiza": "indizá",
+    "indizo": "indizó",
+    "induci": "inducí",
+    "inerva": "inervá",
+    "inerve": "inervé",
+    "inervo": "inervó",
+    "infama": "infamá",
+    "infame": "infamé",
+    "infamo": "infamó",
+    "inferi": "inferí",
+    "influi": "influí",
+    "inflas": "inflás",
+    "ingeri": "ingerí",
+    "ingles": "inglés",
+    "inhala": "inhalá",
+    "inhale": "inhalé",
+    "inhalo": "inhaló",
+    "inhibi": "inhibí",
+    "inhuma": "inhumá",
+    "inhume": "inhumé",
+    "inhumo": "inhumó",
+    "inicia": "iniciá",
+    "inicie": "inicié",
+    "inicio": "inició",
+    "injeri": "injerí",
+    "inmola": "inmolá",
+    "inmole": "inmolé",
+    "inmolo": "inmoló",
+    "inmuta": "inmutá",
+    "inmute": "inmuté",
+    "inmuto": "inmutó",
+    "inniva": "innivá",
+    "innive": "innivé",
+    "innivo": "innivó",
+    "innova": "innová",
+    "innove": "innové",
+    "innovo": "innovó",
+    "inseri": "inserí",
+    "insola": "insolá",
+    "insole": "insolé",
+    "insolo": "insoló",
+    "instas": "instás",
+    "insuda": "insudá",
+    "insude": "insudé",
+    "insudo": "insudó",
+    "insumi": "insumí",
+    "intima": "íntima",
+    "intime": "intimé",
+    "intimo": "íntimo",
+    "intuba": "intubá",
+    "intube": "intubé",
+    "intubo": "intubó",
+    "intuyo": "intuyó",
+    "intuia": "intuía",
+    "intuis": "intuís",
+    "inunda": "inundá",
+    "inunde": "inundé",
+    "inundo": "inundó",
+    "invadi": "invadí",
+    "inveni": "invení",
+    "invita": "invitá",
+    "invite": "invité",
+    "invito": "invitó",
+    "invoca": "invocá",
+    "invoco": "invocó",
+    "inutil": "inútil",
+    "ionice": "ionicé",
+    "ioniza": "ionizá",
+    "ionizo": "ionizó",
+    "iraqui": "iraquí",
+    "irguio": "irguió",
+    "irgais": "irgáis",
+    "irisas": "irisás",
+    "ironia": "ironía",
+    "irriga": "irrigá",
+    "irrigo": "irrigó",
+    "irrita": "írrita",
+    "irrite": "irrité",
+    "irrito": "írrito",
+    "irroga": "irrogá",
+    "irrogo": "irrogó",
+    "irruyo": "irruyó",
+    "irruia": "irruía",
+    "irruis": "irruís",
+    "irunes": "irunés",
+    "iriais": "iríais",
+    "iridea": "irídea",
+    "irideo": "irídeo",
+    "isiaca": "isíaca",
+    "isiaco": "isíaco",
+    "iteras": "iterás",
+    "iverna": "iverná",
+    "iverne": "iverné",
+    "iverno": "ivernó",
+    "izaran": "izarán",
+    "izaras": "izarás",
+    "izaria": "izaría",
+    "ionica": "iónica",
+    "ionico": "iónico",
+    "ibamos": "íbamos",
+    "impeto": "ímpeto",
+    "impetu": "ímpetu",
+    "incola": "íncola",
+    "indigo": "índigo",
+    "indole": "índole",
+    "infera": "ínfera",
+    "infero": "ínfero",
+    "infima": "ínfima",
+    "infimo": "ínfimo",
+    "infula": "ínfula",
+    "insita": "ínsita",
+    "insito": "ínsito",
+    "insula": "ínsula",
+    "invida": "ínvida",
+    "invido": "ínvido",
+    "isatis": "ísatis"
+}

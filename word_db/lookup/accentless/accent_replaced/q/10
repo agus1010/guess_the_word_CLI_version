@@ -1,88 +1,89 @@
-quebrajais
-quebrajara
-quebrajare
-quebrajeis
-quebrantas
-quebrareis
-quebrarian
-quebrarias
-quedabamos
-quedaramos
-quedaremos
-quedariais
-quedasemos
-quejabamos
-quejaramos
-quejaremos
-quejariais
-quejasemos
-quejumbras
-quemabamos
-quemaramos
-quemaremos
-quemariais
-quemasemos
-querellais
-querellara
-querellare
-querelleis
-querochais
-querochara
-querochare
-querocheis
-querriamos
-queseareis
-quesearian
-quesearias
-quietacion
-quietareis
-quietarian
-quietarias
-quijoteria
-quijotizas
-quilataran
-quilataras
-quilataria
-quilificas
-quilifique
-quillotras
-quilombeas
-quilometro
-quimereais
-quimereara
-quimereare
-quimereeis
-quimerizas
-quimificas
-quimifique
-quincharan
-quincharas
-quincharia
-quindecima
-quindecimo
-quintareis
-quintarian
-quintarias
-quintillon
-quirografa
-quirografo
-quiroptero
-quirurgica
-quirurgica
-quirurgico
-quisnearan
-quisnearas
-quisnearia
-quistareis
-quistarian
-quistarias
-quitabamos
-quitaramos
-quitaremos
-quitariais
-quitasemos
-quiñabamos
-quiñaramos
-quiñaremos
-quiñariais
-quiñasemos
+{
+    "quebrajara": "quebrajará",
+    "quebrajare": "quebrajaré",
+    "quebrajais": "quebrajáis",
+    "quebrajeis": "quebrajéis",
+    "quebrantas": "quebrantás",
+    "quebrareis": "quebraréis",
+    "quebrarian": "quebrarían",
+    "quebrarias": "quebrarías",
+    "quedariais": "quedaríais",
+    "quedabamos": "quedábamos",
+    "quedaramos": "quedáramos",
+    "quedaremos": "quedáremos",
+    "quedasemos": "quedásemos",
+    "quejariais": "quejaríais",
+    "quejumbras": "quejumbrás",
+    "quejabamos": "quejábamos",
+    "quejaramos": "quejáramos",
+    "quejaremos": "quejáremos",
+    "quejasemos": "quejásemos",
+    "quemariais": "quemaríais",
+    "quemabamos": "quemábamos",
+    "quemaramos": "quemáramos",
+    "quemaremos": "quemáremos",
+    "quemasemos": "quemásemos",
+    "querellara": "querellará",
+    "querellare": "querellaré",
+    "querellais": "querelláis",
+    "querelleis": "querelléis",
+    "querochara": "querochará",
+    "querochare": "querocharé",
+    "querochais": "querocháis",
+    "querocheis": "querochéis",
+    "querriamos": "querríamos",
+    "queseareis": "quesearéis",
+    "quesearian": "quesearían",
+    "quesearias": "quesearías",
+    "quietacion": "quietación",
+    "quietareis": "quietaréis",
+    "quietarian": "quietarían",
+    "quietarias": "quietarías",
+    "quijoteria": "quijotería",
+    "quijotizas": "quijotizás",
+    "quilataran": "quilatarán",
+    "quilataras": "quilatarás",
+    "quilataria": "quilataría",
+    "quilificas": "quilificás",
+    "quilifique": "quilifiqué",
+    "quillotras": "quillotrás",
+    "quilombeas": "quilombeás",
+    "quilometro": "quilómetro",
+    "quimereara": "quimereará",
+    "quimereare": "quimerearé",
+    "quimereais": "quimereáis",
+    "quimereeis": "quimereéis",
+    "quimerizas": "quimerizás",
+    "quimificas": "quimificás",
+    "quimifique": "quimifiqué",
+    "quincharan": "quincharán",
+    "quincharas": "quincharás",
+    "quincharia": "quincharía",
+    "quindecima": "quindécima",
+    "quindecimo": "quindécimo",
+    "quintareis": "quintaréis",
+    "quintarian": "quintarían",
+    "quintarias": "quintarías",
+    "quintillon": "quintillón",
+    "quirografa": "quirógrafa",
+    "quirografo": "quirógrafo",
+    "quiroptero": "quiróptero",
+    "quirurgica": "quirúrgica",
+    "quirurgico": "quirúrgico",
+    "quisnearan": "quisnearán",
+    "quisnearas": "quisnearás",
+    "quisnearia": "quisnearía",
+    "quistareis": "quistaréis",
+    "quistarian": "quistarían",
+    "quistarias": "quistarías",
+    "quitariais": "quitaríais",
+    "quitabamos": "quitábamos",
+    "quitaramos": "quitáramos",
+    "quitaremos": "quitáremos",
+    "quitasemos": "quitásemos",
+    "quiñariais": "quiñaríais",
+    "quiñabamos": "quiñábamos",
+    "quiñaramos": "quiñáramos",
+    "quiñaremos": "quiñáremos",
+    "quiñasemos": "quiñásemos"
+}

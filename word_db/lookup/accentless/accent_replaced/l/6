@@ -1,358 +1,339 @@
-labaro
-labora
-labore
-laboro
-labras
-labura
-labure
-laburo
-lacais
-lacara
-lacare
-laceas
-laceis
-lacera
-lacere
-lacero
-lacras
-lactas
-lactea
-lacteo
-ladano
-ladeas
-ladras
-ladron
-ladron
-lailan
-lairen
-laismo
-laista
-lamais
-lambes
-lambia
-lambio
-lambon
-lameis
-lamera
-lamere
-lamian
-lamias
-lamina
-lamina
-lamina
-lamine
-lamino
-lampas
-lampea
-lampee
-lampeo
-lancan
-lancea
-lancee
-lanceo
-lanzas
-lanzon
-lapida
-lapida
-lapide
-lapido
-laquea
-laquee
-laqueo
-lardas
-lardea
-lardee
-lardeo
-lardon
-largas
-largue
-larice
-lascas
-lasque
-lastas
-laston
-lastra
-lastre
-lastro
-latais
-lateas
-latian
-latias
-latigo
-latina
-latine
-latino
-latira
-latire
-latria
-laudas
-laurea
-laurea
-lauree
-laureo
-laureo
-lavais
-lavara
-lavare
-laveis
-lavica
-lavico
-laxais
-laxara
-laxare
-laxeis
-layais
-layara
-layare
-layeis
-lazais
-lazara
-lazare
-lazaro
-lazaro
-lañais
-lañara
-lañare
-lañeis
-lebeni
-lebron
-lechas
-lechin
-lechon
-leeran
-leeras
-leeria
-legais
-legaja
-legaje
-legajo
-legamo
-legano
-legara
-legare
-legion
-legras
-legron
-leiais
-leible
-leimos
-leismo
-leista
-leiste
-lelili
-lenice
-leniza
-lenizo
-leones
-lepera
-lepero
-lepton
-lerdea
-lerdee
-lerdeo
-lerdon
-leseas
-lesion
-lesion
-leudas
-levais
-levara
-levare
-leveis
-leviga
-levigo
-levita
-levite
-levito
-lexica
-lexico
-liaran
-liaras
-liaria
-liaton
-libais
-libano
-libara
-libare
-libeis
-libera
-libera
-libere
-libero
-libero
-libica
-libico
-libras
-librea
-libree
-libreo
-licaon
-licita
-licita
-licite
-licito
-licito
-licuan
-licuas
-licuas
-licuen
-licues
-lidera
-lidere
-lidero
-lidias
-ligais
-ligara
-ligare
-ligula
-lijais
-lijara
-lijare
-lijeis
-lilili
-limais
-limara
-limare
-limeis
-limita
-limite
-limite
-limite
-limito
-limito
-limpia
-limpie
-limpio
-lincea
-lincee
-linceo
-lincha
-linche
-lincho
-lindas
-lindon
-lineas
-lineas
-liones
-lipido
-lirica
-lirica
-lirico
-lisais
-lisara
-lisare
-liseis
-lisias
-listas
-listin
-liston
-litais
-litara
-litare
-liteis
-litica
-litico
-litiga
-litigo
-litote
-liudas
-livida
-livido
-llagas
-llague
-llamas
-llamea
-llamee
-llameo
-llanea
-llanee
-llaneo
-llapas
-llavea
-llavee
-llaveo
-llavin
-llegas
-llegue
-llegue
-llenas
-llevas
-lloras
-lloron
-lloves
-llovia
-llovio
-loaran
-loaras
-loaria
-lobeas
-lobulo
-loceas
-locion
-locuta
-locute
-locuto
-logica
-logica
-logico
-logico
-logras
-logrea
-logree
-logreo
-loismo
-loista
-loleas
-lomeas
-loquea
-loquee
-loqueo
-loreas
-losais
-losara
-losare
-loseis
-loteas
-lotice
-lotiza
-lotizo
-luchas
-lucian
-lucias
-lucida
-lucido
-lucion
-lucira
-lucire
-lucras
-lucuma
-lucumo
-ludais
-ludian
-ludias
-ludica
-ludico
-ludion
-ludira
-ludire
-lugues
-luiais
-luiran
-luiras
-luiria
-lujais
-lujara
-lujare
-lujeis
-luneas
-lunula
-lupulo
-luques
-lustra
-lustre
-lustro
-luxais
-luxara
-luxare
-luxeis
-luyais
+{
+    "labora": "laborá",
+    "labore": "laboré",
+    "laboro": "laboró",
+    "labras": "labrás",
+    "labura": "laburá",
+    "labure": "laburé",
+    "laburo": "laburó",
+    "lacara": "lacará",
+    "lacare": "lacaré",
+    "lacera": "lacerá",
+    "lacere": "laceré",
+    "lacero": "laceró",
+    "laceas": "laceás",
+    "lacras": "lacrás",
+    "lactas": "lactás",
+    "lacais": "lacáis",
+    "laceis": "lacéis",
+    "ladeas": "ladeás",
+    "ladras": "ladrás",
+    "ladron": "ladrón",
+    "lailan": "lailán",
+    "lairen": "lairén",
+    "lambio": "lambió",
+    "lambes": "lambés",
+    "lambia": "lambía",
+    "lambon": "lambón",
+    "lamera": "lamerá",
+    "lamere": "lameré",
+    "lamina": "lámina",
+    "lamine": "laminé",
+    "lamino": "laminó",
+    "lampea": "lampeá",
+    "lampee": "lampeé",
+    "lampeo": "lampeó",
+    "lampas": "lampás",
+    "lamais": "lamáis",
+    "lameis": "laméis",
+    "lamian": "lamían",
+    "lamias": "lamías",
+    "lancea": "lanceá",
+    "lancee": "lanceé",
+    "lanceo": "lanceó",
+    "lancan": "lancán",
+    "lanzas": "lanzás",
+    "lanzon": "lanzón",
+    "lapida": "lápida",
+    "lapide": "lapidé",
+    "lapido": "lapidó",
+    "laquea": "laqueá",
+    "laquee": "laqueé",
+    "laqueo": "laqueó",
+    "lardea": "lardeá",
+    "lardee": "lardeé",
+    "lardeo": "lardeó",
+    "lardas": "lardás",
+    "lardon": "lardón",
+    "largue": "largué",
+    "largas": "largás",
+    "lascas": "lascás",
+    "lasque": "lasqué",
+    "lastra": "lastrá",
+    "lastre": "lastré",
+    "lastro": "lastró",
+    "lastas": "lastás",
+    "laston": "lastón",
+    "lateas": "lateás",
+    "latina": "latiná",
+    "latine": "latiné",
+    "latino": "latinó",
+    "latira": "latirá",
+    "latire": "latiré",
+    "latria": "latría",
+    "latais": "latáis",
+    "latian": "latían",
+    "latias": "latías",
+    "laudas": "laudás",
+    "laurea": "láurea",
+    "lauree": "laureé",
+    "laureo": "láureo",
+    "lavara": "lavará",
+    "lavare": "lavaré",
+    "lavais": "laváis",
+    "laveis": "lavéis",
+    "laxara": "laxará",
+    "laxare": "laxaré",
+    "laxais": "laxáis",
+    "laxeis": "laxéis",
+    "layara": "layará",
+    "layare": "layaré",
+    "layais": "layáis",
+    "layeis": "layéis",
+    "lazara": "lazará",
+    "lazare": "lazaré",
+    "lazais": "lazáis",
+    "laismo": "laísmo",
+    "laista": "laísta",
+    "lañara": "lañará",
+    "lañare": "lañaré",
+    "lañais": "lañáis",
+    "lañeis": "lañéis",
+    "lebeni": "lebení",
+    "lebron": "lebrón",
+    "lechas": "lechás",
+    "lechin": "lechín",
+    "lechon": "lechón",
+    "leeran": "leerán",
+    "leeras": "leerás",
+    "leeria": "leería",
+    "legaja": "legajá",
+    "legaje": "legajé",
+    "legajo": "legajó",
+    "legara": "legará",
+    "legare": "legaré",
+    "legion": "legión",
+    "legras": "legrás",
+    "legron": "legrón",
+    "legais": "legáis",
+    "lelili": "lelilí",
+    "lenice": "lenicé",
+    "leniza": "lenizá",
+    "lenizo": "lenizó",
+    "leones": "leonés",
+    "lepton": "leptón",
+    "lerdea": "lerdeá",
+    "lerdee": "lerdeé",
+    "lerdeo": "lerdeó",
+    "lerdon": "lerdón",
+    "leseas": "leseás",
+    "lesion": "lesión",
+    "leudas": "leudás",
+    "levara": "levará",
+    "levare": "levaré",
+    "leviga": "levigá",
+    "levigo": "levigó",
+    "levita": "levitá",
+    "levite": "levité",
+    "levito": "levitó",
+    "levais": "leváis",
+    "leveis": "levéis",
+    "leiais": "leíais",
+    "leible": "leíble",
+    "leimos": "leímos",
+    "leismo": "leísmo",
+    "leista": "leísta",
+    "leiste": "leíste",
+    "liaran": "liarán",
+    "liaras": "liarás",
+    "liaria": "liaría",
+    "liaton": "liatón",
+    "libara": "libará",
+    "libare": "libaré",
+    "libera": "líbera",
+    "libere": "liberé",
+    "libero": "líbero",
+    "librea": "libreá",
+    "libree": "libreé",
+    "libreo": "libreó",
+    "libras": "librás",
+    "libais": "libáis",
+    "libeis": "libéis",
+    "licaon": "licaón",
+    "licita": "lícita",
+    "licite": "licité",
+    "licito": "lícito",
+    "licuas": "licúas",
+    "licuan": "licúan",
+    "licuen": "licúen",
+    "licues": "licúes",
+    "lidera": "liderá",
+    "lidere": "lideré",
+    "lidero": "lideró",
+    "lidias": "lidiás",
+    "ligara": "ligará",
+    "ligare": "ligaré",
+    "ligais": "ligáis",
+    "lijara": "lijará",
+    "lijare": "lijaré",
+    "lijais": "lijáis",
+    "lijeis": "lijéis",
+    "lilili": "lililí",
+    "limara": "limará",
+    "limare": "limaré",
+    "limita": "limitá",
+    "limite": "límite",
+    "limito": "limitó",
+    "limpia": "limpiá",
+    "limpie": "limpié",
+    "limpio": "limpió",
+    "limais": "limáis",
+    "limeis": "liméis",
+    "lincea": "linceá",
+    "lincee": "linceé",
+    "linceo": "linceó",
+    "lincha": "linchá",
+    "linche": "linché",
+    "lincho": "linchó",
+    "lindas": "lindás",
+    "lindon": "lindón",
+    "lineas": "líneas",
+    "liones": "lionés",
+    "lisara": "lisará",
+    "lisare": "lisaré",
+    "lisias": "lisiás",
+    "listas": "listás",
+    "listin": "listín",
+    "liston": "listón",
+    "lisais": "lisáis",
+    "liseis": "liséis",
+    "litara": "litará",
+    "litare": "litaré",
+    "litiga": "litigá",
+    "litigo": "litigó",
+    "litais": "litáis",
+    "liteis": "litéis",
+    "liudas": "liudás",
+    "llague": "llagué",
+    "llagas": "llagás",
+    "llamea": "llameá",
+    "llamee": "llameé",
+    "llameo": "llameó",
+    "llamas": "llamás",
+    "llanea": "llaneá",
+    "llanee": "llaneé",
+    "llaneo": "llaneó",
+    "llapas": "llapás",
+    "llavea": "llaveá",
+    "llavee": "llaveé",
+    "llaveo": "llaveó",
+    "llavin": "llavín",
+    "llegue": "llegué",
+    "llegas": "llegás",
+    "llenas": "llenás",
+    "llevas": "llevás",
+    "lloras": "llorás",
+    "lloron": "llorón",
+    "llovio": "llovió",
+    "lloves": "llovés",
+    "llovia": "llovía",
+    "loaran": "loarán",
+    "loaras": "loarás",
+    "loaria": "loaría",
+    "lobeas": "lobeás",
+    "loceas": "loceás",
+    "locion": "loción",
+    "locuta": "locutá",
+    "locute": "locuté",
+    "locuto": "locutó",
+    "logrea": "logreá",
+    "logree": "logreé",
+    "logreo": "logreó",
+    "logras": "lográs",
+    "loleas": "loleás",
+    "lomeas": "lomeás",
+    "loquea": "loqueá",
+    "loquee": "loqueé",
+    "loqueo": "loqueó",
+    "loreas": "loreás",
+    "losara": "losará",
+    "losare": "losaré",
+    "losais": "losáis",
+    "loseis": "loséis",
+    "loteas": "loteás",
+    "lotice": "loticé",
+    "lotiza": "lotizá",
+    "lotizo": "lotizó",
+    "loismo": "loísmo",
+    "loista": "loísta",
+    "luchas": "luchás",
+    "lucira": "lucirá",
+    "lucire": "luciré",
+    "lucion": "lución",
+    "lucras": "lucrás",
+    "lucian": "lucían",
+    "lucias": "lucías",
+    "ludira": "ludirá",
+    "ludire": "ludiré",
+    "ludion": "ludión",
+    "ludais": "ludáis",
+    "ludian": "ludían",
+    "ludias": "ludías",
+    "lugues": "lugués",
+    "luiran": "luirán",
+    "luiras": "luirás",
+    "luiria": "luiría",
+    "lujara": "lujará",
+    "lujare": "lujaré",
+    "lujais": "lujáis",
+    "lujeis": "lujéis",
+    "luneas": "luneás",
+    "luques": "luqués",
+    "lustra": "lustrá",
+    "lustre": "lustré",
+    "lustro": "lustró",
+    "luxara": "luxará",
+    "luxare": "luxaré",
+    "luxais": "luxáis",
+    "luxeis": "luxéis",
+    "luyais": "luyáis",
+    "luiais": "luíais",
+    "labaro": "lábaro",
+    "lactea": "láctea",
+    "lacteo": "lácteo",
+    "ladano": "ládano",
+    "larice": "lárice",
+    "latigo": "látigo",
+    "lavica": "lávica",
+    "lavico": "lávico",
+    "lazaro": "lázaro",
+    "legamo": "légamo",
+    "legano": "légano",
+    "lepera": "lépera",
+    "lepero": "lépero",
+    "lexica": "léxica",
+    "lexico": "léxico",
+    "libano": "líbano",
+    "libica": "líbica",
+    "libico": "líbico",
+    "ligula": "lígula",
+    "lipido": "lípido",
+    "lirica": "lírica",
+    "lirico": "lírico",
+    "litica": "lítica",
+    "litico": "lítico",
+    "litote": "lítote",
+    "livida": "lívida",
+    "livido": "lívido",
+    "lobulo": "lóbulo",
+    "logica": "lógica",
+    "logico": "lógico",
+    "lucida": "lúcida",
+    "lucido": "lúcido",
+    "lucuma": "lúcuma",
+    "lucumo": "lúcumo",
+    "ludica": "lúdica",
+    "ludico": "lúdico",
+    "lunula": "lúnula",
+    "lupulo": "lúpulo"
+}

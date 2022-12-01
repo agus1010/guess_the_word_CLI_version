@@ -1,8 +1,10 @@
-xerocopia
-xerocopie
-xerocopio
-xerografa
-xerografo
-xilografa
-xilografo
-xilorgano
+{
+    "xerocopia": "xerocopiá",
+    "xerocopie": "xerocopié",
+    "xerocopio": "xerocopió",
+    "xerografa": "xerógrafa",
+    "xerografo": "xerógrafo",
+    "xilografa": "xilógrafa",
+    "xilografo": "xilógrafo",
+    "xilorgano": "xilórgano"
+}

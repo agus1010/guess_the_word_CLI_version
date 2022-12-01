@@ -1,112 +1,113 @@
-uberrima
-uberrimo
-ubicaran
-ubicaras
-ubicaria
-ubiqueis
-ucronica
-ucronico
-udometro
-ufanando
-ufanaran
-ufanaras
-ufanaria
-ufologia
-ulcerais
-ulcerara
-ulcerare
-ulcereis
-ultilogo
-ultimais
-ultimara
-ultimare
-ultimeis
-ultrajas
-ulularan
-ulularas
-ulularia
-umbralas
-umbratil
-unciamos
-uncireis
-uncirian
-uncirias
-undecima
-undecimo
-undisona
-undisono
-undivaga
-undivago
-undulais
-undulara
-undulare
-unduleis
-ungiamos
-ungireis
-ungirian
-ungirias
-unificas
-unifique
-uniforma
-uniforme
-uniformo
-unimisma
-unimisme
-unimismo
-uniriais
-univocas
-univoque
-univoque
-untareis
-untarian
-untarias
-upabamos
-uparamos
-uparemos
-upariais
-upasemos
-uperizas
-urajeais
-urajeara
-urajeare
-urajeeis
-urbanice
-urbaniza
-urbanizo
-urdiamos
-urdireis
-urdirian
-urdirias
-urgiamos
-urgireis
-urgirian
-urgirias
-urnicion
-urologia
-usabamos
-usaramos
-usaremos
-usariais
-usasemos
-useñoria
-ustearan
-ustearas
-ustearia
-ustedeas
-usuraran
-usuraras
-usuraria
-usureais
-usureara
-usureare
-usureeis
-usurpais
-usurpara
-usurpare
-usurpeis
-utileria
-utilizas
-uñeramos
-uñeremos
-uñesemos
-uñiriais
+{
+    "ubicaran": "ubicarán",
+    "ubicaras": "ubicarás",
+    "ubicaria": "ubicaría",
+    "ubiqueis": "ubiquéis",
+    "uberrima": "ubérrima",
+    "uberrimo": "ubérrimo",
+    "ucronica": "ucrónica",
+    "ucronico": "ucrónico",
+    "udometro": "udómetro",
+    "ufanaran": "ufanarán",
+    "ufanaras": "ufanarás",
+    "ufanaria": "ufanaría",
+    "ufanando": "ufanándo",
+    "ufologia": "ufología",
+    "ulcerara": "ulcerará",
+    "ulcerare": "ulceraré",
+    "ulcerais": "ulceráis",
+    "ulcereis": "ulceréis",
+    "ultimara": "ultimará",
+    "ultimare": "ultimaré",
+    "ultimais": "ultimáis",
+    "ultimeis": "ultiméis",
+    "ultrajas": "ultrajás",
+    "ultilogo": "ultílogo",
+    "ulularan": "ulularán",
+    "ulularas": "ulularás",
+    "ulularia": "ulularía",
+    "umbralas": "umbralás",
+    "umbratil": "umbrátil",
+    "uncireis": "unciréis",
+    "uncirian": "uncirían",
+    "uncirias": "uncirías",
+    "unciamos": "uncíamos",
+    "undulara": "undulará",
+    "undulare": "undularé",
+    "undulais": "unduláis",
+    "unduleis": "unduléis",
+    "undecima": "undécima",
+    "undecimo": "undécimo",
+    "undisona": "undísona",
+    "undisono": "undísono",
+    "undivaga": "undívaga",
+    "undivago": "undívago",
+    "ungireis": "ungiréis",
+    "ungirian": "ungirían",
+    "ungirias": "ungirías",
+    "ungiamos": "ungíamos",
+    "unificas": "unificás",
+    "unifique": "unifiqué",
+    "uniforma": "uniformá",
+    "uniforme": "uniformé",
+    "uniformo": "uniformó",
+    "unimisma": "unimismá",
+    "unimisme": "unimismé",
+    "unimismo": "unimismó",
+    "uniriais": "uniríais",
+    "univocas": "univocás",
+    "univoque": "univóque",
+    "untareis": "untaréis",
+    "untarian": "untarían",
+    "untarias": "untarías",
+    "upariais": "uparíais",
+    "uperizas": "uperizás",
+    "upabamos": "upábamos",
+    "uparamos": "upáramos",
+    "uparemos": "upáremos",
+    "upasemos": "upásemos",
+    "urajeara": "urajeará",
+    "urajeare": "urajearé",
+    "urajeais": "urajeáis",
+    "urajeeis": "urajeéis",
+    "urbanice": "urbanicé",
+    "urbaniza": "urbanizá",
+    "urbanizo": "urbanizó",
+    "urdireis": "urdiréis",
+    "urdirian": "urdirían",
+    "urdirias": "urdirías",
+    "urdiamos": "urdíamos",
+    "urgireis": "urgiréis",
+    "urgirian": "urgirían",
+    "urgirias": "urgirías",
+    "urgiamos": "urgíamos",
+    "urnicion": "urnición",
+    "urologia": "urología",
+    "usariais": "usaríais",
+    "useñoria": "useñoría",
+    "ustearan": "ustearán",
+    "ustearas": "ustearás",
+    "ustearia": "ustearía",
+    "ustedeas": "ustedeás",
+    "usuraran": "usurarán",
+    "usuraras": "usurarás",
+    "usuraria": "usuraría",
+    "usureara": "usureará",
+    "usureare": "usurearé",
+    "usureais": "usureáis",
+    "usureeis": "usureéis",
+    "usurpara": "usurpará",
+    "usurpare": "usurparé",
+    "usurpais": "usurpáis",
+    "usurpeis": "usurpéis",
+    "usabamos": "usábamos",
+    "usaramos": "usáramos",
+    "usaremos": "usáremos",
+    "usasemos": "usásemos",
+    "utileria": "utilería",
+    "utilizas": "utilizás",
+    "uñiriais": "uñiríais",
+    "uñeramos": "uñéramos",
+    "uñeremos": "uñéremos",
+    "uñesemos": "uñésemos"
+}

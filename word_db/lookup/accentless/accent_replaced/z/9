@@ -1,234 +1,235 @@
-zabordais
-zabordara
-zabordare
-zabordeis
-zabucaran
-zabucaras
-zabucaria
-zabullais
-zabullian
-zabullias
-zabullira
-zabullire
-zabuqueas
-zabuqueis
-zacateais
-zacateara
-zacateare
-zacateeis
-zaceareis
-zacearian
-zacearias
-zafabamos
-zafaduria
-zafaramos
-zafaremos
-zafariais
-zafasemos
-zagaleton
-zaheriais
-zaheriran
-zaheriras
-zaheriria
-zahondais
-zahondara
-zahondare
-zahondeis
-zahoriais
-zahoriara
-zahoriare
-zahorieis
-zalameria
-zaleareis
-zalearian
-zalearias
-zallareis
-zallarian
-zallarias
-zamarreas
-zambucais
-zambucara
-zambucare
-zambullia
-zambullis
-zambullon
-zambutais
-zambutian
-zambutias
-zambutira
-zambutire
-zaminaran
-zaminaras
-zaminaria
-zampareis
-zamparian
-zamparias
-zampearan
-zampearas
-zampearia
-zampuceis
-zampullin
-zampuzais
-zampuzara
-zampuzare
-zanateais
-zanateara
-zanateare
-zanateeis
-zancajeas
-zancarron
-zanganeas
-zangarrea
-zangarree
-zangarreo
-zangarron
-zangoteas
-zanjareis
-zanjarian
-zanjarias
-zanjearan
-zanjearas
-zanjearia
-zanqueais
-zanqueara
-zanqueare
-zanqueeis
-zanquilon
-zapabamos
-zaparamos
-zaparemos
-zapariais
-zapasemos
-zapateais
-zapateara
-zapateare
-zapateeis
-zapateria
-zapeareis
-zapearian
-zapearias
-zapuzaran
-zapuzaras
-zapuzaria
-zaquearan
-zaquearas
-zaquearia
-zaquizami
-zarabutea
-zarabutee
-zarabuteo
-zaraceara
-zaragatea
-zaragatee
-zaragateo
-zaragutea
-zaragutee
-zaraguteo
-zarandais
-zarandali
-zarandara
-zarandare
-zarandeas
-zarandeis
-zarcearan
-zarcearas
-zarcearia
-zarpareis
-zarparian
-zarparias
-zarpearan
-zarpearas
-zarpearia
-zarrampin
-zigzaguea
-zigzaguee
-zigzagueo
-zocabamos
-zocaramos
-zocaremos
-zocariais
-zocasemos
-zocateais
-zocateara
-zocateare
-zocateeis
-zocolaran
-zocolaras
-zocolaria
-zollipais
-zollipara
-zollipare
-zollipeis
-zoncearan
-zoncearas
-zoncearia
-zonificas
-zonifique
-zontearan
-zontearas
-zontearia
-zoofilica
-zoofilico
-zoografia
-zoolatria
-zoologica
-zoologico
-zoqueteas
-zorrearan
-zorrearas
-zorrearia
-zozobrais
-zozobrara
-zozobrare
-zozobreis
-zulacaran
-zulacaras
-zulacaria
-zulaqueas
-zulaqueis
-zullareis
-zullarian
-zullarias
-zumacaran
-zumacaras
-zumacaria
-zumaqueis
-zumbareis
-zumbarian
-zumbarias
-zuncharan
-zuncharas
-zuncharia
-zurciamos
-zurcireis
-zurcirian
-zurcirias
-zurdearan
-zurdearas
-zurdearia
-zureareis
-zurearian
-zurearias
-zurrareis
-zurrarian
-zurrarias
-zurreando
-zurrearan
-zurrearas
-zurrearia
-zurriagas
-zurriague
-zurriamos
-zurriaran
-zurriaras
-zurriaria
-zurrireis
-zurririan
-zurririas
-zurruscas
-zurrusque
-zurrusque
-zuñeramos
-zuñeremos
-zuñesemos
-zuñiriais
+{
+    "zabordara": "zabordará",
+    "zabordare": "zabordaré",
+    "zabordais": "zabordáis",
+    "zabordeis": "zabordéis",
+    "zabucaran": "zabucarán",
+    "zabucaras": "zabucarás",
+    "zabucaria": "zabucaría",
+    "zabullira": "zabullirá",
+    "zabullire": "zabulliré",
+    "zabullais": "zabulláis",
+    "zabullian": "zabullían",
+    "zabullias": "zabullías",
+    "zabuqueas": "zabuqueás",
+    "zabuqueis": "zabuquéis",
+    "zacateara": "zacateará",
+    "zacateare": "zacatearé",
+    "zacateais": "zacateáis",
+    "zacateeis": "zacateéis",
+    "zaceareis": "zacearéis",
+    "zacearian": "zacearían",
+    "zacearias": "zacearías",
+    "zafaduria": "zafaduría",
+    "zafariais": "zafaríais",
+    "zafabamos": "zafábamos",
+    "zafaramos": "zafáramos",
+    "zafaremos": "zafáremos",
+    "zafasemos": "zafásemos",
+    "zagaleton": "zagaletón",
+    "zaheriran": "zaherirán",
+    "zaheriras": "zaherirás",
+    "zaheriria": "zaheriría",
+    "zaheriais": "zaheríais",
+    "zahondara": "zahondará",
+    "zahondare": "zahondaré",
+    "zahondais": "zahondáis",
+    "zahondeis": "zahondéis",
+    "zahoriara": "zahoriará",
+    "zahoriare": "zahoriaré",
+    "zahoriais": "zahoriáis",
+    "zahorieis": "zahoriéis",
+    "zalameria": "zalamería",
+    "zaleareis": "zalearéis",
+    "zalearian": "zalearían",
+    "zalearias": "zalearías",
+    "zallareis": "zallaréis",
+    "zallarian": "zallarían",
+    "zallarias": "zallarías",
+    "zamarreas": "zamarreás",
+    "zambucara": "zambucará",
+    "zambucare": "zambucaré",
+    "zambucais": "zambucáis",
+    "zambullia": "zambullía",
+    "zambullis": "zambullís",
+    "zambullon": "zambullón",
+    "zambutira": "zambutirá",
+    "zambutire": "zambutiré",
+    "zambutais": "zambutáis",
+    "zambutian": "zambutían",
+    "zambutias": "zambutías",
+    "zaminaran": "zaminarán",
+    "zaminaras": "zaminarás",
+    "zaminaria": "zaminaría",
+    "zampareis": "zamparéis",
+    "zamparian": "zamparían",
+    "zamparias": "zamparías",
+    "zampearan": "zampearán",
+    "zampearas": "zampearás",
+    "zampearia": "zampearía",
+    "zampuceis": "zampucéis",
+    "zampullin": "zampullín",
+    "zampuzara": "zampuzará",
+    "zampuzare": "zampuzaré",
+    "zampuzais": "zampuzáis",
+    "zanateara": "zanateará",
+    "zanateare": "zanatearé",
+    "zanateais": "zanateáis",
+    "zanateeis": "zanateéis",
+    "zancajeas": "zancajeás",
+    "zancarron": "zancarrón",
+    "zanganeas": "zanganeás",
+    "zangarrea": "zangarreá",
+    "zangarree": "zangarreé",
+    "zangarreo": "zangarreó",
+    "zangarron": "zangarrón",
+    "zangoteas": "zangoteás",
+    "zanjareis": "zanjaréis",
+    "zanjarian": "zanjarían",
+    "zanjarias": "zanjarías",
+    "zanjearan": "zanjearán",
+    "zanjearas": "zanjearás",
+    "zanjearia": "zanjearía",
+    "zanqueara": "zanqueará",
+    "zanqueare": "zanquearé",
+    "zanqueais": "zanqueáis",
+    "zanqueeis": "zanqueéis",
+    "zanquilon": "zanquilón",
+    "zapariais": "zaparíais",
+    "zapateara": "zapateará",
+    "zapateare": "zapatearé",
+    "zapateria": "zapatería",
+    "zapateais": "zapateáis",
+    "zapateeis": "zapateéis",
+    "zapeareis": "zapearéis",
+    "zapearian": "zapearían",
+    "zapearias": "zapearías",
+    "zapuzaran": "zapuzarán",
+    "zapuzaras": "zapuzarás",
+    "zapuzaria": "zapuzaría",
+    "zapabamos": "zapábamos",
+    "zaparamos": "zapáramos",
+    "zaparemos": "zapáremos",
+    "zapasemos": "zapásemos",
+    "zaquearan": "zaquearán",
+    "zaquearas": "zaquearás",
+    "zaquearia": "zaquearía",
+    "zaquizami": "zaquizamí",
+    "zarabutea": "zarabuteá",
+    "zarabutee": "zarabuteé",
+    "zarabuteo": "zarabuteó",
+    "zaraceara": "zaraceará",
+    "zaragatea": "zaragateá",
+    "zaragatee": "zaragateé",
+    "zaragateo": "zaragateó",
+    "zaragutea": "zaraguteá",
+    "zaragutee": "zaraguteé",
+    "zaraguteo": "zaraguteó",
+    "zarandali": "zarandalí",
+    "zarandara": "zarandará",
+    "zarandare": "zarandaré",
+    "zarandeas": "zarandeás",
+    "zarandais": "zarandáis",
+    "zarandeis": "zarandéis",
+    "zarcearan": "zarcearán",
+    "zarcearas": "zarcearás",
+    "zarcearia": "zarcearía",
+    "zarpareis": "zarparéis",
+    "zarparian": "zarparían",
+    "zarparias": "zarparías",
+    "zarpearan": "zarpearán",
+    "zarpearas": "zarpearás",
+    "zarpearia": "zarpearía",
+    "zarrampin": "zarrampín",
+    "zigzaguea": "zigzagueá",
+    "zigzaguee": "zigzagueé",
+    "zigzagueo": "zigzagueó",
+    "zocariais": "zocaríais",
+    "zocateara": "zocateará",
+    "zocateare": "zocatearé",
+    "zocateais": "zocateáis",
+    "zocateeis": "zocateéis",
+    "zocolaran": "zocolarán",
+    "zocolaras": "zocolarás",
+    "zocolaria": "zocolaría",
+    "zocabamos": "zocábamos",
+    "zocaramos": "zocáramos",
+    "zocaremos": "zocáremos",
+    "zocasemos": "zocásemos",
+    "zollipara": "zollipará",
+    "zollipare": "zolliparé",
+    "zollipais": "zollipáis",
+    "zollipeis": "zollipéis",
+    "zoncearan": "zoncearán",
+    "zoncearas": "zoncearás",
+    "zoncearia": "zoncearía",
+    "zonificas": "zonificás",
+    "zonifique": "zonifiqué",
+    "zontearan": "zontearán",
+    "zontearas": "zontearás",
+    "zontearia": "zontearía",
+    "zoofilica": "zoofílica",
+    "zoofilico": "zoofílico",
+    "zoografia": "zoografía",
+    "zoolatria": "zoolatría",
+    "zoologica": "zoológica",
+    "zoologico": "zoológico",
+    "zoqueteas": "zoqueteás",
+    "zorrearan": "zorrearán",
+    "zorrearas": "zorrearás",
+    "zorrearia": "zorrearía",
+    "zozobrara": "zozobrará",
+    "zozobrare": "zozobraré",
+    "zozobrais": "zozobráis",
+    "zozobreis": "zozobréis",
+    "zulacaran": "zulacarán",
+    "zulacaras": "zulacarás",
+    "zulacaria": "zulacaría",
+    "zulaqueas": "zulaqueás",
+    "zulaqueis": "zulaquéis",
+    "zullareis": "zullaréis",
+    "zullarian": "zullarían",
+    "zullarias": "zullarías",
+    "zumacaran": "zumacarán",
+    "zumacaras": "zumacarás",
+    "zumacaria": "zumacaría",
+    "zumaqueis": "zumaquéis",
+    "zumbareis": "zumbaréis",
+    "zumbarian": "zumbarían",
+    "zumbarias": "zumbarías",
+    "zuncharan": "zuncharán",
+    "zuncharas": "zuncharás",
+    "zuncharia": "zuncharía",
+    "zurcireis": "zurciréis",
+    "zurcirian": "zurcirían",
+    "zurcirias": "zurcirías",
+    "zurciamos": "zurcíamos",
+    "zurdearan": "zurdearán",
+    "zurdearas": "zurdearás",
+    "zurdearia": "zurdearía",
+    "zureareis": "zurearéis",
+    "zurearian": "zurearían",
+    "zurearias": "zurearías",
+    "zurrareis": "zurraréis",
+    "zurrarian": "zurrarían",
+    "zurrarias": "zurrarías",
+    "zurrearan": "zurrearán",
+    "zurrearas": "zurrearás",
+    "zurrearia": "zurrearía",
+    "zurreando": "zurreándo",
+    "zurriague": "zurriagué",
+    "zurriagas": "zurriagás",
+    "zurriaran": "zurriarán",
+    "zurriaras": "zurriarás",
+    "zurriaria": "zurriaría",
+    "zurrireis": "zurriréis",
+    "zurririan": "zurrirían",
+    "zurririas": "zurrirías",
+    "zurruscas": "zurruscás",
+    "zurrusque": "zurrúsque",
+    "zurriamos": "zurríamos",
+    "zuñiriais": "zuñiríais",
+    "zuñeramos": "zuñéramos",
+    "zuñeremos": "zuñéremos",
+    "zuñesemos": "zuñésemos"
+}

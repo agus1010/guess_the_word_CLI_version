@@ -1,395 +1,373 @@
-dacion
-dacron
-dadiva
-dallas
-danica
-danico
-danzas
-danzon
-dareis
-darian
-darias
-datais
-datara
-datare
-dateas
-dateis
-davala
-davale
-davalo
-dañais
-dañara
-dañare
-dañeis
-debais
-debata
-debate
-debati
-debeis
-debela
-debele
-debelo
-debera
-debera
-debere
-debian
-debian
-debias
-debita
-debite
-debito
-debito
-deboca
-deboco
-debuta
-debute
-debuto
-decada
-decada
-decaes
-decaia
-decapa
-decape
-decapo
-decayo
-decian
-decian
-decias
-decidi
-decidi
-decima
-decimo
-decora
-decore
-decoro
-dedalo
-dedete
-dedica
-dedico
-dedico
-dedola
-dedole
-dedolo
-deduci
-defeca
-defeco
-deferi
-defini
-dehesa
-dehese
-deheso
-deismo
-deista
-deixis
-dejais
-dejame
-dejara
-dejara
-dejare
-dejeis
-delata
-delate
-delato
-delega
-delego
-delfin
-delira
-delire
-deliro
-deludi
-demode
-demole
-demoli
-demora
-demore
-demoro
-demuda
-demude
-demudo
-denega
-denego
-denota
-denote
-denoto
-dentas
-denton
-denuda
-denude
-denudo
-depara
-depare
-deparo
-depila
-depile
-depilo
-depira
-depire
-depiro
-depone
-depura
-depure
-depuro
-deputa
-depute
-deputo
-deriva
-derive
-derivo
-deroga
-derogo
-derrui
-desala
-desala
-desale
-desale
-desalo
-desama
-desame
-desamo
-desasi
-desata
-desate
-desato
-descae
-descai
-desdan
-desdas
-desden
-desdes
-desdio
-desdon
-deseas
-deseca
-deseco
-deslei
-deslia
-deslia
-deslie
-deslie
-deslio
-deslio
-desman
-desoia
-desoid
-desoir
-desois
-desoja
-desoje
-desojo
-desola
-desole
-desolo
-desosa
-desose
-desoso
-desova
-desove
-desovo
-desoyo
-despea
-despee
-despee
-despeo
-destin
-desuca
-desuco
-desuda
-desude
-desudo
-desuni
-desusa
-desuse
-desuso
-desuña
-desuñe
-desuñi
-desuño
-desvai
-desvan
-desvia
-desvia
-desvie
-desvie
-desvio
-desvio
-detene
-detona
-detone
-detono
-detrae
-detras
-detras
-deuton
-devala
-devale
-devalo
-devana
-devane
-devano
-devela
-devele
-develo
-deveni
-devora
-devore
-devoro
-dezmas
-diasen
-dibuja
-dibuje
-dibujo
-dictas
-didima
-didimo
-diesel
-dietas
-diezma
-diezme
-diezmo
-difama
-difame
-difamo
-diferi
-diflui
-difuma
-difume
-difumo
-digais
-digeri
-digita
-digite
-digito
-digito
-dignas
-dignen
-dilata
-dilate
-dilato
-diluia
-diluis
-diluyo
-dimana
-dimane
-dimano
-dimero
-dimiti
-dinamo
-diputa
-dipute
-diputo
-direis
-dirham
-dirhem
-dirian
-dirias
-dirigi
-dirimi
-discas
-diseca
-diseco
-diseña
-diseñe
-diseño
-disidi
-disipa
-disipe
-disipo
-disona
-disona
-disone
-disono
-disono
-dispon
-disque
-distas
-ditono
-diucon
-divaga
-divago
-dividi
-divina
-divine
-divino
-divisa
-divise
-diviso
-diñais
-diñara
-diñare
-diñeis
-doblas
-doblon
-dolais
-doleis
-dolera
-dolere
-dolian
-dolias
-dolman
-dolope
-domais
-domara
-domare
-domeis
-domeña
-domeñe
-domeño
-domina
-domine
-domine
-domino
-domino
-donais
-donara
-donare
-doneis
-dopais
-dopara
-dopare
-dopeis
-dorais
-dorara
-dorare
-doreis
-dorica
-dorico
-dorman
-dormia
-dormia
-dormis
-dotais
-dotara
-dotare
-doteis
-dovela
-dovele
-dovelo
-doñeas
-dragas
-dragon
-drague
-dramon
-drapea
-drapee
-drapeo
-drenas
-driada
-driade
-dribla
-drible
-driblo
-drogas
-drogue
-duchas
-ductil
-dudais
-dudara
-dudare
-dudeis
-dulzon
-duplex
-durais
-durara
-durare
-dureis
-durmio
+{
+    "dacion": "dación",
+    "dacron": "dacrón",
+    "dallas": "dallás",
+    "danzas": "danzás",
+    "danzon": "danzón",
+    "dareis": "daréis",
+    "darian": "darían",
+    "darias": "darías",
+    "datara": "datará",
+    "datare": "dataré",
+    "dateas": "dateás",
+    "datais": "datáis",
+    "dateis": "datéis",
+    "davala": "davalá",
+    "davale": "davalé",
+    "davalo": "davaló",
+    "dañara": "dañará",
+    "dañare": "dañaré",
+    "dañais": "dañáis",
+    "dañeis": "dañéis",
+    "debati": "debatí",
+    "debela": "debelá",
+    "debele": "debelé",
+    "debelo": "debeló",
+    "debera": "deberá",
+    "debere": "deberé",
+    "debita": "debitá",
+    "debite": "debité",
+    "debito": "débito",
+    "deboca": "debocá",
+    "deboco": "debocó",
+    "debuta": "debutá",
+    "debute": "debuté",
+    "debuto": "debutó",
+    "debais": "debáis",
+    "debata": "debáta",
+    "debate": "debáte",
+    "debeis": "debéis",
+    "debian": "debían",
+    "debias": "debías",
+    "decapa": "decapá",
+    "decape": "decapé",
+    "decapo": "decapó",
+    "decayo": "decayó",
+    "decaes": "decaés",
+    "decaia": "decaía",
+    "decidi": "decidí",
+    "decora": "decorá",
+    "decore": "decoré",
+    "decoro": "decoró",
+    "decian": "decían",
+    "decias": "decías",
+    "dedete": "dedeté",
+    "dedica": "dedicá",
+    "dedico": "dedicó",
+    "dedola": "dedolá",
+    "dedole": "dedolé",
+    "dedolo": "dedoló",
+    "deduci": "deducí",
+    "defeca": "defecá",
+    "defeco": "defecó",
+    "deferi": "deferí",
+    "defini": "definí",
+    "dehesa": "dehesá",
+    "dehese": "dehesé",
+    "deheso": "dehesó",
+    "dejara": "dejará",
+    "dejare": "dejaré",
+    "dejais": "dejáis",
+    "dejeis": "dejéis",
+    "delata": "delatá",
+    "delate": "delaté",
+    "delato": "delató",
+    "delega": "delegá",
+    "delego": "delegó",
+    "delfin": "delfín",
+    "delira": "delirá",
+    "delire": "deliré",
+    "deliro": "deliró",
+    "deludi": "deludí",
+    "demode": "demodé",
+    "demole": "demolé",
+    "demoli": "demolí",
+    "demora": "demorá",
+    "demore": "demoré",
+    "demoro": "demoró",
+    "demuda": "demudá",
+    "demude": "demudé",
+    "demudo": "demudó",
+    "denega": "denegá",
+    "denego": "denegó",
+    "denota": "denotá",
+    "denote": "denoté",
+    "denoto": "denotó",
+    "dentas": "dentás",
+    "denton": "dentón",
+    "denuda": "denudá",
+    "denude": "denudé",
+    "denudo": "denudó",
+    "depara": "depará",
+    "depare": "deparé",
+    "deparo": "deparó",
+    "depila": "depilá",
+    "depile": "depilé",
+    "depilo": "depiló",
+    "depira": "depirá",
+    "depire": "depiré",
+    "depiro": "depiró",
+    "depone": "deponé",
+    "depura": "depurá",
+    "depure": "depuré",
+    "depuro": "depuró",
+    "deputa": "deputá",
+    "depute": "deputé",
+    "deputo": "deputó",
+    "deriva": "derivá",
+    "derive": "derivé",
+    "derivo": "derivó",
+    "deroga": "derogá",
+    "derogo": "derogó",
+    "derrui": "derruí",
+    "desala": "desála",
+    "desale": "desále",
+    "desalo": "desaló",
+    "desama": "desamá",
+    "desame": "desamé",
+    "desamo": "desamó",
+    "desasi": "desasí",
+    "desata": "desatá",
+    "desate": "desaté",
+    "desato": "desató",
+    "descae": "descaé",
+    "descai": "descaí",
+    "desdio": "desdió",
+    "desdan": "desdán",
+    "desdas": "desdás",
+    "desden": "desdén",
+    "desdes": "desdés",
+    "desdon": "desdón",
+    "deseca": "desecá",
+    "deseco": "desecó",
+    "deseas": "deseás",
+    "deslei": "desleí",
+    "deslia": "deslía",
+    "deslie": "deslíe",
+    "deslio": "deslío",
+    "desman": "desmán",
+    "desoja": "desojá",
+    "desoje": "desojé",
+    "desojo": "desojó",
+    "desola": "desolá",
+    "desole": "desolé",
+    "desolo": "desoló",
+    "desosa": "desosá",
+    "desose": "desosé",
+    "desoso": "desosó",
+    "desova": "desová",
+    "desove": "desové",
+    "desovo": "desovó",
+    "desoyo": "desoyó",
+    "desoia": "desoía",
+    "desoid": "desoíd",
+    "desoir": "desoír",
+    "desois": "desoís",
+    "despee": "despée",
+    "despeo": "despeó",
+    "despea": "despéa",
+    "destin": "destín",
+    "desuca": "desucá",
+    "desuco": "desucó",
+    "desuda": "desudá",
+    "desude": "desudé",
+    "desudo": "desudó",
+    "desuni": "desuní",
+    "desusa": "desusá",
+    "desuse": "desusé",
+    "desuso": "desusó",
+    "desuña": "desuñá",
+    "desuñe": "desuñé",
+    "desuñi": "desuñí",
+    "desuño": "desuñó",
+    "desvai": "desvaí",
+    "desvia": "desvía",
+    "desvie": "desvíe",
+    "desvio": "desvío",
+    "desvan": "desván",
+    "detene": "detené",
+    "detona": "detoná",
+    "detone": "detoné",
+    "detono": "detonó",
+    "detrae": "detraé",
+    "detras": "detrás",
+    "deuton": "deutón",
+    "devala": "devalá",
+    "devale": "devalé",
+    "devalo": "devaló",
+    "devana": "devaná",
+    "devane": "devané",
+    "devano": "devanó",
+    "devela": "develá",
+    "devele": "develé",
+    "develo": "develó",
+    "deveni": "devení",
+    "devora": "devorá",
+    "devore": "devoré",
+    "devoro": "devoró",
+    "dezmas": "dezmás",
+    "deismo": "deísmo",
+    "deista": "deísta",
+    "deixis": "deíxis",
+    "diasen": "diasén",
+    "dibuja": "dibujá",
+    "dibuje": "dibujé",
+    "dibujo": "dibujó",
+    "dictas": "dictás",
+    "dietas": "dietás",
+    "diezma": "diezmá",
+    "diezme": "diezmé",
+    "diezmo": "diezmó",
+    "difama": "difamá",
+    "difame": "difamé",
+    "difamo": "difamó",
+    "diferi": "diferí",
+    "diflui": "difluí",
+    "difuma": "difumá",
+    "difume": "difumé",
+    "difumo": "difumó",
+    "digeri": "digerí",
+    "digita": "digitá",
+    "digite": "digité",
+    "digito": "dígito",
+    "dignas": "dignás",
+    "digais": "digáis",
+    "dilata": "dilatá",
+    "dilate": "dilaté",
+    "dilato": "dilató",
+    "diluyo": "diluyó",
+    "diluia": "diluía",
+    "diluis": "diluís",
+    "dimana": "dimaná",
+    "dimane": "dimané",
+    "dimano": "dimanó",
+    "dimiti": "dimití",
+    "diputa": "diputá",
+    "dipute": "diputé",
+    "diputo": "diputó",
+    "dirigi": "dirigí",
+    "dirimi": "dirimí",
+    "direis": "diréis",
+    "dirian": "dirían",
+    "dirias": "dirías",
+    "discas": "discás",
+    "diseca": "disecá",
+    "diseco": "disecó",
+    "diseña": "diseñá",
+    "diseñe": "diseñé",
+    "diseño": "diseñó",
+    "disidi": "disidí",
+    "disipa": "disipá",
+    "disipe": "disipé",
+    "disipo": "disipó",
+    "disona": "dísona",
+    "disone": "disoné",
+    "disono": "dísono",
+    "dispon": "dispón",
+    "disque": "disqué",
+    "distas": "distás",
+    "diucon": "diucón",
+    "divaga": "divagá",
+    "divago": "divagó",
+    "dividi": "dividí",
+    "divina": "diviná",
+    "divine": "diviné",
+    "divino": "divinó",
+    "divisa": "divisá",
+    "divise": "divisé",
+    "diviso": "divisó",
+    "diesel": "diésel",
+    "diñara": "diñará",
+    "diñare": "diñaré",
+    "diñais": "diñáis",
+    "diñeis": "diñéis",
+    "doblas": "doblás",
+    "doblon": "doblón",
+    "dolera": "dolerá",
+    "dolere": "doleré",
+    "dolman": "dolmán",
+    "dolais": "doláis",
+    "doleis": "doléis",
+    "dolian": "dolían",
+    "dolias": "dolías",
+    "domara": "domará",
+    "domare": "domaré",
+    "domeña": "domeñá",
+    "domeñe": "domeñé",
+    "domeño": "domeñó",
+    "domina": "dominá",
+    "domine": "dómine",
+    "domino": "dómino",
+    "domais": "domáis",
+    "domeis": "doméis",
+    "donara": "donará",
+    "donare": "donaré",
+    "donais": "donáis",
+    "doneis": "donéis",
+    "dopara": "dopará",
+    "dopare": "doparé",
+    "dopais": "dopáis",
+    "dopeis": "dopéis",
+    "dorara": "dorará",
+    "dorare": "doraré",
+    "dorman": "dormán",
+    "dormia": "dormía",
+    "dormis": "dormís",
+    "dorais": "doráis",
+    "doreis": "doréis",
+    "dotara": "dotará",
+    "dotare": "dotaré",
+    "dotais": "dotáis",
+    "doteis": "dotéis",
+    "dovela": "dovelá",
+    "dovele": "dovelé",
+    "dovelo": "doveló",
+    "doñeas": "doñeás",
+    "drague": "dragué",
+    "dragas": "dragás",
+    "dragon": "dragón",
+    "dramon": "dramón",
+    "drapea": "drapeá",
+    "drapee": "drapeé",
+    "drapeo": "drapeó",
+    "drenas": "drenás",
+    "dribla": "driblá",
+    "drible": "driblé",
+    "driblo": "dribló",
+    "drogue": "drogué",
+    "drogas": "drogás",
+    "driada": "dríada",
+    "driade": "dríade",
+    "duchas": "duchás",
+    "dudara": "dudará",
+    "dudare": "dudaré",
+    "dudais": "dudáis",
+    "dudeis": "dudéis",
+    "dulzon": "dulzón",
+    "durara": "durará",
+    "durare": "duraré",
+    "durmio": "durmió",
+    "durais": "duráis",
+    "dureis": "duréis",
+    "dadiva": "dádiva",
+    "danica": "dánica",
+    "danico": "dánico",
+    "decada": "década",
+    "decima": "décima",
+    "decimo": "décimo",
+    "dedalo": "dédalo",
+    "dejame": "déjame",
+    "didima": "dídima",
+    "didimo": "dídimo",
+    "dignen": "dígnen",
+    "dimero": "dímero",
+    "dinamo": "dínamo",
+    "dirham": "dírham",
+    "dirhem": "dírhem",
+    "ditono": "dítono",
+    "dolope": "dólope",
+    "dorica": "dórica",
+    "dorico": "dórico",
+    "ductil": "dúctil",
+    "duplex": "dúplex"
+}

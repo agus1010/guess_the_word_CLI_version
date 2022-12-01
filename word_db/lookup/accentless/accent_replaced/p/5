@@ -1,367 +1,352 @@
-paces
-pacha
-pacia
-pacio
-pacon
-pacta
-pacte
-pacto
-padel
-pagas
-pague
-paira
-paire
-pairo
-pajea
-pajee
-pajeo
-pajon
-palea
-palee
-paleo
-palia
-palia
-palie
-palie
-palio
-palio
-palla
-palle
-pallo
-palma
-palme
-palmo
-palon
-palpa
-palpe
-palpo
-palto
-panji
-papas
-papea
-papee
-papeo
-papin
-papon
-papua
-paras
-parea
-paree
-pareo
-paria
-pario
-paris
-paris
-parla
-parle
-parlo
-parne
-paron
-parpa
-parpe
-parpo
-parra
-parre
-parro
-parti
-pasas
-pasea
-pasee
-paseo
-pasma
-pasme
-pasmo
-paspa
-paspe
-paspe
-paspo
-pasta
-paste
-pasto
-patan
-patea
-patee
-pateo
-pater
-patin
-paton
-pauji
-paula
-paule
-paulo
-pausa
-pause
-pauso
-pauta
-paute
-pauto
-paves
-pavia
-pavon
-payas
-payes
-peais
-peala
-peale
-pealo
-pecan
-pecas
-pecha
-peche
-pecho
-pecta
-pecte
-pecto
-pedia
-pedia
-pedis
-peeis
-peera
-peere
-pegas
-pegon
-pegue
-peian
-peias
-peido
-peina
-peine
-peino
-pejin
-pekin
-pelas
-pelea
-pelee
-peleo
-pelon
-pemon
-penas
-penca
-penco
-pende
-pendi
-pensa
-pense
-pense
-penso
-penso
-pepon
-peque
-perde
-perdi
-perez
-perla
-perle
-perlo
-peron
-pesas
-pesca
-pesco
-pesol
-petas
-peuco
-pezon
-peñon
-piafa
-piafe
-piafo
-piala
-piale
-pialo
-piara
-piare
-pibon
-picas
-picea
-piceo
-picha
-piche
-pichi
-picho
-picon
-piden
-pidio
-pidio
-pidon
-pifia
-pifie
-pifio
-pijin
-pilas
-pileo
-pilin
-pilla
-pille
-pillo
-pilon
-pince
-pindo
-pinga
-pingo
-pinta
-pinte
-pinto
-pinza
-pinzo
-piola
-piole
-piolo
-pipas
-pipia
-pipia
-pipie
-pipie
-pipio
-pipio
-pipon
-pique
-piras
-pirca
-pirco
-pirex
-piron
-pirra
-pirre
-pirro
-pisas
-pison
-pispa
-pispe
-pispo
-pista
-piste
-pisto
-pitas
-pitea
-pitee
-piteo
-piton
-piula
-piule
-piulo
-pivot
-pixel
-pizca
-pizco
-piñen
-piñon
-placa
-place
-placi
-placo
-plaga
-plago
-plato
-playa
-playe
-playo
-plañi
-plaño
-plega
-plego
-plisa
-plise
-pliso
-ploma
-plome
-plomo
-pobla
-poble
-poblo
-pocha
-poche
-pocho
-podas
-podes
-podia
-podia
-podon
-podra
-podra
-podre
-podre
-podri
-poino
-poker
-polca
-polco
-polex
-polin
-pomez
-ponci
-pones
-poney
-ponia
-ponia
-popas
-popes
-popti
-porta
-porte
-porto
-posas
-posee
-posei
-posit
-poson
-potas
-poyas
-preve
-preve
-previ
-preña
-preñe
-preño
-prima
-prime
-primo
-priva
-prive
-privo
-proba
-probe
-probo
-prois
-proiz
-puara
-puare
-puber
-pudin
-pudri
-pugil
-pugna
-pugne
-pugno
-pujas
-pulia
-pulio
-pulis
-pulla
-pulle
-pullo
-pulsa
-pulse
-pulso
-punce
-pungi
-punia
-punio
-punis
-punta
-punte
-punto
-punza
-punzo
-pupas
-purea
-puree
-pureo
-purga
-purgo
-purin
-putea
-putee
-puteo
-puton
-puyas
-puyon
+{
+    "pacha": "pachá",
+    "pacio": "pació",
+    "pacta": "pactá",
+    "pacte": "pacté",
+    "pacto": "pactó",
+    "paces": "pacés",
+    "pacia": "pacía",
+    "pacon": "pacón",
+    "pague": "pagué",
+    "pagas": "pagás",
+    "paira": "pairá",
+    "paire": "pairé",
+    "pairo": "pairó",
+    "pajea": "pajeá",
+    "pajee": "pajeé",
+    "pajeo": "pajeó",
+    "pajon": "pajón",
+    "palea": "paleá",
+    "palee": "paleé",
+    "paleo": "paleó",
+    "palia": "palía",
+    "palie": "palíe",
+    "palio": "palío",
+    "palla": "pallá",
+    "palle": "pallé",
+    "pallo": "palló",
+    "palma": "palmá",
+    "palme": "palmé",
+    "palmo": "palmó",
+    "palpa": "palpá",
+    "palpe": "palpé",
+    "palpo": "palpó",
+    "palto": "paltó",
+    "palon": "palón",
+    "panji": "panjí",
+    "papea": "papeá",
+    "papee": "papeé",
+    "papeo": "papeó",
+    "papas": "papás",
+    "papin": "papín",
+    "papon": "papón",
+    "papua": "papúa",
+    "parea": "pareá",
+    "paree": "pareé",
+    "pareo": "pareó",
+    "pario": "parió",
+    "parla": "parlá",
+    "parle": "parlé",
+    "parlo": "parló",
+    "parne": "parné",
+    "parpa": "parpá",
+    "parpe": "parpé",
+    "parpo": "parpó",
+    "parra": "parrá",
+    "parre": "parré",
+    "parro": "parró",
+    "parti": "partí",
+    "paras": "parás",
+    "paria": "paría",
+    "paris": "parís",
+    "paron": "parón",
+    "pasea": "paseá",
+    "pasee": "paseé",
+    "paseo": "paseó",
+    "pasma": "pasmá",
+    "pasme": "pasmé",
+    "pasmo": "pasmó",
+    "paspe": "páspe",
+    "paspo": "paspó",
+    "pasta": "pastá",
+    "paste": "pasté",
+    "pasto": "pastó",
+    "pasas": "pasás",
+    "patea": "pateá",
+    "patee": "pateé",
+    "pateo": "pateó",
+    "patan": "patán",
+    "patin": "patín",
+    "paton": "patón",
+    "pauji": "paují",
+    "paula": "paulá",
+    "paule": "paulé",
+    "paulo": "pauló",
+    "pausa": "pausá",
+    "pause": "pausé",
+    "pauso": "pausó",
+    "pauta": "pautá",
+    "paute": "pauté",
+    "pauto": "pautó",
+    "paves": "pavés",
+    "pavia": "pavía",
+    "pavon": "pavón",
+    "payas": "payás",
+    "payes": "payés",
+    "peala": "pealá",
+    "peale": "pealé",
+    "pealo": "pealó",
+    "pecha": "pechá",
+    "peche": "peché",
+    "pecho": "pechó",
+    "pecta": "pectá",
+    "pecte": "pecté",
+    "pecto": "pectó",
+    "pecan": "pecán",
+    "pecas": "pecás",
+    "pedia": "pedía",
+    "pedis": "pedís",
+    "peera": "peerá",
+    "peere": "peeré",
+    "pegue": "pegué",
+    "pegas": "pegás",
+    "pegon": "pegón",
+    "peina": "peiná",
+    "peine": "peiné",
+    "peino": "peinó",
+    "pejin": "pejín",
+    "pekin": "pekín",
+    "pelea": "peleá",
+    "pelee": "peleé",
+    "peleo": "peleó",
+    "pelas": "pelás",
+    "pelon": "pelón",
+    "pemon": "pemón",
+    "penca": "pencá",
+    "penco": "pencó",
+    "pende": "pendé",
+    "pendi": "pendí",
+    "pensa": "pensá",
+    "pense": "pensé",
+    "penso": "pensó",
+    "penas": "penás",
+    "pepon": "pepón",
+    "peque": "pequé",
+    "perde": "perdé",
+    "perdi": "perdí",
+    "perla": "perlá",
+    "perle": "perlé",
+    "perlo": "perló",
+    "peron": "perón",
+    "pesca": "pescá",
+    "pesco": "pescó",
+    "pesas": "pesás",
+    "petas": "petás",
+    "pezon": "pezón",
+    "peais": "peáis",
+    "peeis": "peéis",
+    "peian": "peían",
+    "peias": "peías",
+    "peido": "peído",
+    "peñon": "peñón",
+    "peuco": "peúco",
+    "piafa": "piafá",
+    "piafe": "piafé",
+    "piafo": "piafó",
+    "piala": "pialá",
+    "piale": "pialé",
+    "pialo": "pialó",
+    "piara": "piará",
+    "piare": "piaré",
+    "pibon": "pibón",
+    "picha": "pichá",
+    "piche": "piché",
+    "pichi": "pichí",
+    "picho": "pichó",
+    "picas": "picás",
+    "picon": "picón",
+    "pidio": "pidió",
+    "piden": "pidén",
+    "pidon": "pidón",
+    "pifia": "pifiá",
+    "pifie": "pifié",
+    "pifio": "pifió",
+    "pijin": "pijín",
+    "pilla": "pillá",
+    "pille": "pillé",
+    "pillo": "pilló",
+    "pilas": "pilás",
+    "pilin": "pilín",
+    "pilon": "pilón",
+    "pince": "pincé",
+    "pindo": "pindó",
+    "pinga": "pingá",
+    "pingo": "pingó",
+    "pinta": "pintá",
+    "pinte": "pinté",
+    "pinto": "pintó",
+    "pinza": "pinzá",
+    "pinzo": "pinzó",
+    "piola": "piolá",
+    "piole": "piolé",
+    "piolo": "pioló",
+    "pipia": "pipía",
+    "pipie": "pipíe",
+    "pipio": "pipío",
+    "pipas": "pipás",
+    "pipon": "pipón",
+    "pique": "piqué",
+    "pirca": "pircá",
+    "pirco": "pircó",
+    "pirra": "pirrá",
+    "pirre": "pirré",
+    "pirro": "pirró",
+    "piras": "pirás",
+    "piron": "pirón",
+    "pispa": "pispá",
+    "pispe": "pispé",
+    "pispo": "pispó",
+    "pista": "pistá",
+    "piste": "pisté",
+    "pisto": "pistó",
+    "pisas": "pisás",
+    "pison": "pisón",
+    "pitea": "piteá",
+    "pitee": "piteé",
+    "piteo": "piteó",
+    "pitas": "pitás",
+    "piton": "pitón",
+    "piula": "piulá",
+    "piule": "piulé",
+    "piulo": "piuló",
+    "pizca": "pizcá",
+    "pizco": "pizcó",
+    "piñen": "piñén",
+    "piñon": "piñón",
+    "placa": "placá",
+    "place": "placé",
+    "placi": "plací",
+    "placo": "placó",
+    "plaga": "plagá",
+    "plago": "plagó",
+    "plato": "plató",
+    "playa": "playá",
+    "playe": "playé",
+    "playo": "playó",
+    "plañi": "plañí",
+    "plaño": "plañó",
+    "plega": "plegá",
+    "plego": "plegó",
+    "plisa": "plisá",
+    "plise": "plisé",
+    "pliso": "plisó",
+    "ploma": "plomá",
+    "plome": "plomé",
+    "plomo": "plomó",
+    "pobla": "poblá",
+    "poble": "poblé",
+    "poblo": "pobló",
+    "pocha": "pochá",
+    "poche": "poché",
+    "pocho": "pochó",
+    "podra": "podrá",
+    "podre": "podré",
+    "podri": "podrí",
+    "podas": "podás",
+    "podes": "podés",
+    "podia": "podía",
+    "podon": "podón",
+    "polca": "polcá",
+    "polco": "polcó",
+    "polin": "polín",
+    "ponci": "poncí",
+    "pones": "ponés",
+    "ponia": "ponía",
+    "popti": "poptí",
+    "popas": "popás",
+    "popes": "popés",
+    "porta": "portá",
+    "porte": "porté",
+    "porto": "portó",
+    "posee": "poseé",
+    "posei": "poseí",
+    "posas": "posás",
+    "poson": "posón",
+    "potas": "potás",
+    "poyas": "poyás",
+    "poino": "poíno",
+    "preve": "prevé",
+    "previ": "preví",
+    "preña": "preñá",
+    "preñe": "preñé",
+    "preño": "preñó",
+    "prima": "primá",
+    "prime": "primé",
+    "primo": "primó",
+    "priva": "privá",
+    "prive": "privé",
+    "privo": "privó",
+    "proba": "probá",
+    "probe": "probé",
+    "probo": "probó",
+    "prois": "proís",
+    "proiz": "proíz",
+    "puara": "puará",
+    "puare": "puaré",
+    "pudri": "pudrí",
+    "pudin": "pudín",
+    "pugna": "pugná",
+    "pugne": "pugné",
+    "pugno": "pugnó",
+    "pujas": "pujás",
+    "pulio": "pulió",
+    "pulla": "pullá",
+    "pulle": "pullé",
+    "pullo": "pulló",
+    "pulsa": "pulsá",
+    "pulse": "pulsé",
+    "pulso": "pulsó",
+    "pulia": "pulía",
+    "pulis": "pulís",
+    "punce": "puncé",
+    "pungi": "pungí",
+    "punio": "punió",
+    "punta": "puntá",
+    "punte": "punté",
+    "punto": "puntó",
+    "punza": "punzá",
+    "punzo": "punzó",
+    "punia": "punía",
+    "punis": "punís",
+    "pupas": "pupás",
+    "purea": "pureá",
+    "puree": "pureé",
+    "pureo": "pureó",
+    "purga": "purgá",
+    "purgo": "purgó",
+    "purin": "purín",
+    "putea": "puteá",
+    "putee": "puteé",
+    "puteo": "puteó",
+    "puton": "putón",
+    "puyas": "puyás",
+    "puyon": "puyón",
+    "padel": "pádel",
+    "paspa": "páspa",
+    "pater": "páter",
+    "perez": "pérez",
+    "pesol": "pésol",
+    "picea": "pícea",
+    "piceo": "píceo",
+    "pileo": "píleo",
+    "pirex": "pírex",
+    "pivot": "pívot",
+    "pixel": "píxel",
+    "poker": "póker",
+    "polex": "pólex",
+    "pomez": "pómez",
+    "poney": "póney",
+    "posit": "pósit",
+    "puber": "púber",
+    "pugil": "púgil"
+}

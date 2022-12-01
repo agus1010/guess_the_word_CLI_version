@@ -1,302 +1,289 @@
-tabla
-table
-tablo
-tabon
-tacet
-tacha
-tache
-tacho
-tacon
-tafon
-tahur
-taima
-taime
-taime
-taimo
-taina
-taino
-tajas
-tajea
-tajee
-tajeo
-tajin
-tajon
-talan
-talas
-talea
-talin
-talla
-talle
-tallo
-talon
-tanca
-tanco
-tanga
-tangi
-tango
-tapas
-tapea
-tapee
-tapeo
-taper
-tapia
-tapie
-tapin
-tapio
-tapon
-taque
-taras
-tarda
-tarde
-tardo
-tardo
-tarin
-tarja
-tarje
-tarjo
-tasas
-tasca
-tasco
-tatua
-tatua
-tatue
-tatue
-tatuo
-tatuo
-tauca
-tauco
-taxon
-tayin
-tazas
-tazon
-tañas
-tañes
-tañia
-techa
-teche
-techo
-tehul
-teina
-tejas
-tejes
-tejia
-tejio
-tejon
-telex
-telon
-telon
-temas
-temes
-temia
-temia
-temio
-tende
-tendi
-tenes
-tenia
-tenia
-tenio
-tensa
-tense
-tenso
-tenta
-tente
-tento
-tersa
-terse
-terso
-tesas
-teson
-testa
-teste
-testo
-tetas
-teton
-teñia
-teñis
-tibar
-tibia
-tibie
-tibio
-tifon
-tilda
-tilde
-tildo
-tilin
-tilla
-tille
-tillo
-timas
-timbo
-timon
-tinca
-tinco
-tinea
-tiner
-tinta
-tinte
-tinto
-tipea
-tipee
-tipeo
-tipex
-tipoi
-tiqui
-tiras
-tiron
-titan
-titea
-titee
-titeo
-titis
-tizna
-tizne
-tizno
-tizon
-toais
-toara
-toare
-tocas
-tocia
-tocon
-todia
-toeis
-togas
-togue
-togue
-tolda
-tolde
-toldo
-tolon
-tomas
-tomas
-tomin
-tomon
-tonas
-toner
-topas
-topea
-topee
-topeo
-toper
-topon
-toque
-torax
-torce
-torci
-torea
-toree
-toreo
-tores
-torna
-torne
-torno
-toron
-torra
-torre
-torro
-toses
-tosia
-tosio
-tosta
-toste
-tosto
-totem
-traba
-trabe
-trabo
-trace
-traes
-traga
-trago
-traia
-traia
-trama
-trame
-tramo
-trata
-trate
-trato
-trato
-traza
-trazo
-trema
-treme
-tremi
-tremo
-trepa
-trepa
-trepe
-trepe
-trepo
-trian
-trias
-trice
-trien
-tries
-trina
-trine
-trino
-trisa
-trise
-triso
-triza
-trizo
-troca
-troce
-troco
-trona
-trone
-trono
-trota
-trote
-troto
-trova
-trove
-trovo
-troza
-trozo
-truca
-truco
-trufa
-trufe
-trufo
-tucan
-tucia
-tucun
-tufea
-tufee
-tufeo
-tulli
-tullo
-tumba
-tumbe
-tumbo
-tunas
-tundi
-tunea
-tunee
-tunel
-tunel
-tuneo
-tuper
-tupia
-tupin
-tupio
-tupis
-turba
-turbe
-turbo
-turna
-turne
-turno
-turon
-turra
-turre
-turro
-tusas
-tuson
-tutea
-tutee
-tuteo
-tutia
+{
+    "tabla": "tablá",
+    "table": "tablé",
+    "tablo": "tabló",
+    "tabon": "tabón",
+    "tacha": "tachá",
+    "tache": "taché",
+    "tacho": "tachó",
+    "tacon": "tacón",
+    "tafon": "tafón",
+    "tahur": "tahúr",
+    "taime": "táime",
+    "taimo": "taimó",
+    "tajea": "tajeá",
+    "tajee": "tajeé",
+    "tajeo": "tajeó",
+    "tajas": "tajás",
+    "tajin": "tajín",
+    "tajon": "tajón",
+    "talla": "tallá",
+    "talle": "tallé",
+    "tallo": "talló",
+    "talan": "talán",
+    "talas": "talás",
+    "talin": "talín",
+    "talon": "talón",
+    "tanca": "tancá",
+    "tanco": "tancó",
+    "tanga": "tangá",
+    "tangi": "tangí",
+    "tango": "tangó",
+    "tapea": "tapeá",
+    "tapee": "tapeé",
+    "tapeo": "tapeó",
+    "tapia": "tapiá",
+    "tapie": "tapié",
+    "tapio": "tapió",
+    "tapas": "tapás",
+    "tapin": "tapín",
+    "tapon": "tapón",
+    "taque": "taqué",
+    "tarda": "tardá",
+    "tarde": "tardé",
+    "tardo": "tardó",
+    "tarja": "tarjá",
+    "tarje": "tarjé",
+    "tarjo": "tarjó",
+    "taras": "tarás",
+    "tarin": "tarín",
+    "tasca": "tascá",
+    "tasco": "tascó",
+    "tasas": "tasás",
+    "tatua": "tatúa",
+    "tatue": "tatúe",
+    "tatuo": "tatúo",
+    "tauca": "taucá",
+    "tauco": "taucó",
+    "taxon": "taxón",
+    "tayin": "tayín",
+    "tazas": "tazás",
+    "tazon": "tazón",
+    "taina": "taína",
+    "taino": "taíno",
+    "tañas": "tañás",
+    "tañes": "tañés",
+    "tañia": "tañía",
+    "techa": "techá",
+    "teche": "teché",
+    "techo": "techó",
+    "tehul": "tehúl",
+    "tejio": "tejió",
+    "tejas": "tejás",
+    "tejes": "tejés",
+    "tejia": "tejía",
+    "tejon": "tejón",
+    "telon": "telón",
+    "temio": "temió",
+    "temas": "temás",
+    "temes": "temés",
+    "temia": "temía",
+    "tende": "tendé",
+    "tendi": "tendí",
+    "tensa": "tensá",
+    "tense": "tensé",
+    "tenso": "tensó",
+    "tenta": "tentá",
+    "tente": "tenté",
+    "tento": "tentó",
+    "tenes": "tenés",
+    "tenia": "tenía",
+    "tenio": "tenío",
+    "tersa": "tersá",
+    "terse": "tersé",
+    "terso": "tersó",
+    "testa": "testá",
+    "teste": "testé",
+    "testo": "testó",
+    "tesas": "tesás",
+    "teson": "tesón",
+    "tetas": "tetás",
+    "teton": "tetón",
+    "teina": "teína",
+    "teñia": "teñía",
+    "teñis": "teñís",
+    "tibia": "tibiá",
+    "tibie": "tibié",
+    "tibio": "tibió",
+    "tifon": "tifón",
+    "tilda": "tildá",
+    "tilde": "tildé",
+    "tildo": "tildó",
+    "tilla": "tillá",
+    "tille": "tillé",
+    "tillo": "tilló",
+    "tilin": "tilín",
+    "timbo": "timbó",
+    "timas": "timás",
+    "timon": "timón",
+    "tinca": "tincá",
+    "tinco": "tincó",
+    "tinta": "tintá",
+    "tinte": "tinté",
+    "tinto": "tintó",
+    "tipea": "tipeá",
+    "tipee": "tipeé",
+    "tipeo": "tipeó",
+    "tipoi": "tipói",
+    "tiqui": "tiquí",
+    "tiras": "tirás",
+    "tiron": "tirón",
+    "titea": "titeá",
+    "titee": "titeé",
+    "titeo": "titeó",
+    "titan": "titán",
+    "titis": "titís",
+    "tizna": "tizná",
+    "tizne": "tizné",
+    "tizno": "tiznó",
+    "tizon": "tizón",
+    "toara": "toará",
+    "toare": "toaré",
+    "tocas": "tocás",
+    "tocia": "tocía",
+    "tocon": "tocón",
+    "todia": "todía",
+    "togue": "tógue",
+    "togas": "togás",
+    "tolda": "toldá",
+    "tolde": "toldé",
+    "toldo": "toldó",
+    "tolon": "tolón",
+    "tomas": "tomás",
+    "tomin": "tomín",
+    "tomon": "tomón",
+    "tonas": "tonás",
+    "topea": "topeá",
+    "topee": "topeé",
+    "topeo": "topeó",
+    "topas": "topás",
+    "topon": "topón",
+    "toque": "toqué",
+    "torce": "torcé",
+    "torci": "torcí",
+    "torea": "toreá",
+    "toree": "toreé",
+    "toreo": "toreó",
+    "torna": "torná",
+    "torne": "torné",
+    "torno": "tornó",
+    "torra": "torrá",
+    "torre": "torré",
+    "torro": "torró",
+    "tores": "torés",
+    "toron": "torón",
+    "tosio": "tosió",
+    "tosta": "tostá",
+    "toste": "tosté",
+    "tosto": "tostó",
+    "toses": "tosés",
+    "tosia": "tosía",
+    "toais": "toáis",
+    "toeis": "toéis",
+    "traba": "trabá",
+    "trabe": "trabé",
+    "trabo": "trabó",
+    "trace": "tracé",
+    "traga": "tragá",
+    "trago": "tragó",
+    "trama": "tramá",
+    "trame": "tramé",
+    "tramo": "tramó",
+    "trata": "tratá",
+    "trate": "traté",
+    "trato": "trató",
+    "traza": "trazá",
+    "trazo": "trazó",
+    "traes": "traés",
+    "traia": "traía",
+    "trema": "tremá",
+    "treme": "tremé",
+    "tremi": "tremí",
+    "tremo": "tremó",
+    "trepa": "trépa",
+    "trepe": "trépe",
+    "trepo": "trepó",
+    "trice": "tricé",
+    "trina": "triná",
+    "trine": "triné",
+    "trino": "trinó",
+    "trisa": "trisá",
+    "trise": "trisé",
+    "triso": "trisó",
+    "triza": "trizá",
+    "trizo": "trizó",
+    "troca": "trocá",
+    "troce": "trocé",
+    "troco": "trocó",
+    "trona": "troná",
+    "trone": "troné",
+    "trono": "tronó",
+    "trota": "trotá",
+    "trote": "troté",
+    "troto": "trotó",
+    "trova": "trová",
+    "trove": "trové",
+    "trovo": "trovó",
+    "troza": "trozá",
+    "trozo": "trozó",
+    "truca": "trucá",
+    "truco": "trucó",
+    "trufa": "trufá",
+    "trufe": "trufé",
+    "trufo": "trufó",
+    "trian": "trían",
+    "trias": "trías",
+    "trien": "tríen",
+    "tries": "tríes",
+    "tucan": "tucán",
+    "tucia": "tucía",
+    "tucun": "tucún",
+    "tufea": "tufeá",
+    "tufee": "tufeé",
+    "tufeo": "tufeó",
+    "tulli": "tullí",
+    "tullo": "tulló",
+    "tumba": "tumbá",
+    "tumbe": "tumbé",
+    "tumbo": "tumbó",
+    "tundi": "tundí",
+    "tunea": "tuneá",
+    "tunee": "tuneé",
+    "tuneo": "tuneó",
+    "tunas": "tunás",
+    "tupio": "tupió",
+    "tupia": "tupía",
+    "tupin": "tupín",
+    "tupis": "tupís",
+    "turba": "turbá",
+    "turbe": "turbé",
+    "turbo": "turbó",
+    "turna": "turná",
+    "turne": "turné",
+    "turno": "turnó",
+    "turra": "turrá",
+    "turre": "turré",
+    "turro": "turró",
+    "turon": "turón",
+    "tusas": "tusás",
+    "tuson": "tusón",
+    "tutea": "tuteá",
+    "tutee": "tuteé",
+    "tuteo": "tuteó",
+    "tutia": "tutía",
+    "tacet": "tácet",
+    "taima": "táima",
+    "talea": "tálea",
+    "taper": "táper",
+    "telex": "télex",
+    "tibar": "tíbar",
+    "tinea": "tínea",
+    "tiner": "tíner",
+    "tipex": "típex",
+    "toner": "tóner",
+    "toper": "tóper",
+    "torax": "tórax",
+    "totem": "tótem",
+    "tunel": "túnel",
+    "tuper": "túper"
+}

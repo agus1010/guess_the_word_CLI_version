@@ -1,57 +1,56 @@
-zacea
-zacee
-zaceo
-zafas
-zafio
-zafon
-zahen
-zahon
-zaina
-zaino
-zajon
-zalea
-zalee
-zaleo
-zalla
-zalle
-zallo
-zampa
-zampe
-zampo
-zanja
-zanje
-zanjo
-zapas
-zapea
-zapee
-zapeo
-zarpa
-zarpe
-zarpo
-zegri
-zeina
-zejel
-zenit
-ziper
-zocas
-zoque
-zulla
-zulle
-zulle
-zullo
-zumba
-zumbe
-zumbo
-zurci
-zurea
-zuree
-zureo
-zurra
-zurra
-zurre
-zurre
-zurri
-zurro
-zuzon
-zuñia
-zuñis
+{
+    "zacea": "zaceá",
+    "zacee": "zaceé",
+    "zaceo": "zaceó",
+    "zafas": "zafás",
+    "zafio": "zafío",
+    "zafon": "zafón",
+    "zahen": "zahén",
+    "zahon": "zahón",
+    "zajon": "zajón",
+    "zalea": "zaleá",
+    "zalee": "zaleé",
+    "zaleo": "zaleó",
+    "zalla": "zallá",
+    "zalle": "zallé",
+    "zallo": "zalló",
+    "zampa": "zampá",
+    "zampe": "zampé",
+    "zampo": "zampó",
+    "zanja": "zanjá",
+    "zanje": "zanjé",
+    "zanjo": "zanjó",
+    "zapea": "zapeá",
+    "zapee": "zapeé",
+    "zapeo": "zapeó",
+    "zapas": "zapás",
+    "zarpa": "zarpá",
+    "zarpe": "zarpé",
+    "zarpo": "zarpó",
+    "zaina": "zaína",
+    "zaino": "zaíno",
+    "zegri": "zegrí",
+    "zeina": "zeína",
+    "zocas": "zocás",
+    "zoque": "zoqué",
+    "zulle": "zúlle",
+    "zullo": "zulló",
+    "zumba": "zumbá",
+    "zumbe": "zumbé",
+    "zumbo": "zumbó",
+    "zurci": "zurcí",
+    "zurea": "zureá",
+    "zuree": "zureé",
+    "zureo": "zureó",
+    "zurra": "zúrra",
+    "zurre": "zúrre",
+    "zurri": "zurrí",
+    "zurro": "zurró",
+    "zuzon": "zuzón",
+    "zuñia": "zuñía",
+    "zuñis": "zuñís",
+    "zejel": "zéjel",
+    "zenit": "zénit",
+    "ziper": "zíper",
+    "zulla": "zúlla"
+}

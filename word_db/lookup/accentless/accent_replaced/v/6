@@ -1,275 +1,250 @@
-vacais
-vacara
-vacare
-vacari
-vacian
-vacias
-vacias
-vacias
-vacien
-vacies
-vacila
-vacile
-vacilo
-vacios
-vacuna
-vacune
-vacuno
-vadeas
-vagais
-vagara
-vagare
-vaguea
-vaguee
-vagueo
-vahais
-vahara
-vahare
-vaheas
-vaheis
-vahido
-vaiven
-vajeas
-valdes
-valdra
-valdre
-valeis
-valian
-valias
-valida
-valida
-valida
-valide
-valido
-valido
-valido
-vallas
-valora
-valore
-valoro
-valsas
-valuan
-valuas
-valuas
-valuen
-values
-vaneas
-vanova
-vapeas
-vapora
-vapore
-vaporo
-vapula
-vapule
-vapulo
-vapulo
-vaquea
-vaquee
-vaqueo
-varais
-varara
-varare
-vareas
-vareis
-varian
-varias
-varias
-varice
-varien
-varies
-vascon
-vayais
-veceis
-vedais
-vedara
-vedare
-vedeis
-vedica
-vedico
-vegeta
-vegete
-vegeto
-veiais
-vejais
-vejara
-vejare
-vejeis
-velahi
-velais
-velara
-velare
-veleis
-veleja
-veleje
-velejo
-velica
-velico
-velite
-vellon
-vences
-vencia
-vencio
-vencio
-vendas
-vendes
-vendia
-vendio
-vendio
-vendra
-vendra
-vendre
-venera
-venere
-venero
-veneta
-veneto
-vengas
-vengue
-venian
-venian
-venias
-ventas
-ventea
-ventee
-venteo
-verana
-verane
-verano
-verdea
-verdee
-verdeo
-verdin
-verdon
-vereis
-vergon
-verian
-verias
-verron
-versas
-versea
-versee
-verseo
-vertes
-vertia
-vertio
-vestia
-vestia
-vestis
-vetais
-vetara
-vetare
-veteas
-veteis
-vezais
-vezara
-vezare
-viajas
-vibora
-vibras
-vichas
-vicias
-victor
-victor
-vidria
-vidria
-vidrie
-vidrie
-vidrio
-vidrio
-vienes
-vigian
-vigias
-vigias
-vigien
-vigies
-vigila
-vigile
-vigilo
-vigion
-vigora
-vigore
-vigoro
-vigues
-vilico
-vineas
-vinica
-vinico
-violas
-violia
-violin
-violin
-violon
-virais
-virara
-virare
-viraro
-vireis
-virica
-virico
-virule
-visais
-visara
-visare
-viseas
-viseis
-vision
-vision
-visita
-visite
-visito
-visito
-vistea
-vistee
-visteo
-vistio
-vitais
-vitara
-vitare
-viteis
-vitrea
-vitreo
-vitulo
-vivais
-vivara
-vivare
-viveis
-vivian
-vivian
-vivian
-vivias
-vivida
-vivido
-vivira
-vivire
-voceas
-volais
-volara
-volare
-volcan
-volcas
-voleas
-voleis
-volita
-volite
-volito
-volque
-voltea
-voltee
-volteo
-volves
-volvia
-volvia
-volvio
-volvio
-vomica
-vomico
-vomita
-vomite
-vomito
-vomito
-voseas
-votais
-votara
-votare
-voteis
-voznas
+{
+    "vacara": "vacará",
+    "vacare": "vacaré",
+    "vacari": "vacarí",
+    "vacila": "vacilá",
+    "vacile": "vacilé",
+    "vacilo": "vaciló",
+    "vacias": "vacías",
+    "vacuna": "vacuná",
+    "vacune": "vacuné",
+    "vacuno": "vacunó",
+    "vacais": "vacáis",
+    "vacian": "vacían",
+    "vacien": "vacíen",
+    "vacies": "vacíes",
+    "vacios": "vacíos",
+    "vadeas": "vadeás",
+    "vagara": "vagará",
+    "vagare": "vagaré",
+    "vaguea": "vagueá",
+    "vaguee": "vagueé",
+    "vagueo": "vagueó",
+    "vagais": "vagáis",
+    "vahara": "vahará",
+    "vahare": "vaharé",
+    "vaheas": "vaheás",
+    "vahais": "vaháis",
+    "vaheis": "vahéis",
+    "vahido": "vahído",
+    "vaiven": "vaivén",
+    "vajeas": "vajeás",
+    "valdra": "valdrá",
+    "valdre": "valdré",
+    "valdes": "valdés",
+    "valida": "válida",
+    "valide": "validé",
+    "valido": "válido",
+    "vallas": "vallás",
+    "valora": "valorá",
+    "valore": "valoré",
+    "valoro": "valoró",
+    "valsas": "valsás",
+    "valuas": "valúas",
+    "valeis": "valéis",
+    "valian": "valían",
+    "valias": "valías",
+    "valuan": "valúan",
+    "valuen": "valúen",
+    "values": "valúes",
+    "vaneas": "vaneás",
+    "vapeas": "vapeás",
+    "vapora": "vaporá",
+    "vapore": "vaporé",
+    "vaporo": "vaporó",
+    "vapula": "vapulá",
+    "vapule": "vapulé",
+    "vapulo": "vápulo",
+    "vaquea": "vaqueá",
+    "vaquee": "vaqueé",
+    "vaqueo": "vaqueó",
+    "varara": "varará",
+    "varare": "vararé",
+    "vareas": "vareás",
+    "varias": "varías",
+    "varais": "varáis",
+    "vareis": "varéis",
+    "varian": "varían",
+    "varien": "varíen",
+    "varies": "varíes",
+    "vascon": "vascón",
+    "vayais": "vayáis",
+    "veceis": "vecéis",
+    "vedara": "vedará",
+    "vedare": "vedaré",
+    "vedais": "vedáis",
+    "vedeis": "vedéis",
+    "vegeta": "vegetá",
+    "vegete": "vegeté",
+    "vegeto": "vegetó",
+    "vejara": "vejará",
+    "vejare": "vejaré",
+    "vejais": "vejáis",
+    "vejeis": "vejéis",
+    "velahi": "velahí",
+    "velara": "velará",
+    "velare": "velaré",
+    "veleja": "velejá",
+    "veleje": "velejé",
+    "velejo": "velejó",
+    "velica": "velicá",
+    "velico": "velicó",
+    "vellon": "vellón",
+    "velais": "veláis",
+    "veleis": "veléis",
+    "vencio": "venció",
+    "vences": "vencés",
+    "vencia": "vencía",
+    "vendio": "vendió",
+    "vendra": "vendrá",
+    "vendre": "vendré",
+    "vendas": "vendás",
+    "vendes": "vendés",
+    "vendia": "vendía",
+    "venera": "venerá",
+    "venere": "veneré",
+    "venero": "veneró",
+    "vengue": "vengué",
+    "vengas": "vengás",
+    "ventea": "venteá",
+    "ventee": "venteé",
+    "venteo": "venteó",
+    "ventas": "ventás",
+    "venian": "venían",
+    "venias": "venías",
+    "verana": "veraná",
+    "verane": "verané",
+    "verano": "veranó",
+    "verdea": "verdeá",
+    "verdee": "verdeé",
+    "verdeo": "verdeó",
+    "verdin": "verdín",
+    "verdon": "verdón",
+    "vergon": "vergón",
+    "verron": "verrón",
+    "versea": "verseá",
+    "versee": "verseé",
+    "verseo": "verseó",
+    "versas": "versás",
+    "vertio": "vertió",
+    "vertes": "vertés",
+    "vertia": "vertía",
+    "vereis": "veréis",
+    "verian": "verían",
+    "verias": "verías",
+    "vestia": "vestía",
+    "vestis": "vestís",
+    "vetara": "vetará",
+    "vetare": "vetaré",
+    "veteas": "veteás",
+    "vetais": "vetáis",
+    "veteis": "vetéis",
+    "vezara": "vezará",
+    "vezare": "vezaré",
+    "vezais": "vezáis",
+    "veiais": "veíais",
+    "viajas": "viajás",
+    "vibras": "vibrás",
+    "vichas": "vichás",
+    "vicias": "viciás",
+    "vidria": "vidría",
+    "vidrie": "vidríe",
+    "vidrio": "vidrío",
+    "vienes": "vienés",
+    "vigila": "vigilá",
+    "vigile": "vigilé",
+    "vigilo": "vigiló",
+    "vigias": "vigías",
+    "vigion": "vigión",
+    "vigora": "vigorá",
+    "vigore": "vigoré",
+    "vigoro": "vigoró",
+    "vigues": "vigués",
+    "vigian": "vigían",
+    "vigien": "vigíen",
+    "vigies": "vigíes",
+    "vineas": "vineás",
+    "violas": "violás",
+    "violia": "violía",
+    "violin": "violín",
+    "violon": "violón",
+    "virara": "virará",
+    "virare": "viraré",
+    "viraro": "viraró",
+    "virule": "virulé",
+    "virais": "viráis",
+    "vireis": "viréis",
+    "visara": "visará",
+    "visare": "visaré",
+    "viseas": "viseás",
+    "visita": "visitá",
+    "visite": "visité",
+    "visito": "visitó",
+    "vision": "visión",
+    "vistea": "visteá",
+    "vistee": "visteé",
+    "visteo": "visteó",
+    "vistio": "vistió",
+    "visais": "visáis",
+    "viseis": "viséis",
+    "vitara": "vitará",
+    "vitare": "vitaré",
+    "vitais": "vitáis",
+    "viteis": "vitéis",
+    "vivara": "vivará",
+    "vivare": "vivaré",
+    "vivira": "vivirá",
+    "vivire": "viviré",
+    "vivian": "vivían",
+    "vivais": "viváis",
+    "viveis": "vivéis",
+    "vivias": "vivías",
+    "voceas": "voceás",
+    "volara": "volará",
+    "volare": "volaré",
+    "volcan": "volcán",
+    "volcas": "volcás",
+    "voleas": "voleás",
+    "volita": "volitá",
+    "volite": "volité",
+    "volito": "volitó",
+    "volque": "volqué",
+    "voltea": "volteá",
+    "voltee": "volteé",
+    "volteo": "volteó",
+    "volvio": "volvió",
+    "volves": "volvés",
+    "volvia": "volvía",
+    "volais": "voláis",
+    "voleis": "voléis",
+    "vomita": "vomitá",
+    "vomite": "vomité",
+    "vomito": "vómito",
+    "voseas": "voseás",
+    "votara": "votará",
+    "votare": "votaré",
+    "votais": "votáis",
+    "voteis": "votéis",
+    "voznas": "voznás",
+    "vanova": "vánova",
+    "varice": "várice",
+    "vedica": "védica",
+    "vedico": "védico",
+    "velite": "vélite",
+    "veneta": "véneta",
+    "veneto": "véneto",
+    "vibora": "víbora",
+    "victor": "víctor",
+    "vilico": "vílico",
+    "vinica": "vínica",
+    "vinico": "vínico",
+    "virica": "vírica",
+    "virico": "vírico",
+    "vitrea": "vítrea",
+    "vitreo": "vítreo",
+    "vitulo": "vítulo",
+    "vivida": "vívida",
+    "vivido": "vívido",
+    "vomica": "vómica",
+    "vomico": "vómico"
+}

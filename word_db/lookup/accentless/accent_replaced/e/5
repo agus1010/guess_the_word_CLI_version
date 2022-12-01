@@ -1,151 +1,125 @@
-ebano
-ebola
-echas
-edita
-edite
-edito
-edras
-educa
-educi
-educo
-efeta
-efeta
-eflui
-eforo
-egida
-ejion
-elami
-elega
-elegi
-elego
-elemi
-elepe
-eleva
-eleve
-elevo
-elias
-elidi
-elija
-elije
-elijo
-elite
-eludi
-eluia
-eluis
-eluyo
-emana
-emane
-emano
-embai
-emiti
-empos
-emula
-emula
-emule
-emulo
-emulo
-encia
-eneja
-eneje
-enejo
-enoja
-enoje
-enojo
-enria
-enria
-enrie
-enrie
-enrio
-enrio
-entra
-entre
-entre
-entro
-entro
-enula
-enves
-envia
-envia
-envia
-envie
-envie
-envio
-envio
-envio
-envio
-epale
-epata
-epate
-epato
-epica
-epico
-epoca
-epoca
-erais
-erara
-erare
-erebo
-ereis
-ergui
-erice
-erigi
-eriza
-erizo
-eroga
-erogo
-erras
-escas
-esmui
-espia
-espia
-espie
-espie
-espin
-espio
-espio
-esqui
-estan
-estan
-estas
-estas
-estas
-esten
-esten
-ester
-estes
-estio
-estos
-esula
-etica
-etica
-etico
-etico
-etimo
-evadi
-evita
-evite
-evito
-evoca
-evoco
-evohe
-exigi
-exila
-exile
-exilo
-eximi
-exito
-exito
-exodo
-exora
-exore
-exoro
-expia
-expia
-expie
-expie
-expio
-expio
-expon
-exuda
-exude
-exudo
+{
+    "echas": "echás",
+    "edita": "editá",
+    "edite": "edité",
+    "edito": "editó",
+    "edras": "edrás",
+    "educa": "educá",
+    "educi": "educí",
+    "educo": "educó",
+    "efeta": "éfeta",
+    "eflui": "efluí",
+    "ejion": "ejión",
+    "elami": "elamí",
+    "elegi": "elegí",
+    "elemi": "elemí",
+    "elepe": "elepé",
+    "eleva": "elevá",
+    "eleve": "elevé",
+    "elevo": "elevó",
+    "elidi": "elidí",
+    "elija": "elijá",
+    "elije": "elijé",
+    "elijo": "elijó",
+    "eludi": "eludí",
+    "eluyo": "eluyó",
+    "eluia": "eluía",
+    "eluis": "eluís",
+    "elias": "elías",
+    "emana": "emaná",
+    "emane": "emané",
+    "emano": "emanó",
+    "embai": "embaí",
+    "emiti": "emití",
+    "empos": "empós",
+    "emula": "émula",
+    "emule": "emulé",
+    "emulo": "émulo",
+    "encia": "encía",
+    "eneja": "enejá",
+    "eneje": "enejé",
+    "enejo": "enejó",
+    "enoja": "enojá",
+    "enoje": "enojé",
+    "enojo": "enojó",
+    "enria": "enría",
+    "enrie": "enríe",
+    "enrio": "enrío",
+    "entra": "entrá",
+    "entre": "entré",
+    "entro": "entró",
+    "envia": "envía",
+    "envie": "envíe",
+    "envio": "envío",
+    "enves": "envés",
+    "epata": "epatá",
+    "epate": "epaté",
+    "epato": "epató",
+    "erara": "erará",
+    "erare": "eraré",
+    "ergui": "erguí",
+    "erice": "ericé",
+    "erigi": "erigí",
+    "eriza": "erizá",
+    "erizo": "erizó",
+    "eroga": "erogá",
+    "erogo": "erogó",
+    "erras": "errás",
+    "erais": "eráis",
+    "ereis": "eréis",
+    "escas": "escás",
+    "esmui": "esmuí",
+    "espia": "espía",
+    "espie": "espíe",
+    "espio": "espío",
+    "espin": "espín",
+    "esqui": "esquí",
+    "estan": "están",
+    "estas": "éstas",
+    "esten": "estén",
+    "estes": "estés",
+    "estio": "estío",
+    "evadi": "evadí",
+    "evita": "evitá",
+    "evite": "evité",
+    "evito": "evitó",
+    "evoca": "evocá",
+    "evoco": "evocó",
+    "evohe": "evohé",
+    "exigi": "exigí",
+    "exila": "exilá",
+    "exile": "exilé",
+    "exilo": "exiló",
+    "eximi": "eximí",
+    "exora": "exorá",
+    "exore": "exoré",
+    "exoro": "exoró",
+    "expia": "expía",
+    "expie": "expíe",
+    "expio": "expío",
+    "expon": "expón",
+    "exuda": "exudá",
+    "exude": "exudé",
+    "exudo": "exudó",
+    "ebano": "ébano",
+    "ebola": "ébola",
+    "eforo": "éforo",
+    "egida": "égida",
+    "elega": "élega",
+    "elego": "élego",
+    "elite": "élite",
+    "enula": "énula",
+    "epale": "épale",
+    "epica": "épica",
+    "epico": "épico",
+    "epoca": "época",
+    "erebo": "érebo",
+    "ester": "éster",
+    "estos": "éstos",
+    "esula": "ésula",
+    "etica": "ética",
+    "etico": "ético",
+    "etimo": "étimo",
+    "exito": "éxito",
+    "exodo": "éxodo"
+}

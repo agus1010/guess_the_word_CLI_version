@@ -1,95 +1,88 @@
-jabon
-jabon
-jacta
-jacte
-jacto
-jadea
-jadee
-jadeo
-jaece
-jaeza
-jaezo
-jalas
-jalea
-jalee
-jaleo
-jalon
-jamas
-jamas
-jamba
-jambe
-jambe
-jambo
-jamon
-jamon
-japon
-japon
-jarba
-jarbe
-jarbo
-jarra
-jarre
-jarro
-jasas
-jayan
-jejen
-jesus
-jetea
-jetee
-jeteo
-jeton
-jimas
-jimen
-jipia
-jipia
-jipie
-jipie
-jipio
-jipio
-jiron
-jiñas
-jocha
-joche
-jocho
-jocon
-jodes
-jodia
-jodio
-jodon
-jolin
-jopas
-jopea
-jopee
-jopen
-jopeo
-josea
-josee
-joseo
-joyon
-jubon
-judia
-judio
-judio
-jugas
-jugon
-jugue
-jumas
-jumea
-jumee
-jumen
-jumeo
-junci
-junta
-junte
-junto
-jupea
-jupee
-jupeo
-jupon
-juras
-justa
-juste
-justo
-jutia
-juzga
-juzgo
+{
+    "jabon": "jabón",
+    "jacta": "jactá",
+    "jacte": "jacté",
+    "jacto": "jactó",
+    "jadea": "jadeá",
+    "jadee": "jadeé",
+    "jadeo": "jadeó",
+    "jaece": "jaecé",
+    "jaeza": "jaezá",
+    "jaezo": "jaezó",
+    "jalea": "jaleá",
+    "jalee": "jaleé",
+    "jaleo": "jaleó",
+    "jalas": "jalás",
+    "jalon": "jalón",
+    "jambe": "jámbe",
+    "jambo": "jambó",
+    "jamas": "jamás",
+    "jamon": "jamón",
+    "japon": "japón",
+    "jarba": "jarbá",
+    "jarbe": "jarbé",
+    "jarbo": "jarbó",
+    "jarra": "jarrá",
+    "jarre": "jarré",
+    "jarro": "jarró",
+    "jasas": "jasás",
+    "jayan": "jayán",
+    "jejen": "jején",
+    "jesus": "jesús",
+    "jetea": "jeteá",
+    "jetee": "jeteé",
+    "jeteo": "jeteó",
+    "jeton": "jetón",
+    "jimas": "jimás",
+    "jimen": "jimén",
+    "jipia": "jipía",
+    "jipie": "jipíe",
+    "jipio": "jipío",
+    "jiron": "jirón",
+    "jiñas": "jiñás",
+    "jocha": "jochá",
+    "joche": "joché",
+    "jocho": "jochó",
+    "jocon": "jocón",
+    "jodio": "jodió",
+    "jodes": "jodés",
+    "jodia": "jodía",
+    "jodon": "jodón",
+    "jolin": "jolín",
+    "jopea": "jopeá",
+    "jopee": "jopeé",
+    "jopeo": "jopeó",
+    "jopas": "jopás",
+    "josea": "joseá",
+    "josee": "joseé",
+    "joseo": "joseó",
+    "joyon": "joyón",
+    "jubon": "jubón",
+    "judia": "judía",
+    "judio": "judío",
+    "jugue": "jugué",
+    "jugas": "jugás",
+    "jugon": "jugón",
+    "jumea": "jumeá",
+    "jumee": "jumeé",
+    "jumeo": "jumeó",
+    "jumas": "jumás",
+    "junci": "juncí",
+    "junta": "juntá",
+    "junte": "junté",
+    "junto": "juntó",
+    "jupea": "jupeá",
+    "jupee": "jupeé",
+    "jupeo": "jupeó",
+    "jupon": "jupón",
+    "juras": "jurás",
+    "justa": "justá",
+    "juste": "justé",
+    "justo": "justó",
+    "jutia": "jutía",
+    "juzga": "juzgá",
+    "juzgo": "juzgó",
+    "jamba": "jámba",
+    "jopen": "jópen",
+    "jumen": "júmen"
+}

@@ -1,20 +1,21 @@
-ñacunda
-ñameria
-ñampeas
-ñampeen
-ñanduti
-ñangara
-ñangota
-ñangote
-ñangote
-ñangoto
-ñanguea
-ñanguee
-ñangueo
-ñapinda
-ñateais
-ñateara
-ñateare
-ñateeis
-ñomblon
-ñoñeria
+{
+    "ñacunda": "ñacundá",
+    "ñameria": "ñamería",
+    "ñampeas": "ñampeás",
+    "ñampeen": "ñampéen",
+    "ñanduti": "ñandutí",
+    "ñangote": "ñangóte",
+    "ñangoto": "ñangotó",
+    "ñanguea": "ñangueá",
+    "ñanguee": "ñangueé",
+    "ñangueo": "ñangueó",
+    "ñangota": "ñangóta",
+    "ñapinda": "ñapindá",
+    "ñateara": "ñateará",
+    "ñateare": "ñatearé",
+    "ñateais": "ñateáis",
+    "ñateeis": "ñateéis",
+    "ñomblon": "ñomblón",
+    "ñoñeria": "ñoñería",
+    "ñangara": "ñángara"
+}

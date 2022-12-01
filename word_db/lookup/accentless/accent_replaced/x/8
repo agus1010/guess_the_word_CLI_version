@@ -1,11 +1,13 @@
-xenofila
-xenofilo
-xenofoba
-xenofobo
-xerofila
-xerofilo
-xerofita
-xerofito
-xilofaga
-xilofago
-xilofono
+{
+    "xenofila": "xenófila",
+    "xenofilo": "xenófilo",
+    "xenofoba": "xenófoba",
+    "xenofobo": "xenófobo",
+    "xerofila": "xerófila",
+    "xerofilo": "xerófilo",
+    "xerofita": "xerófita",
+    "xerofito": "xerófito",
+    "xilofaga": "xilófaga",
+    "xilofago": "xilófago",
+    "xilofono": "xilófono"
+}

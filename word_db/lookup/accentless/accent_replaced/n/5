@@ -1,64 +1,64 @@
-nacar
-naces
-nacia
-nacio
-nacio
-nadas
-nadir
-nanea
-nanee
-naneo
-nansu
-napas
-narra
-narre
-narro
-nason
-natia
-natio
-navio
-ndowe
-nebli
-necea
-necee
-neceo
-negas
-negue
-neron
-nesga
-nesgo
-nevas
-nicol
-niela
-niele
-nielo
-nilon
-nimba
-nimbe
-nimbo
-nipon
-nitra
-nitre
-nitro
-nivea
-niveo
-niñea
-niñee
-niñeo
-nomas
-nomas
-norma
-norme
-normo
-notas
-novas
-noven
-novia
-novie
-novio
-nubil
-nubla
-nuble
-nublo
-nutri
-nuñez
+{
+    "nacio": "nació",
+    "naces": "nacés",
+    "nacia": "nacía",
+    "nadas": "nadás",
+    "nanea": "naneá",
+    "nanee": "naneé",
+    "naneo": "naneó",
+    "nansu": "nansú",
+    "napas": "napás",
+    "narra": "narrá",
+    "narre": "narré",
+    "narro": "narró",
+    "nason": "nasón",
+    "natia": "natía",
+    "natio": "natío",
+    "navio": "navío",
+    "ndowe": "ndowé",
+    "nebli": "neblí",
+    "necea": "neceá",
+    "necee": "neceé",
+    "neceo": "neceó",
+    "negue": "negué",
+    "negas": "negás",
+    "neron": "nerón",
+    "nesga": "nesgá",
+    "nesgo": "nesgó",
+    "nevas": "nevás",
+    "niela": "nielá",
+    "niele": "nielé",
+    "nielo": "nieló",
+    "nilon": "nilón",
+    "nimba": "nimbá",
+    "nimbe": "nimbé",
+    "nimbo": "nimbó",
+    "nipon": "nipón",
+    "nitra": "nitrá",
+    "nitre": "nitré",
+    "nitro": "nitró",
+    "niñea": "niñeá",
+    "niñee": "niñeé",
+    "niñeo": "niñeó",
+    "nomas": "nomás",
+    "norma": "normá",
+    "norme": "normé",
+    "normo": "normó",
+    "notas": "notás",
+    "novia": "noviá",
+    "novie": "novié",
+    "novio": "novió",
+    "novas": "novás",
+    "noven": "novén",
+    "nubla": "nublá",
+    "nuble": "nublé",
+    "nublo": "nubló",
+    "nutri": "nutrí",
+    "nacar": "nácar",
+    "nadir": "nádir",
+    "nicol": "nícol",
+    "nivea": "nívea",
+    "niveo": "níveo",
+    "nubil": "núbil",
+    "nuñez": "núñez"
+}
