@@ -7,12 +7,12 @@ ACCENTS_REPLACE = {"á" : "a", "é" : "e", "í" : "i", "ó" : "o", "ú" : "u"}
 
 
 
-def clamp_word_length(word:str, max_word_length:int) -> str:
+def clamp_word_length(word:str, max_word_length:int, fill_with:str=" ") -> str:
     word_len = len(word)
     if word_len > max_word_length:
         return word[max_word_length:]
     elif word_len < max_word_length:
-        return word + " "*(max_word_length - word_len)
+        return word + fill_with*(max_word_length - word_len)
     return word
 
 

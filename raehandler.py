@@ -18,8 +18,11 @@ class WordDefinition:
 def request_definitions(word:str) -> list[WordDefinition]:
     dle.set_log_level("ERROR")
     resp = dle.search_by_word(word)
+    resp_dict = resp.to_dict()
     result = []
-    for article in resp.to_dict()["articles"]:
+    if resp_dict.get("articles", None) == None:
+        return result
+    for article in resp_dict["articles"]:
         definitions = _extract_definitions(article)
         for definition in definitions:
             result.append(definition)

@@ -41,8 +41,11 @@ def _cli_default(n:str) -> str:
     return n
 
 # utils
-def _back_chars(word:str) -> str:
-    return "\b" * len(word)
+def _back_chars(ammount:int) -> str:
+    return "\b" * ammount
+
+def _back_word(word:str) -> str:
+    return _back_chars(len(word))
 
 def _print_from_file(path:Path):
     with open(path, "r", encoding="utf-8") as src:
@@ -51,13 +54,13 @@ def _print_from_file(path:Path):
 
 def _translate_type(word:str) -> str:
     return {
-        "adjective": "Adj",
-        "adverb": "Adv",
-        "interjection": "Int",
-        "noun": "Sus",
-        "pronoun": "Pro",
-        "verb": "Ver"
-    }[word]
+        "adjective": "Adjetivo",
+        "adverb": "Adverbio",
+        "interjection": "Interjección",
+        "noun": "Sustantivo",
+        "pronoun": "Pronombre",
+        "verb": "Verbo"
+    }.get(word, word)
 
 
 init() # colorama.init()
@@ -78,24 +81,26 @@ class CLI(GUI):  #Command Line Interface
             1: _yellow_b,
             2: _cli_default
         }
+        self._previous_word = ""
     
     def read_player_input(self, game_state:GameState) -> str:
         self._show_current_round(game_state)
-        round_hint = "_"*len(game_state.word) + _back_chars(game_state.word)
-        _print(round_hint)
-        keyboard = KeyboardManager(game_state.word_length, game_state.accents)
+        self._show_previous_word(game_state.word)
+        keyboard = KeyboardManager(game_state.word_length, game_state.accents, self._previous_word)
+        self._previous_word = ""
         try:
             listen_keyboard(on_press = keyboard.on_press, until='enter', delay_other_chars=-1, delay_second_char=-1, sleep=-1, lower=True)
-            user_word = keyboard.buffer
-            return user_word.strip()
+            self._previous_word = keyboard.buffer
+            return self._previous_word.strip()
         except KeyboardInterrupt:
             self.show_player_defeat(game_state)
             exit(-1)
 
     def show_word_feedback(self, game_state:GameState, user_word:str, word_analysis:list[int]):
+        self._previous_word = ""
         if self._line_dirty:
             self._clear_previous_error_msg()
-        _print(_back_chars(user_word))
+        _print(_back_word(user_word))
         final_str = "".join(self._feedback_colors[number](char) for char, number in zip(user_word, word_analysis))
         print(final_str)
     
@@ -126,7 +131,7 @@ class CLI(GUI):  #Command Line Interface
             self._clear_previous_error_msg()
         clampped_word = wordutils.clamp_word_length(user_word, game_state.word_length)
         self._prev_error_msg = f" ({error.msg})" + "\r"
-        error_display = _back_chars(user_word) + clampped_word + self._prev_error_msg
+        error_display = _back_word(user_word) + clampped_word + self._prev_error_msg
         _print(error_display)
         self._line_dirty = True
     
@@ -134,6 +139,7 @@ class CLI(GUI):  #Command Line Interface
         print("Definiciones:")
         definitions = dictionary.request_definitions(game_state.word, game_state.accents)
         for definition in definitions:
+            definition.word_types = [ _translate_type(word_type) for word_type in definition.word_types ]
             print(" • " + str(definition))
 
 
@@ -152,7 +158,7 @@ class CLI(GUI):  #Command Line Interface
     
     def _clear_previous_error_msg(self):
         full_clear = " "*len(self._prev_error_msg)
-        full_back = _back_chars(self._prev_error_msg)
+        full_back = _back_word(self._prev_error_msg)
         _print(full_clear)
         _print(full_back)
         self._prev_error_msg = ""
@@ -173,6 +179,13 @@ class CLI(GUI):  #Command Line Interface
                     applied_color = _cli_default
         colored_round = f"\r{applied_color(str(game_state.current_round))}) "
         _print(colored_round)
+    
+    def _show_previous_word(self, game_word:str):
+        if self._previous_word == "":
+            round_hint = "_"*len(game_word) + _back_word(game_word)
+        else:
+            round_hint = wordutils.clamp_word_length(self._previous_word, len(game_word), fill_with="_") + _back_chars(len(game_word) - len(self._previous_word))
+        _print(round_hint)
     
     def _get_original_word(self, word:str, accents_mode:bool) -> str:
         if accents_mode:
@@ -198,8 +211,8 @@ class DevCLI(CLI):
 
 class KeyboardManager:
 
-    def __init__(self, max_length:int, allow_accents:bool) -> None:
-        self.buffer = ""
+    def __init__(self, max_length:int, allow_accents:bool, prev_loaded_word:str="") -> None:
+        self.buffer = prev_loaded_word
         self._max_length = max_length
         self._allow_accents = allow_accents
         self._specials_lookup = {
