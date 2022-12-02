@@ -28,10 +28,7 @@ def get_selectable_word_at_index(index:int, accented:bool, length:int) -> str:
         return src.readline().strip()
 
 
-def request_definitions(word:str, accents_mode:bool) -> list[raehandler.WordDefinition]:
-    if not accents_mode:
-        if (result := get_original_accented_word(word)) != "":
-            word = result
+def request_definitions(word:str) -> list[raehandler.WordDefinition]:
     return raehandler.request_definitions(word)
 
 

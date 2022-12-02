@@ -20,6 +20,9 @@ def _clamp_int(number:int, min:int, max:int) -> int:
 functional_args = {
     "h": CLI.show_help,
     "help": CLI.show_help,
+    "ayuda": CLI.show_help,
+    "r": CLI.show_rules,
+    "reglas": CLI.show_rules,
     "rules": CLI.show_rules,
     "v": CLI.show_version,
     "version": CLI.show_version,
@@ -35,19 +38,19 @@ for arg in lowered_args:
         f()
         exit(1)
 
-    if arg == "a" or arg == "accents":
+    if arg == "a" or arg == "acentos":
         game_config.accents = True
         continue
 
     arg_length = len(arg)
     
-    if arg.startswith("l") or arg.startswith("length"):
+    if arg.startswith("l") or arg.startswith("largo"):
         if len(arg_split := arg.split("=")) > 1:
             game_config.word_length = _clamp_int(int(arg_split[1]), 5, 10)
             game_config.word_picker = wordpicks.pick_fixed_length_random_word
         continue
 
-    if arg.startswith("r") or arg.startswith("rounds"):
+    if arg.startswith("i") or arg.startswith("intentos"):
         if len(arg_split := arg.split("=")) > 1:
             game_config.max_rounds = int(arg_split[1])
         continue

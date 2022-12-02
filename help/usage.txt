@@ -1,1 +1,1 @@
-launcher [a/accents] [l/length={5<=int<=10}] [r/rounds={int}] [rules] [h/help] [v/version] [d/debug[={word}]]
+launcher [a/acentos] [l/largo={5<=int<=10}] [i/intentos={int}] [reglos] [h/help] [v/version] [d/debug[={word}]]

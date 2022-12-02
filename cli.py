@@ -19,6 +19,9 @@ def _print(msg:str) -> None:
     stdout.flush()
 
 # color funtions
+def _cyan_f(n:str) -> str:
+    return Fore.CYAN + n + Style.RESET_ALL
+
 def _green_b(n:str) -> str:
     return Back.GREEN + n + Style.RESET_ALL
 
@@ -50,7 +53,7 @@ def _back_word(word:str) -> str:
 def _print_from_file(path:Path):
     with open(path, "r", encoding="utf-8") as src:
         for line in src.readlines():
-            print(line)
+            print(line, end="")
 
 def _translate_type(word:str) -> str:
     return {
@@ -89,12 +92,12 @@ class CLI(GUI):  #Command Line Interface
         keyboard = KeyboardManager(game_state.word_length, game_state.accents, self._previous_word)
         self._previous_word = ""
         try:
-            listen_keyboard(on_press = keyboard.on_press, until='enter', delay_other_chars=-1, delay_second_char=-1, sleep=-1, lower=True)
+            listen_keyboard(on_press = keyboard.on_press, until="enter", delay_other_chars=-1, delay_second_char=-1, sleep=-1, lower=True)
             self._previous_word = keyboard.buffer
             return self._previous_word.strip()
         except KeyboardInterrupt:
-            self.show_player_defeat(game_state)
-            exit(-1)
+            self.show_end_game(game_state, player_halted=True)
+            exit(1)
 
     def show_word_feedback(self, game_state:GameState, user_word:str, word_analysis:list[int]):
         self._previous_word = ""
@@ -105,26 +108,27 @@ class CLI(GUI):  #Command Line Interface
         print(final_str)
     
     def show_player_victory(self, game_state:GameState):
-        print("¡Bien hecho!\n")
+        print("¡Bien hecho!")
         if (original_word := self._get_original_word(game_state.word, game_state.accents)) != game_state.word:
-            print(f" {game_state.word} ~ {_yellow_f(original_word)}")
+            print(f" {_green_f(game_state.word)} ~ {_yellow_f(original_word)}")
     
     def show_player_defeat(self, game_state:GameState):
-        output = "\n\n" + _red_f("Una lástima.. ¡Mejor suerte la próxima!") + "\n"
+        output = "\n" + _red_f("Una lástima.. ¡Mejor suerte la próxima!")
         print(output)
         output = f"La palabra era: {_green_f(game_state.word)}"
         if (original_word := self._get_original_word(game_state.word, game_state.accents)) != game_state.word:
-            output += f" ({_yellow_f(original_word)})"
-        output += ":\n"
+            output += f" ~ {_yellow_f(original_word)}"
         print(output)
-        self.show_end_game(game_state)
 
     def show_start_game(self, game_state: GameState):
-        pass
+        print(_cyan_f("\n ¡Wordle en Casa!\n"))
 
-    def show_end_game(self, game_state:GameState):
-        self.show_word_definitions(game_state)
-        print("\nGracias por jugar! Vuelva prontos!\n")
+    def show_end_game(self, game_state:GameState, player_halted:bool = False):
+        if not player_halted:
+            self.show_word_definitions(game_state)
+        else:
+            print(f"La palabra era: {_green_f(game_state.word)}")
+        print("¡Gracias por jugar! ¡Vuelva prontos!")
 
     def show_game_error(self, game_state:GameState, user_word:str, error:GameError):
         if self._line_dirty:
@@ -136,12 +140,17 @@ class CLI(GUI):  #Command Line Interface
         self._line_dirty = True
     
     def show_word_definitions(self, game_state:GameState):
+        user_input = input("¿Mostrar definiciones? (S/n): ").strip()
+        if (user_input != "s" and user_input != "S"):
+            return
         print("Definiciones:")
-        definitions = dictionary.request_definitions(game_state.word, game_state.accents)
-        for definition in definitions:
-            definition.word_types = [ _translate_type(word_type) for word_type in definition.word_types ]
-            print(" • " + str(definition))
-
+        print(_green_f(game_state.word))
+        self._show_word_definitions(game_state.word)
+        if not game_state.accents:
+            if (original_accented := dictionary.get_original_accented_word(game_state.word)) != "":
+                print("."*15)
+                print(_yellow_f(original_accented))
+                self._show_word_definitions(original_accented)
 
     @classmethod
     def show_help(cls):
@@ -155,7 +164,6 @@ class CLI(GUI):  #Command Line Interface
     def show_version(cls):
         _print_from_file(Path("version"))
     
-    
     def _clear_previous_error_msg(self):
         full_clear = " "*len(self._prev_error_msg)
         full_back = _back_word(self._prev_error_msg)
@@ -163,6 +171,13 @@ class CLI(GUI):  #Command Line Interface
         _print(full_back)
         self._prev_error_msg = ""
         self._line_dirty = False
+    
+    def _get_original_word(self, word:str, accents_mode:bool) -> str:
+        if accents_mode:
+            return word
+        if (original_word := dictionary.get_original_accented_word(word)) != "":
+            return original_word
+        return word
     
     def _show_current_round(self, game_state:GameState):
         rounds_played_percentage = game_state.current_round * 100 / game_state.max_rounds
@@ -187,12 +202,11 @@ class CLI(GUI):  #Command Line Interface
             round_hint = wordutils.clamp_word_length(self._previous_word, len(game_word), fill_with="_") + _back_chars(len(game_word) - len(self._previous_word))
         _print(round_hint)
     
-    def _get_original_word(self, word:str, accents_mode:bool) -> str:
-        if accents_mode:
-            return word
-        if (original_word := dictionary.get_original_accented_word(word)) != "":
-            return original_word
-        return word
+    def _show_word_definitions(self, word:str):
+        definitions = dictionary.request_definitions(word)
+        for definition in definitions:
+            definition.word_types = [ _translate_type(word_type) for word_type in definition.word_types ]
+            print(" • " + str(definition))
 
 
 
