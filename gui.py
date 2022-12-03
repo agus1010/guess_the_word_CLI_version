@@ -9,7 +9,7 @@ class GUI(Protocol):
     def read_player_input(self, gameState:GameState) -> str:
         ...
 
-    def show_word_feedback(self, gameState:GameState, user_word:str, word_analysis:list[int]):
+    def show_word_feedback(self, gameState:GameState, user_word:str, word_checksum:list[int]):
         ...
     
     def show_player_victory(self, gameState:GameState):

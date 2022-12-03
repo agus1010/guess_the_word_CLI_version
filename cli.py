@@ -99,12 +99,12 @@ class CLI(GUI):  #Command Line Interface
             self.show_end_game(game_state, player_halted=True)
             exit(1)
 
-    def show_word_feedback(self, game_state:GameState, user_word:str, word_analysis:list[int]):
+    def show_word_feedback(self, game_state:GameState, user_word:str, word_checksum:list[int]):
         self._previous_word = ""
         if self._line_dirty:
             self._clear_previous_error_msg()
         _print(_back_word(user_word))
-        final_str = "".join(self._feedback_colors[number](char) for char, number in zip(user_word, word_analysis))
+        final_str = "".join(self._feedback_colors[number](char) for char, number in zip(user_word, word_checksum))
         print(final_str)
     
     def show_player_victory(self, game_state:GameState):
@@ -212,9 +212,9 @@ class CLI(GUI):  #Command Line Interface
 
 class DevCLI(CLI):
     
-    def show_word_feedback(self, game_state: GameState, user_word: str, word_analysis: list[int]):
-        super().show_word_feedback(game_state, user_word, word_analysis)
-        print(word_analysis)
+    def show_word_feedback(self, game_state: GameState, user_word: str, word_checksum: list[int]):
+        super().show_word_feedback(game_state, user_word, word_checksum)
+        print(word_checksum)
 
     def show_start_game(self, game_state: GameState):
         super().show_start_game(game_state)
@@ -234,8 +234,7 @@ class KeyboardManager:
             "backspace": "\b"
         }
 
-    def on_press(self, key_arg):
-        key = str(key_arg).lower()
+    def on_press(self, key:str):
         alphabet = ACCENTED_GAME_CHARS if self._allow_accents else ACCENTLESS_GAME_CHARS
         if (len(self.buffer) < self._max_length) and (key in alphabet):
             self.buffer += str(key)

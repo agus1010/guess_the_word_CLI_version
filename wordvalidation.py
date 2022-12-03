@@ -5,7 +5,7 @@ import dictionary
 
 
 
-def compare_words(game_word:str, user_word:str) -> list[int]:
+def generate_checksum(game_word:str, user_word:str) -> list[int]:
     """
     0 = char in word and in right position
     1 = char in word but in wrong position
@@ -33,6 +33,10 @@ def compare_words(game_word:str, user_word:str) -> list[int]:
             else:
                 result[i] = 2
     return result
+
+
+def checksum_is_valid(checksum:list[int]) -> bool:
+    return sum(checksum) == 0
 
 
 def word_is_valid(user_word:str, game_word_length:int, accents:bool):

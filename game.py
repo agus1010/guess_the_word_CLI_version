@@ -25,9 +25,9 @@ class Game:
                 break
             except UserWordError as uwe:
                 self._gui.show_game_error(self.game_state, user_word, uwe)
-        word_analysis = wordvalidation.compare_words(self.game_state.word, user_word)
-        self._gui.show_word_feedback(self.game_state, user_word, word_analysis)
-        return sum(word_analysis) == 0
+        checksum = wordvalidation.generate_checksum(self.game_state.word, user_word)
+        self._gui.show_word_feedback(self.game_state, user_word, checksum)
+        return wordvalidation.checksum_is_valid(checksum)
     
     def play_game_loop(self):
         self._gui.show_start_game(self.game_state)
