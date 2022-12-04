@@ -1,1 +1,33 @@
-Wordleole: un wordle pero hecho en casa
+¡Wordle en Casa!
+
+
+¿Cómo se juega?
+ 
+ El objetivo del juego es averiguar la palabra secreta antes de que se
+acaben los intentos.
+ Para ello el jugador deberá arriesgar una palabra del diccionario español y
+de la misma longitud que la palabra secreta.
+ Por cada intento, el juego mostrará información sobre cada letra de la palabra
+arriesgada en forma de colores, que ayudarán a descubrir la palabra final.
+ Los colores indican:
+  • VERDE : La letra está presente en la palabra final y está en la posición correcta.
+  • AMARILLO : La letra está presente en la palabra final pero en la posición equivocada.
+  • GRIS : La letra no está presente en la palabra final.
+
+Por defecto:
+ Las palabras secretas pertenecen al diccionario español, no tienen acentos y tienen 5 letras.
+ El jugador tiene un total de 6 intentos.
+
+Todos los valores anteriores pueden personalizarse, de forma que:
+  • Se permitan palabras secretas con acento.
+  • La palabra secreta tenga entre más de 5 (pero menos de 11) letras.
+  • El total de intentos sea cualquier número
+
+(mire "launcher help")
+
+
+USO:
+  Para iniciar el juego en modo "estándar":
+        python launcher.py
+    
+  El modo "estándar" consiste en adivinar una palabra de 5 letras sin acentos en 6 intentos.
