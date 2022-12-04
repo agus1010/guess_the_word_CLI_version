@@ -1,11 +1,9 @@
 from sys import argv
 
-from cli import CLI, DevCLI
+from ui.cli import CLI, DevCLI
 from game import Game
-from gamestate import GameStartConfig
-
-import wordpicks
-
+from game.gamestates import GameStartConfig
+from wordfuncs import pickers
 
 
 def _clamp_int(number:int, min:int, max:int) -> int:
@@ -14,7 +12,6 @@ def _clamp_int(number:int, min:int, max:int) -> int:
     elif number > max:
         number = max
     return number
-
 
 
 functional_args = {
@@ -47,7 +44,7 @@ for arg in lowered_args:
     if arg.startswith("l") or arg.startswith("largo"):
         if len(arg_split := arg.split("=")) > 1:
             game_config.word_length = _clamp_int(int(arg_split[1]), 5, 10)
-            game_config.word_picker = wordpicks.pick_fixed_length_random_word
+            game_config.word_picker = pickers.pick_fixed_length_random_word
         continue
 
     if arg.startswith("i") or arg.startswith("intentos"):
