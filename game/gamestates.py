@@ -17,8 +17,8 @@ class GameStartConfig:
         self.word_picker = word_picker
         self.max_rounds = max_rounds
 
-    def set_dev_mode(self, debug_word:str = None):
-        if debug_word != None:
+    def set_dev_mode(self, debug_word:str):
+        if 5 <= len(debug_word) <= 10:
             self.word_length = len(debug_word)
             self.accents = utils.has_accent(debug_word)
             self.word_picker = (lambda x, y: debug_word)

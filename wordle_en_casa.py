@@ -28,7 +28,6 @@ functional_args = {
 lowered_args = [ arg.lower() for arg in argv[1:] ]
 game_config = GameStartConfig()
 dev_mode = False
-debugged_word = None
 
 for arg in lowered_args:
     if (f := functional_args.get(arg, None)) != None:
@@ -55,11 +54,7 @@ for arg in lowered_args:
     if arg.startswith("debug"):
         dev_mode = True
         if len(arg_split := arg.split("=")) > 1:
-            game_config.set_dev_mode(arg_split[1])
-        else:
-            game_config.set_dev_mode()
-        break
-
+            game_config.set_dev_mode(debug_word=arg_split[1])
 
 game = Game(
     gui = CLI() if not dev_mode else DevCLI(),
