@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from enum import IntEnum
 
-from protocols.protocols import PGameConfig
+from protocols import PGameConfig
 
 
 class GAME_STATUS(IntEnum):

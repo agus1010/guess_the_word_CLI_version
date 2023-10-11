@@ -1,11 +1,10 @@
 from .commons import GameConfiguration, GAME_STATUS, GameFinishedError
 
-from protocols.protocols import PWordPicker
-from validation.commons import WordValidation, WORD_VALIDATION_STATUS
-from validation.validator import WordValidator
+from protocols import PWordPicker
+from validation import WordValidation, WORD_VALIDATION_STATUS, WordValidator
 
 
-class Game:
+class Wordle:
     
     def __init__(self, game_config:GameConfiguration, word_picker:PWordPicker) -> None:
         self._config = game_config
