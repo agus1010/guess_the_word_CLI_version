@@ -1,6 +1,14 @@
-from . import dictionary, utils
-from game.errors import UserWordError
+from .commons import ACCENTED_VOWELS, ACCENTS_REPLACE
 
+
+
+def clamp_word_length(word:str, max_word_length:int, fill_with:str=" ") -> str:
+    word_len = len(word)
+    if word_len > max_word_length:
+        return word[max_word_length:]
+    elif word_len < max_word_length:
+        return word + fill_with*(max_word_length - word_len)
+    return word
 
 
 def generate_checksum(game_word:str, user_word:str) -> list[int]:
@@ -9,7 +17,7 @@ def generate_checksum(game_word:str, user_word:str) -> list[int]:
     1 = char in word but in wrong position
     2 = char not in word
     """
-    game_word_ref = utils.generate_word_ref(game_word)
+    game_word_ref = generate_word_ref(game_word)
     result = []
     # detect 0s and 2s
     for game_char, user_char in zip(game_word, user_word):
@@ -33,11 +41,16 @@ def generate_checksum(game_word:str, user_word:str) -> list[int]:
     return result
 
 
-def word_is_valid(user_word:str, game_word_length:int, accents:bool):
-    if (input_len := len(user_word)) != game_word_length:
-        if input_len < game_word_length:
-            raise UserWordError(msg="La palabra ingresada no tiene suficientes letras.", code=0)
-        else:
-            raise UserWordError(msg="La palabra ingresada tiene demasiadas letras.", code=1)
-    if not dictionary.word_is_in_dictionary(user_word.strip(), accents):
-        raise UserWordError(msg="La palabra ingresada no está en el diccionario.", code=2)
+def generate_word_ref(word:str) -> dict[str:int]:
+    return { char : word.count(char) for char in word }
+
+
+def has_accent(word:str) -> bool:
+    for char in word:
+        if char in ACCENTED_VOWELS:
+            return True
+    return False
+
+
+def replace_accents(word:str) -> str:
+    return "".join(ACCENTS_REPLACE.get(char, char) for char in word)
