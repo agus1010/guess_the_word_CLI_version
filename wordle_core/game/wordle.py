@@ -1,7 +1,8 @@
 from .commons import GameConfiguration, GAME_STATUS, GameFinishedError
 
-from protocols import PWordPicker
-from validation import WordValidation, WORD_VALIDATION_STATUS, WordValidator
+from ..protocols.protocols import PWordPicker
+from ..validation.validator import WordValidator
+from ..validation.commons import WordValidation, WORD_VALIDATION_STATUS
 
 
 class Wordle:

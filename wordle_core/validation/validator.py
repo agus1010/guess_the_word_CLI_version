@@ -1,6 +1,6 @@
 from .commons import WordValidation, WORD_VALIDATION_STATUS
 from .wordfuncs import generate_checksum
-from protocols.protocols import PGameConfig, PWordSet
+from ..protocols.protocols import PGameConfig, PWordSet
 
 
 class WordValidator:
