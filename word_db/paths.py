@@ -16,6 +16,3 @@ ACCENTED_SELECTABLES = SELECTABLES / "accented"
 ACCENTLESS_SELECTABLES = SELECTABLES / "accentless"
 
 WORD_DB_STATS_PATH = WORD_DB_HOME / "word_db_stats.json"
-
-with open(WORD_DB_STATS_PATH, "r", encoding="utf-8") as db_stats:
-    WORD_DB_STATS = json.load(db_stats)
