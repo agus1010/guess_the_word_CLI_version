@@ -1,5 +1,16 @@
 from dataclasses import dataclass
 from enum import IntEnum
+from string import ascii_lowercase
+
+
+ACCENTED_VOWELS = "áéíóú"
+
+ACCENTLESS_GAME_CHARS = ascii_lowercase + "ñ"
+
+ACCENTED_GAME_CHARS = ACCENTLESS_GAME_CHARS + ACCENTED_VOWELS
+
+ACCENTS_REPLACE = {"á" : "a", "é" : "e", "í" : "i", "ó" : "o", "ú" : "u"}
+
 
 
 class WORD_VALIDATION_STATUS(IntEnum):
