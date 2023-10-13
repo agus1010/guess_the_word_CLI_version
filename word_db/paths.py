@@ -1,7 +1,5 @@
 from pathlib import Path
 
-import json
-
 
 WORD_DB_HOME = Path(".")
 
