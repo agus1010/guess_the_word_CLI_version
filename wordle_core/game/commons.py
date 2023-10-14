@@ -15,6 +15,7 @@ class GameConfiguration(PGameConfig):
     accents: bool = False
     max_rounds:int = 6
     max_word_length:int = 5
+    dev_mode:bool = False
 
 
 class GameFinishedError(Exception):

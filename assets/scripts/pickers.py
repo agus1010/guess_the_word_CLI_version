@@ -29,3 +29,10 @@ class RandomLengthWordPicker(BasicWordDBPicker):
     
     def __init__(self, accents: bool) -> None:
         super().__init__(accents, randint(5, 10))
+
+
+
+class DebugWordPicker(BasicWordDBPicker):
+
+    def pick(self) -> str:
+        return "avión" if self.accents else "avion"

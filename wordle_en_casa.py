@@ -1,9 +1,11 @@
 from sys import argv
 
 from ui.cli import CLI, DevCLI
-from game import Game
-from game.gamestates import GameStartConfig
-from wordfuncs import pickers
+
+from wordle_core import Wordle
+from wordle_core.game.commons import GameConfiguration
+from assets.scripts.pickers import *
+from assets.scripts.wordsets import *
 
 
 def _clamp_int(number:int, min:int, max:int) -> int:
@@ -26,7 +28,9 @@ functional_args = {
 }
 
 lowered_args = [ arg.lower() for arg in argv[1:] ]
-game_config = GameStartConfig()
+game_config = GameConfiguration()
+
+
 dev_mode = False
 
 for arg in lowered_args:
@@ -43,7 +47,6 @@ for arg in lowered_args:
     if arg.startswith("l") or arg.startswith("largo"):
         if len(arg_split := arg.split("=")) > 1:
             game_config.word_length = _clamp_int(int(arg_split[1]), 5, 10)
-            game_config.word_picker = pickers.pick_fixed_length_random_word
         continue
 
     if arg.startswith("i") or arg.startswith("intentos"):
@@ -54,10 +57,13 @@ for arg in lowered_args:
     if arg.startswith("debug"):
         dev_mode = True
         if len(arg_split := arg.split("=")) > 1:
-            game_config.set_dev_mode(debug_word=arg_split[1])
+            game_config.dev_mode = True
+            # game_config.set_dev_mode(debug_word=arg_split[1])
 
-game = Game(
-    gui = CLI() if not dev_mode else DevCLI(),
-    config = game_config
-)
-game.play_game_loop()
+
+
+word_picker = BasicWordDBPicker(accents=game_config.accents, word_length=game_config.max_rounds)
+if game_config.dev_mode:
+    word_picker = DebugWordPicker(accents=game_config.accents, word_length=game_config.word_length)
+word_set = BasicWordDBSet(accents=game_config.accents)
+game = Wordle(game_config, word_picker)
