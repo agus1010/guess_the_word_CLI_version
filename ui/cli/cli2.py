@@ -63,16 +63,21 @@ class CLI2:
         self._clear_last_output()
         self._output("".join(WORD_FEEDBACK_COLORS[number](char) for char, number in zip(self._last_word_read, validation.detail)))
     
+
     def _show_victory(self):
-        self._output("¡Bien hecho!")
-        if (original_word := self._get_original_word(game_state.word, self.accents)) != game_state.word:
-            self._output(f" {Colors.green_f(game_state.word)} ~ {Colors.yellow_f(original_word)}")
+        self._show_end_game_msgs("¡Bien hecho!")
 
     def _show_defeat(self):
-        self._output("\n" + Colors.red_f("Una lástima.. ¡Mejor suerte la próxima!"))
-        self._output(f"La palabra era: {Colors.green_f(game_state.word)}")
-        if (original_word := self._get_original_word(game_state.word, self.accents)) != game_state.word:
-            self._output(f" ~ {Colors.yellow_f(original_word)}")
+        self._show_end_game_msgs("\n" + Colors.red_f("Una lástima.. ¡Mejor suerte la próxima!"), f"La palabra era: {Colors.green_f(self.game.hidden_word)}")
+
+    def _show_end_game_msgs(self, *outro_msgs):
+        hidden_word = self.game.hidden_word
+        original_word = self._get_original_word(hidden_word, self.accents)
+        for msg in outro_msgs:
+            self._output(msg)
+        last_msg = f" {Colors.green_f(hidden_word)}" if original_word != hidden_word else ""
+        self._output(last_msg + f" ~ {Colors.yellow_f(original_word)}")
+
 
 
     def _clear_last_output(self) -> None:
@@ -115,10 +120,11 @@ class CLI2:
         if (user_input != "s" and user_input != "S"):
             return
         self._output("Definiciones:")
-        self._output(Colors.green_f(game_state.word))
-        self._show_word_definitions(game_state.word)
+        hidden_word = self.game.hidden_word
+        self._output(Colors.green_f(hidden_word))
+        self._show_word_definitions(hidden_word)
         if not self.accents:
-            if (original_accented := WordDB.get_original_accented_word(game_state.word)) != "":
+            if (original_accented := WordDB.get_original_accented_word(hidden_word)) != "":
                 self._output("."*15)
                 self._output(Colors.yellow_f(original_accented))
                 self._show_word_definitions(original_accented)

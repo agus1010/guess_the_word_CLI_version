@@ -1,4 +1,4 @@
-from .commons import GameConfiguration, GAME_STATUS, GameFinishedError
+from .commons import GameConfiguration, GAME_STATUS, GameFinishedError, HiddenWordNotAvailable
 
 from ..protocols.protocols import PWordPicker
 from ..validation.validator import WordValidator
@@ -37,6 +37,12 @@ class Wordle:
     @property
     def word_length(self) -> int:
         return self._config.max_word_length
+    
+    @property
+    def hidden_word(self) -> str:
+        if not self.finished:
+            raise HiddenWordNotAvailable()
+        return self._word
     
     def guess(self, input_word:str) -> WordValidation:
         if self.finished:

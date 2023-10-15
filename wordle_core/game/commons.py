@@ -20,3 +20,7 @@ class GameConfiguration(PGameConfig):
 
 class GameFinishedError(Exception):
     pass
+
+
+class HiddenWordNotAvailable(Exception):
+    pass
