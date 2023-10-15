@@ -1,7 +1,5 @@
 from sys import stdout
 
-import colourful_functions as Colors
-
 from word_db.commons import ACCENTED_GAME_CHARS, ACCENTLESS_GAME_CHARS
 
 
@@ -23,11 +21,7 @@ def clamp_word_length(word:str, max_word_length:int, fill_with:str=" ") -> str:
 
 
 
-WORD_FEEDBACK_COLORS = {
-    0: Colors.green_b,
-    1: Colors.yellow_b,
-    2: Colors.cli_default
-}
+
 
 
 class CLIOutputMsg:

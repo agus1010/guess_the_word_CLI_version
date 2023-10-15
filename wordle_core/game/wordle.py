@@ -11,8 +11,8 @@ class Wordle:
         self._config = game_config
         self._rounds_played = 0
         self._status = GAME_STATUS.ON_GOING
+        self._word = word_picker.pick()
         self._validator = WordValidator(self._word, self._config)
-        self._word = word_picker.Pick()
 
     @property
     def status(self) -> GAME_STATUS:

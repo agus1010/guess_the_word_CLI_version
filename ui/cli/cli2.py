@@ -1,14 +1,21 @@
 from sshkeyboard import listen_keyboard
 from wordle_core import Wordle, WordValidation
 
-from .commons import CLIOutputMsg, KeyboardManager, WORD_FEEDBACK_COLORS, back_word
+from .commons import CLIOutputMsg, KeyboardManager, back_word
 
 import word_db as WordDB
-import colourful_functions as Colors
+
+import ui.colourful_functions as Colors
 
 
 
 class CLI2:
+
+    WORD_FEEDBACK_COLORS = {
+        0: Colors.green_b,
+        1: Colors.yellow_b,
+        2: Colors.cli_default
+    }
 
     def __init__(self, wordle:Wordle, accents:bool = False) -> None:
         self.game = wordle
@@ -61,7 +68,7 @@ class CLI2:
 
     def _show_word_feedback(self, validation:WordValidation):
         self._clear_last_output()
-        self._output("".join(WORD_FEEDBACK_COLORS[number](char) for char, number in zip(self._last_word_read, validation.detail)))
+        self._output("".join(CLI2.WORD_FEEDBACK_COLORS[number](char) for char, number in zip(self._last_word_read, validation.detail)))
     
 
     def _show_victory(self):

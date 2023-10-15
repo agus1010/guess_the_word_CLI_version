@@ -1,7 +1,7 @@
 from pathlib import Path
 
 
-WORD_DB_HOME = Path(".")
+WORD_DB_HOME = Path("word_db")
 
 LOOKUP = WORD_DB_HOME / "lookup"
 ACCENTED_LOOKUP = LOOKUP / "accented"
