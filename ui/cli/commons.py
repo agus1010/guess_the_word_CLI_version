@@ -30,14 +30,13 @@ class CLIOutputMsg:
         self.line = line
         self._cleared = False
         self.force_new_line = new_line
-        if new_line:
-            self.line += "\n"
         if print_now:
             self.print()
 
     def clear(self) -> None:
-        full_clear = " "*len(self.line)
         full_back = back_word(self.line)
+        full_clear = " "*len(self.line)
+        print(full_back)
         print(full_clear)
         print(full_back)
         self._cleared = True
@@ -47,7 +46,13 @@ class CLIOutputMsg:
         return self._cleared
     
     def print(self) -> None:
-        print(self.line)
+        self._cleared = False
+        final_msg = self.line
+        if self.force_new_line:
+            final_msg += "\n"
+        print(final_msg)
+        with open("log.log", "a", encoding="utf8") as log:
+            log.writelines(final_msg)
 
 
 

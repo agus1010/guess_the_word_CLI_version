@@ -4,14 +4,14 @@ from pyrae import dle
 
 class WordDefinition:
     
-    def __init__(self, word_types:list[str], abbr:str, explanation:str) -> None:
+    def __init__(self, word_types:list[str], abbr:str, explanation:str, translate:bool = False) -> None:
         self.word_types = word_types
         self.abbr = abbr
+        self.translate = translate
         self.explanation = explanation
     
     def __str__(self) -> str:
-        return f"{', '.join(self.word_types)} -> {self.abbr} {self.explanation}"
-
+        return f"{', '.join(translate_word_type(*self.word_types))} -> {self.abbr} {self.explanation}"
 
 
 
@@ -27,6 +27,19 @@ def request_definitions(word:str) -> list[WordDefinition]:
         for definition in definitions:
             result.append(definition)
     return result
+
+
+WORD_TYPES_TRANSLATIONS = {
+    "adjective": "Adjetivo",
+    "adverb": "Adverbio",
+    "interjection": "Interjección",
+    "noun": "Sustantivo",
+    "pronoun": "Pronombre",
+    "verb": "Verbo"
+}
+
+def translate_word_type(word:str) -> str:
+    return WORD_TYPES_TRANSLATIONS.get(word, word)
 
 
 def _extract_definition_word_types(definition:dict) -> list:

@@ -27,4 +27,4 @@ class WordValidator:
             detail = generate_checksum(self._word, input_word)
             status = WORD_VALIDATION_STATUS.CORRECT if sum(detail) == 0 else WORD_VALIDATION_STATUS.WRONG
 
-        return WordValidation(detail, status)
+        return WordValidation(input_word, detail, status)

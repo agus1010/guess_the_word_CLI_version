@@ -23,5 +23,6 @@ class WORD_VALIDATION_STATUS(IntEnum):
 
 @dataclass
 class WordValidation:
+    word:str
     detail:list[int]
     status:WORD_VALIDATION_STATUS
