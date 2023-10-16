@@ -14,7 +14,7 @@ class GAME_STATUS(IntEnum):
 class GameConfiguration(PGameConfig):
     accents: bool = False
     max_rounds:int = 6
-    max_word_length:int = 5
+    word_length:int = 5
     dev_mode:bool = False
 
 

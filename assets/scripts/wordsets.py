@@ -1,6 +1,5 @@
 from wordle_core import PWordSet
-from word_db.funcs import word_is_in_dictionary
-
+import word_db.funcs as WordDB
 
 
 class BasicWordDBSet(PWordSet):
@@ -9,4 +8,11 @@ class BasicWordDBSet(PWordSet):
         self.accents = accents
 
     def contains(self, word: str) -> bool:
-        return word_is_in_dictionary(word, self.accents)
+        return WordDB.word_is_in_dictionary(word, self.accents)
+
+
+
+class DebugWordDBSet(BasicWordDBSet):
+    def contains(self, word: str) -> bool:
+        cmp = "avión" if self.accents else "avion"
+        return word == cmp

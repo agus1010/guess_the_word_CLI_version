@@ -14,18 +14,17 @@ class WordValidator:
         status = WORD_VALIDATION_STATUS.CORRECT
         config = self._config
 
-        if (input_len := len(input_word)) != config.max_word_length:
-            if input_len < config.max_word_length:
+        if (input_len := len(input_word)) != config.word_length:
+            if input_len < config.word_length:
                 status = WORD_VALIDATION_STATUS.NOT_ENOUGH_CHARS
             else:
                 status = WORD_VALIDATION_STATUS.TOO_MANY_CHARS
-        
-        if not self._word_set.contains(input_word.strip()):
+        elif not self._word_set.contains(input_word.strip()):
             status = WORD_VALIDATION_STATUS.WORD_NOT_IN_DICTIONARY
         
         detail = None
         if status < 10:
             detail = generate_checksum(self._word, input_word)
-            status = WORD_VALIDATION_STATUS.CORRECT if sum(detail) == config.max_word_length else WORD_VALIDATION_STATUS.WRONG
+            status = WORD_VALIDATION_STATUS.CORRECT if sum(detail) == 0 else WORD_VALIDATION_STATUS.WRONG
 
         return WordValidation(detail, status)

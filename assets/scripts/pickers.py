@@ -7,7 +7,8 @@ from word_db import STATS, get_selectable_word_at_index
 
 def _pick_fixed_length_random_word(accents_mode:bool, max_word_length:int) -> str:
     accents_key = "accented" if accents_mode else "accentless"
-    chosen_index = randint(0, STATS["selectables"][accents_key][str(max_word_length)])
+    total_word_count = STATS["selectables"][accents_key][str(max_word_length)]
+    chosen_index = randint(0, total_word_count)
     return get_selectable_word_at_index(chosen_index, accents_mode, max_word_length)
 
 

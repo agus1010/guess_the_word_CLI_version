@@ -1,18 +1,18 @@
 from .commons import GameConfiguration, GAME_STATUS, GameFinishedError, HiddenWordNotAvailable
 
-from ..protocols.protocols import PWordPicker
+from ..protocols.protocols import PWordPicker, PWordSet
 from ..validation.validator import WordValidator
 from ..validation.commons import WordValidation, WORD_VALIDATION_STATUS
 
 
 class Wordle:
     
-    def __init__(self, game_config:GameConfiguration, word_picker:PWordPicker) -> None:
+    def __init__(self, game_config:GameConfiguration, word_picker:PWordPicker, word_set:PWordSet) -> None:
         self._config = game_config
         self._rounds_played = 0
         self._status = GAME_STATUS.ON_GOING
         self._word = word_picker.pick()
-        self._validator = WordValidator(self._word, self._config)
+        self._validator = WordValidator(self._word, self._config, word_set)
 
     @property
     def status(self) -> GAME_STATUS:
@@ -20,7 +20,7 @@ class Wordle:
     
     @property
     def finished(self) -> bool:
-        return self.status > 0
+        return self._status > 0
     
     @property
     def rounds_played(self) -> int:
@@ -36,7 +36,7 @@ class Wordle:
     
     @property
     def word_length(self) -> int:
-        return self._config.max_word_length
+        return self._config.word_length
     
     @property
     def hidden_word(self) -> str:
@@ -49,8 +49,8 @@ class Wordle:
             raise GameFinishedError()
         validation = self._validator.validate(input_word)
         if validation.status < 10:
-            self.rounds_played += 1
-            self.status = self._get_next_status(validation)
+            self._rounds_played += 1
+            self._status = self._get_next_status(validation)
         return validation
     
 
@@ -59,3 +59,4 @@ class Wordle:
             return GAME_STATUS.VICTORY
         if self.rounds_played == self.max_rounds:
             return GAME_STATUS.DEFEAT
+        return GAME_STATUS.ON_GOING

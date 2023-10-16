@@ -1,7 +1,8 @@
 from sshkeyboard import listen_keyboard
 from wordle_core import Wordle, WordValidation
 
-from .commons import CLIOutputMsg, KeyboardManager, back_word
+from .commons import KeyboardManager, back_word
+from .base_cli import BaseCLI
 
 import word_db as WordDB
 
@@ -9,7 +10,7 @@ import ui.colourful_functions as Colors
 
 
 
-class CLI2:
+class CLI2(BaseCLI):
 
     WORD_FEEDBACK_COLORS = {
         0: Colors.green_b,
@@ -17,49 +18,19 @@ class CLI2:
         2: Colors.cli_default
     }
 
-    def __init__(self, wordle:Wordle, accents:bool = False) -> None:
-        self.game = wordle
-        self.accents = accents
-        self.outputs_log : [CLIOutputMsg] = []
-        self._last_word_read = ""
-
-
-    def play(self) -> None:
-        self._show_intro()
-        while not self.game.finished:
-            while True:
-                self._show_round_hint_msg()
-                try:
-                    self._last_word_read = self._read_player_input()
-                except KeyboardInterrupt:
-                    break
-                
-                validation = self.game.guess(self._last_word_read)
-                if validation.status >= 10:
-                    self._show_game_error(validation)
-                    continue
-                self._show_word_feedback(validation)
-                break
-        if validation.status == 0:
-            self._show_victory()
-        else:
-            self._show_defeat()
-        self._show_word_definitions()
-        
-
-    @property
-    def last_output(self) -> CLIOutputMsg:
-        return self.outputs_log[-1]
-
-
 
     def _show_intro(self):
-        self._output(Colors.cyan_f("\n ¡Wordle en Casa!\n"))
+        self._output(Colors.cyan_f("\n ¡Wordle!\n"))
 
-    def _show_round_hint_msg(self) -> None:
+    def _show_round_hint(self) -> None:
         current_round_msg = self._make_current_round_msg()
         round_hint = self._make_round_hint_msg()
-        self._output(current_round_msg + round_hint)
+        self.last_output.clear()
+        self._output(current_round_msg + round_hint, new_line=False)
+
+    def _show_end_game(self) -> None:
+        super()._show_end_game()
+        self._show_word_definitions()
 
     def _show_game_error(self, validation:WordValidation):
         self._clear_last_output()
@@ -70,7 +41,6 @@ class CLI2:
         self._clear_last_output()
         self._output("".join(CLI2.WORD_FEEDBACK_COLORS[number](char) for char, number in zip(self._last_word_read, validation.detail)))
     
-
     def _show_victory(self):
         self._show_end_game_msgs("¡Bien hecho!")
 
@@ -86,14 +56,7 @@ class CLI2:
         self._output(last_msg + f" ~ {Colors.yellow_f(original_word)}")
 
 
-
-    def _clear_last_output(self) -> None:
-        if not (last_output := self.last_output).cleared:
-            last_output.clear()
     
-    def _output(self, msg:str) -> None:
-        self.outputs_log.append(CLIOutputMsg(msg, print_now= True))
-
     def _read_player_input(self) -> str:
         keyboard = KeyboardManager(self.game.word_length, self.accents, self._last_word_read)
         listen_keyboard(on_press = keyboard.on_press, until="enter", delay_other_chars=-1, delay_second_char=-1, sleep=-1, lower=True)
@@ -109,20 +72,16 @@ class CLI2:
             applied_color = Colors.red_f
         elif normalized_rounds_played >= .51:
             applied_color = Colors.yellow_f
-        return f"\r{applied_color(str(self.game.rounds_played))}) "
+        return f"\r{applied_color(str(self.game.rounds_played + 1))}) "
 
     def _make_round_hint_msg(self) -> str:
-        round_hint = self._last_word_read[self.game.word_length]
-        underscores = "_" * len(self._last_word_read) - self.game.word_length
+        round_hint = self._last_word_read[self.game.word_length:]
+        underscores = "_" * (self.game.word_length - len(self._last_word_read))
         round_hint += underscores
         round_hint += back_word(underscores)
         return round_hint
-    
 
-    
-
-
-    def show_word_definitions(self):
+    def _show_word_definitions(self):
         user_input = input("¿Mostrar definiciones? (S/n): ").strip()
         if (user_input != "s" and user_input != "S"):
             return

@@ -26,17 +26,20 @@ def clamp_word_length(word:str, max_word_length:int, fill_with:str=" ") -> str:
 
 class CLIOutputMsg:
     
-    def __init__(self, line:str, print_now:bool = False) -> None:
+    def __init__(self, line:str, new_line:bool = True, print_now:bool = False) -> None:
         self.line = line
         self._cleared = False
+        self.force_new_line = new_line
+        if new_line:
+            self.line += "\n"
         if print_now:
             self.print()
 
     def clear(self) -> None:
-        full_clear = " "*len(self._prev_error_msg)
-        full_back = back_word(self._prev_error_msg)
-        self.print(full_clear)
-        self.print(full_back)
+        full_clear = " "*len(self.line)
+        full_back = back_word(self.line)
+        print(full_clear)
+        print(full_back)
         self._cleared = True
 
     @property
