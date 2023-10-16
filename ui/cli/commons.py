@@ -1,4 +1,6 @@
+from dataclasses import dataclass
 from sys import stdout
+
 import sshkeyboard as Keyboard
 
 from word_db.commons import ACCENTED_GAME_CHARS, ACCENTLESS_GAME_CHARS
@@ -24,11 +26,40 @@ def clamp_word_length(word:str, max_word_length:int, fill_with:str=" ") -> str:
     return word
 
 
+@dataclass
+class CLILine:
+    rounds_played:str = ""
+    word:str = ""
+    error: str = ""
+    cursor_pos:int = 0
+
+    def __str__(self) -> str:
+        return f"{self.rounds_played} {self.word} {self.error}"
+    
+    def clear(self) -> None:
+        line = str(self)
+        full_back = "\b" * len(line)
+        full_clear = " " * len(line)
+        print(full_back)
+        print(full_clear)
+        print(full_back)
+
+    def move_cursor(self, pos:int) -> None:
+        line = str(self)
+        print("\b" * (len(line) - self.cursor_pos))
+
+    def print(self) -> None:
+        line = str(self)
+        print(line)
+        self.move_cursor(self.cursor_pos)
+    
+    def dispose(self) -> None:
+        print("\n")
 
 
 
 
-class CLIOutputMsg:
+class TerminalLine:
     
     def __init__(self, line:str, new_line:bool = True, print_now:bool = False) -> None:
         self.line = line
@@ -57,7 +88,7 @@ class CLIOutputMsg:
         print(final_msg)
         with open("log.log", "a", encoding="utf8") as log:
             log.writelines(final_msg)
-
+    
 
 
 

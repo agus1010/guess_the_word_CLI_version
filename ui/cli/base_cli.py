@@ -1,6 +1,6 @@
 from wordle_core import Wordle, WordValidation
 
-from .commons import CLIOutputMsg
+from .commons import TerminalLine
 
 
 class BaseCLI:
@@ -8,10 +8,10 @@ class BaseCLI:
     def __init__(self, wordle:Wordle, accents:bool = False) -> None:
         self.game = wordle
         self.accents = accents
-        self.outputs_log : list[CLIOutputMsg] = []
+        self.outputs_log : list[TerminalLine] = []
 
     @property
-    def last_output(self) -> CLIOutputMsg:
+    def last_output(self) -> TerminalLine:
         return self.outputs_log[-1]
 
 
@@ -50,7 +50,7 @@ class BaseCLI:
 
     
     def _output(self, msg:str="", new_line:bool = True) -> None:
-        self.outputs_log.append(CLIOutputMsg(msg, print_now = True, new_line = new_line))
+        self.outputs_log.append(TerminalLine(msg, print_now = True, new_line = new_line))
 
     def _clear_last_output(self) -> None:
         if not (last_output := self.last_output).cleared:

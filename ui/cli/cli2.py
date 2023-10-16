@@ -1,6 +1,6 @@
 from wordle_core import WordValidation, Wordle
 
-from .commons import SingleWordInput, back_word
+from .commons import SingleWordInput, back_word, CLILine
 from .base_cli import BaseCLI
 
 import word_db as WordDB
