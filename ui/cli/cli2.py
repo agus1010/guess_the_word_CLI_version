@@ -1,7 +1,6 @@
-from sshkeyboard import listen_keyboard
 from wordle_core import WordValidation, Wordle
 
-from .commons import KeyboardManager, back_word
+from .commons import SingleWordInput, back_word
 from .base_cli import BaseCLI
 
 import word_db as WordDB
@@ -20,7 +19,7 @@ class CLI2(BaseCLI):
     def __init__(self, wordle: Wordle, accents: bool = False) -> None:
         super().__init__(wordle, accents)
         self._last_validation = WordValidation("", [], 0)
-        self.keyboard = KeyboardManager(self.game.word_length, self.accents, self._last_word_read)
+        self.keyboard = SingleWordInput(self.game.word_length, self.accents, "_")
         
     @property
     def _last_word_read(self) -> str:
@@ -52,8 +51,11 @@ class CLI2(BaseCLI):
             return original_word
         return word
 
+    @property
+    def _last_validation_has_errors(self) -> bool:
+        return self._last_validation.status > 10
+    
 
- 
     # public overrides:
 
     def show_round_hint(self) -> None:
@@ -62,22 +64,24 @@ class CLI2(BaseCLI):
         super().show_round_hint()
 
     def read_player_input(self) -> str:
-        listen_keyboard(on_press = self.keyboard.on_press, until="enter", delay_other_chars=-1, delay_second_char=-1, sleep=-1, lower=True)
-        input_word = self.keyboard.buffer.strip()
+        input_word = self.keyboard.input(self._last_validation.word)
         self.last_output.line = input_word
+        if self._last_validation_has_errors:
+            self.last_output.line[self.game.word_length:]
         return input_word
     
     def show_input_word_feedback(self, validation: WordValidation) -> None:
         self._last_validation = validation
-        error_detected = validation.status > 10
-        
+        error_detected = self._last_validation_has_errors
         last_output = self.last_output
+        last_output.clear()
         if not error_detected:
-            last_output.clear()
             msg = self._get_word_feedback_msg(validation)
-            self._output(msg= msg, new_line= not error_detected)
+            self._last_validation = WordValidation("", [], 0)
+            self._output(msg= msg)
         else:
-            self._clear_last_output()
+            last_output.line = validation.word
+            last_output.line += "_" * (self.game.word_length - len(validation.word))
             last_output.line += self._get_word_error_msg(validation)
             last_output.line += back_word(last_output.line)
             last_output.print()
@@ -85,7 +89,7 @@ class CLI2(BaseCLI):
 
     def show_outro(self) -> None:
         super().show_outro()
-        self._show_word_definitions()
+        self.show_word_definitions(self.game.hidden_word)
 
     
     # private overrides:
@@ -103,7 +107,7 @@ class CLI2(BaseCLI):
         elif normalized_rounds_played >= .51:
             applied_color = Colors.yellow_f
         displayed_number = self.game.rounds_played + 1
-        return f"{applied_color(displayed_number)}) "
+        return f"{applied_color(str(displayed_number))}) "
     
     def _get_word_feedback_msg(self, validation: WordValidation) -> str:
         return "".join(WORD_FEEDBACK_COLORS[number](char) for char, number in zip(self._last_word_read, validation.detail))

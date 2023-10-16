@@ -1,4 +1,5 @@
 from sys import stdout
+import sshkeyboard as Keyboard
 
 from word_db.commons import ACCENTED_GAME_CHARS, ACCENTLESS_GAME_CHARS
 
@@ -8,8 +9,11 @@ def print(msg:str) -> None:
     stdout.write(msg)
     stdout.flush()
 
+def back_amount(amount:int) -> str:
+    return "\b" * amount
+
 def back_word(msg:str) -> str:
-    return "\b" * len(msg)
+    return back_amount(len(msg))
 
 def clamp_word_length(word:str, max_word_length:int, fill_with:str=" ") -> str:
     word_len = len(word)
@@ -56,24 +60,55 @@ class CLIOutputMsg:
 
 
 
-class KeyboardManager:
 
-    def __init__(self, max_length:int, allow_accents:bool, prev_loaded_word:str="") -> None:
-        self.buffer = prev_loaded_word
-        self._max_length = max_length
-        self._allow_accents = allow_accents
-        self._specials_lookup = {
-            "enter": "\n",
-            "backspace": "\b"
-        }
+_SPECIALS_LOOKUP = {
+    "enter": "\n",
+    "backspace": "\b"
+}
 
-    def on_press(self, key:str):
-        alphabet = ACCENTED_GAME_CHARS if self._allow_accents else ACCENTLESS_GAME_CHARS
-        if (len(self.buffer) < self._max_length) and (key in alphabet):
-            self.buffer += str(key)
-            print(str(key))
-        if key in self._specials_lookup.keys():
-            if key == "backspace":
-                if len(self.buffer) > 0:
-                    self.buffer = self.buffer[:-1]
-                    print("\b_\b")
+
+class SingleWordInput:
+    
+    def __init__(self, word_length:int, accents:bool, buffer_fill:str = "_") -> None:
+        self._buffer = ""
+        self._max_length = word_length
+        self._buffer_fill = buffer_fill
+        self._alphabet = ACCENTED_GAME_CHARS if accents else ACCENTLESS_GAME_CHARS
+    
+    @property
+    def buffer(self) -> str:
+        return self._buffer
+    
+
+    @property
+    def _buffer_is_full(self) -> bool:
+        return len(self._buffer) >= self._max_length
+    
+
+
+    def input(self, preloaded_buffer_content:str = "") -> str:
+        self._buffer = preloaded_buffer_content[:self._max_length]
+        fill = self._buffer
+        fill += self._get_buffer_fill(preloaded_buffer_content)
+        fill += "\b"*self._get_buffer_fill_ammount(preloaded_buffer_content)
+        print(fill)
+        Keyboard.listen_keyboard(on_press = self._on_press, until="enter", delay_other_chars=-1, delay_second_char=-1, sleep=-1, lower=True)
+        return self._buffer.strip()
+    
+    
+    def _get_buffer_fill_ammount(self, buffer_content:str) -> int:
+        if len(self._buffer_fill) > 0:
+            return self._max_length - len(buffer_content)
+        return 0
+    
+    def _get_buffer_fill(self, buffer_content:str) -> str:
+        return self._buffer_fill * self._get_buffer_fill_ammount(buffer_content)
+
+    def _on_press(self, input_key:str) -> None:
+        if not self._buffer_is_full and (input_key in self._alphabet):
+            self._buffer += str(input_key)
+            print(input_key)
+        if input_key == "backspace":
+            if len(self._buffer) > 0:
+                self._buffer = self._buffer[:-1]
+                print("\b_\b")
