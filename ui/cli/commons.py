@@ -47,8 +47,7 @@ class CLIOutputMsg:
         return self._cleared
     
     def print(self) -> None:
-        stdout.write(self.line)
-        stdout.flush()
+        print(self.line)
 
 
 

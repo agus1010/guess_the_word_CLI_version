@@ -1,11 +1,10 @@
 from sshkeyboard import listen_keyboard
-from wordle_core import Wordle, WordValidation
+from wordle_core import WordValidation
 
 from .commons import KeyboardManager, back_word
 from .base_cli import BaseCLI
 
 import word_db as WordDB
-
 import ui.colourful_functions as Colors
 
 
