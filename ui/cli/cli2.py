@@ -88,6 +88,11 @@ class CLI2(BaseCLI):
         final_msg = f"{self._current_word_hint} {self._current_error_msg}"
         self._output(final_msg, new_line= False)
 
+    def show_outro(self) -> None:
+        self._output(msg= "\n", new_line= True)
+        super().show_outro()
+        self.show_word_definitions(self.game.hidden_word)
+        
 
     # private overrides:
     
@@ -115,9 +120,12 @@ class CLI2(BaseCLI):
         return "".join(WORD_FEEDBACK_COLORS[number](char) for char, number in zip(self._last_word_read, validation.detail))
 
     def _get_victory_msg(self) -> str:
-        return "¡Bien hecho!"
+        waves1 = Colors.cyan_f("°º¤ø,¸¸,ø¤º°`°º¤ø")
+        waves2 = Colors.cyan_f("ø¤°º¤ø,¸¸,ø¤º°`°º")
+        well_done = Colors.green_f("¡Bien hecho!")
+        return f"{waves1} {well_done} {waves2}\n"
 
     def _get_defeat_msg(self) -> str:
         intro = Colors.red_f("Una lástima.. ¡Mejor suerte la próxima!")
         outro = f"La palabra era: {Colors.green_f(self.game.hidden_word)}"
-        return f"{intro}. {outro}"
+        return f"{intro}. {outro}\n"

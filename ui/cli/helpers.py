@@ -28,7 +28,6 @@ class CLIWordInput:
         return len(self._buffer) >= self._max_length
     
 
-
     def input(self, preloaded_buffer_content:str = "") -> str:
         self._buffer = preloaded_buffer_content[:self._max_length]
         fill = self._buffer
