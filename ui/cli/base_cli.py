@@ -23,7 +23,7 @@ class BaseCLI:
                 input_word = self.read_player_input()
             except KeyboardInterrupt:
                 break
-            validation = self.game.guess(input_word)
+            validation = self.validate_word(input_word)
             self.show_input_word_feedback(validation)
         self.show_outro()
     
@@ -32,11 +32,13 @@ class BaseCLI:
         self._output(self._get_intro_msg())
 
     def show_round_hint(self) -> None:
-        self._output(self._get_current_round_msg(), new_line=False)
-        self._output(self._get_round_hint_msg(), new_line = False)
+        self._output(self._get_round_hint_msg(), new_line= False)
 
     def read_player_input(self) -> str:
         return input()
+    
+    def validate_word(self, word:str) -> WordValidation:
+        return self.game.guess(word)
     
     def show_input_word_feedback(self, validation:WordValidation) -> None:
         msg = validation.word
@@ -49,8 +51,8 @@ class BaseCLI:
 
 
     
-    def _output(self, msg:str="", new_line:bool = True) -> None:
-        self.outputs_log.append(TerminalLine(msg, print_now = True, new_line = new_line))
+    def _output(self, msg:str="", new_line:bool = True, print_now = True) -> None:
+        self.outputs_log.append(TerminalLine(msg, new_line= new_line, print_now= print_now))
 
     def _clear_last_output(self) -> None:
         if not (last_output := self.last_output).cleared:
@@ -60,12 +62,10 @@ class BaseCLI:
     def _get_intro_msg(self) -> str:
         return "Wordle!!"
 
-    def _get_current_round_msg(self) -> str:
-        return f"{self.game.rounds_played + 1}) "
-
     def _get_round_hint_msg(self) -> str:
         word_length = self.game.word_length
-        return "_"*word_length + "\b"*word_length
+        word_fill = '_' * word_length + '\b' * word_length
+        return f"{self.game.rounds_played + 1}) {word_fill}"
 
     def _get_word_error_msg(self, validation:WordValidation) -> str:
         return f"  ERROR:  {str(validation.status)}"
