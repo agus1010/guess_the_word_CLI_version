@@ -37,21 +37,34 @@ class CLI2(BaseCLI):
         user_input = input("¿Mostrar definiciones? (S/n): ").strip()
         if (user_input != "s" and user_input != "S"):
             return
-        self._output("Definiciones:")
-        hidden_word = self.game.hidden_word
-        self._output(Colors.green_f(hidden_word))
-
-        definitions = RAE.request_definitions(hidden_word)
-        for definition in definitions:
-            self._output(msg= " • " + str(definition), new_line= True)
         
-        if not self.accents:
-            if (original_accented := WordDB.get_original_accented_word(hidden_word)) != "":
-                self._output("."*15)
-                self._output(Colors.yellow_f(original_accented))
-                definitions = RAE.request_definitions(original_accented)
-                for definition in definitions:
-                    self._output(msg= " • " + str(definition), new_line= True)
+        self._output("Definiciones:", new_line= True)
+        hidden_word = self.game.hidden_word
+        
+        rae_word = RAE.search_word(hidden_word)
+        
+        if len(rae_word.definitions) > 0:
+            self._output(Colors.green_f(hidden_word))
+            for definition in rae_word.definitions:
+                sup_info = ", ".join((str(info) for info in definition.supplementary_info))
+                self._output(f"• ({sup_info})", new_line= True)
+                for explanation in definition.explanations:
+                    self._output(f"  {explanation}", new_line=True)
+
+        # accents check        
+        original_accented = WordDB.get_original_accented_word(hidden_word)
+        if original_accented == "":
+            return
+        self._output("."*15)
+        self._output(Colors.yellow_f(original_accented))
+
+        rae_word = RAE.search_word(original_accented)
+        for definition in rae_word.definitions:
+            sup_info = ", ".join((str(info) for info in definition.supplementary_info))
+            self._output(f"• ({sup_info})", new_line= True)
+            for explanation in definition.explanations:
+                self._output(f"  {explanation}", new_line=True)
+                self._output("", new_line=True)
 
 
     def _get_original_word(self, word:str, accents_mode:bool) -> str:
