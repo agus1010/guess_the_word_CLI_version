@@ -6,6 +6,7 @@ from .base_cli import BaseCLI
 
 import ui.colourful_functions as Colors
 import word_db as WordDB
+import word_db.rae_definitions as RAE
 
 
 WORD_FEEDBACK_COLORS = {
@@ -40,14 +41,17 @@ class CLI2(BaseCLI):
         hidden_word = self.game.hidden_word
         self._output(Colors.green_f(hidden_word))
 
-        definitions = WordDB.request_definitions(hidden_word)
-        #            print(" • " + str(definition))
+        definitions = RAE.request_definitions(hidden_word)
+        for definition in definitions:
+            self._output(msg= " • " + str(definition), new_line= True)
         
         if not self.accents:
             if (original_accented := WordDB.get_original_accented_word(hidden_word)) != "":
                 self._output("."*15)
                 self._output(Colors.yellow_f(original_accented))
-                self.__show_word_definitions(original_accented)
+                definitions = RAE.request_definitions(original_accented)
+                for definition in definitions:
+                    self._output(msg= " • " + str(definition), new_line= True)
 
 
     def _get_original_word(self, word:str, accents_mode:bool) -> str:
