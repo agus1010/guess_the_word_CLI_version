@@ -112,7 +112,11 @@ class CLI2(BaseCLI):
         return f"{applied_color(str(displayed_number))}) "
 
     def _get_word_error_msg(self, validation: WordValidation) -> str:
-        return super()._get_word_error_msg(validation) if validation.status >= 10 else ""
+        error_msg = ""
+        if validation.status >= 10:
+            error_formatted = self._format_error_msg(validation)
+            error_msg = f"   {Colors.red_f(error_formatted)}"
+        return error_msg
 
     def _get_word_feedback_msg(self, validation: WordValidation) -> str:
         if validation.status >= 10:
@@ -129,3 +133,14 @@ class CLI2(BaseCLI):
         intro = Colors.red_f("Una lástima.. ¡Mejor suerte la próxima!")
         outro = f"La palabra era: {Colors.green_f(self.game.hidden_word)}"
         return f"{intro}. {outro}\n"
+    
+    def _format_error_msg(self, validation:WordValidation) -> str:
+        msg = "La palabra "
+        match validation.status:
+            case 11:
+                msg += "no está en el diccionario."
+            case 20:
+                msg += f"no tiene suficientes letras ({len(validation.word)}/{self.game.word_length})"
+            case 21:
+                msg += f"tiene demasiadas letras ({len(validation.word)}/{self.game.word_length})"
+        return msg
