@@ -2,6 +2,20 @@ from pyrae import dle
 
 
 
+class RAEWordDefinition:
+
+    def __init__(self, word:str) -> None:
+        self.word_types:list[str]
+        self.abbreviation: str
+        self.explanation:str
+        self.translate:bool = False
+
+    def __str__(self) -> str:
+        joined_types = ', '.join(translate_word_type(*self.word_types))
+        return f"{joined_types} -> {self.abbr} {self.explanation}"
+
+
+
 class WordDefinition:
     
     def __init__(self, word_types:list[str], abbr:str, explanation:str, translate:bool = False) -> None:

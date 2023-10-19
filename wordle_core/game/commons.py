@@ -8,6 +8,7 @@ class GAME_STATUS(IntEnum):
     ON_GOING = 0
     VICTORY = 1
     DEFEAT = 2
+    ABORTED = 3
 
 
 @dataclass

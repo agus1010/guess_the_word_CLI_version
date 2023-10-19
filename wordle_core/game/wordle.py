@@ -44,6 +44,9 @@ class Wordle:
             raise HiddenWordNotAvailable()
         return self._word
     
+    def abort(self) -> None:
+        self._status = GAME_STATUS.ABORTED
+    
     def guess(self, input_word:str) -> WordValidation:
         if self.finished:
             raise GameFinishedError()

@@ -95,7 +95,8 @@ class CLI2(BaseCLI):
     def show_outro(self) -> None:
         self._output(msg= "\n", new_line= True)
         super().show_outro()
-        self.show_word_definitions(self.game.hidden_word)
+        if self.game.status < 3:
+            self.show_word_definitions(self.game.hidden_word)
         
 
     # private overrides:

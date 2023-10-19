@@ -18,13 +18,14 @@ class BaseCLI:
     def play(self) -> None:
         self.show_intro()
         while not self.game.finished:
-            self.show_round_hint()
             try:
+                self.show_round_hint()
                 input_word = self.read_player_input()
+                validation = self.validate_word(input_word)
+                self.show_input_word_feedback(validation)
             except KeyboardInterrupt:
+                self.game.abort()
                 break
-            validation = self.validate_word(input_word)
-            self.show_input_word_feedback(validation)
         self.show_outro()
     
 
