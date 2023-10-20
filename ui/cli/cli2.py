@@ -54,20 +54,17 @@ class CLI2(BaseCLI):
     def show_word_definitions(self, word:str):
         if not self._ask_player_for_definitions():
             return
-        
         hidden_word = self.game.hidden_word
-        
+        original_accented = WordDB.get_original_accented_word(hidden_word)
         hidden_rae_word = RAE.search_word(hidden_word)
-        original_accented = WordDB.get_original_accented_word(hidden_word)
         original_rae_word = RAE.search_word(original_accented)
-        
-        self._output_rae_word(hidden_rae_word, Colors.green_f)
-        
-        # accents check        
-        original_accented = WordDB.get_original_accented_word(hidden_word)
+        hidden_word_defs_count = len(hidden_rae_word.definitions)
+        if hidden_word_defs_count > 0:
+            self._output_rae_word(hidden_rae_word, Colors.green_f)
+        # accents check
         if original_accented == "" or hidden_word == original_accented:
             return
-        if len(hidden_rae_word.definitions) > 0:
+        if hidden_word_defs_count > 0:
             self._output("."*15)
         self._output_rae_word(original_rae_word, Colors.yellow_f)
 
