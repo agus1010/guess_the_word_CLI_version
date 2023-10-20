@@ -19,7 +19,7 @@ WORD_FEEDBACK_COLORS = {
 _FILL = "_"
 
 
-class CLI2(BaseCLI):
+class CLI(BaseCLI):
 
     def __init__(self, wordle: Wordle, accents: bool = False) -> None:
         super().__init__(wordle, accents)
