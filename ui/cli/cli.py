@@ -33,6 +33,27 @@ class CLI(BaseCLI):
         return self._current_validation.word
 
 
+    def show_word_definitions(self, word:str):
+        if not self._ask_player_for_definitions():
+            return
+        hidden_word = self.game.hidden_word
+        original_accented = WordDB.get_original_accented_word(hidden_word)
+        hidden_rae_word = RAE.search_word(hidden_word)
+        original_rae_word = RAE.search_word(original_accented) if original_accented != "" else RAE.RAEWord("", [])
+        hidden_word_defs_count = len(hidden_rae_word.definitions)
+        if hidden_word_defs_count > 0:
+            self._output_rae_word(hidden_rae_word, Colors.green_f)
+        if original_accented == "" or hidden_word == original_accented:
+            return
+        if hidden_word_defs_count > 0:
+            self._output("."*15)
+        self._output_rae_word(original_rae_word, Colors.yellow_f)
+
+    
+    @property
+    def _last_validation_has_errors(self) -> bool:
+        return self._current_validation.status > 10
+    
 
     def _ask_player_for_definitions(self) -> bool:
         self._output(msg= "¿Mostrar definiciones? (S/n): ", new_line= False)
@@ -50,39 +71,6 @@ class CLI(BaseCLI):
         for line in pretty_lines:
             self._output(msg= line, new_line= True)
 
-
-    def show_word_definitions(self, word:str):
-        if not self._ask_player_for_definitions():
-            return
-        hidden_word = self.game.hidden_word
-        original_accented = WordDB.get_original_accented_word(hidden_word)
-        hidden_rae_word = RAE.search_word(hidden_word)
-        original_rae_word = RAE.search_word(original_accented)
-        hidden_word_defs_count = len(hidden_rae_word.definitions)
-        if hidden_word_defs_count > 0:
-            self._output_rae_word(hidden_rae_word, Colors.green_f)
-        # accents check
-        if original_accented == "" or hidden_word == original_accented:
-            return
-        if hidden_word_defs_count > 0:
-            self._output("."*15)
-        self._output_rae_word(original_rae_word, Colors.yellow_f)
-
-
-    
-
-
-    def _get_original_word(self, word:str, accents_mode:bool) -> str:
-        if accents_mode:
-            return word
-        if (original_word := WordDB.get_original_accented_word(word)) != "":
-            return original_word
-        return word
-
-    @property
-    def _last_validation_has_errors(self) -> bool:
-        return self._current_validation.status > 10
-    
 
     # public overrides
 
@@ -123,11 +111,11 @@ class CLI(BaseCLI):
         return f"\n{Colors.cyan_f('¡Wordle!')}"
     
     def _get_current_round_msg(self) -> str:
-        normalized_rounds_played = self.game.rounds_played / self.game.max_rounds
+        normalized_rounds_played = (self.game.rounds_played + 1) / self.game.max_rounds
         applied_color = Colors.cli_default
         if normalized_rounds_played == 1:
             applied_color = Colors.red_b
-        elif normalized_rounds_played >= .81:
+        elif normalized_rounds_played >= .75:
             applied_color = Colors.red_f
         elif normalized_rounds_played >= .51:
             applied_color = Colors.yellow_f

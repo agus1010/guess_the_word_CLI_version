@@ -1,0 +1,1 @@
+wordle [a/acentos] [l/largo={5<=int<=10}] [i/intentos={int}] [reglas] [h/help] [v/version] [d/debug[={word}]]
