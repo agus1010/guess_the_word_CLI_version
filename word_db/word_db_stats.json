@@ -1,4 +1,8 @@
 {
+    "word_lengths": {
+        "min" : 5,
+        "max" : 10
+    },
     "accented": {
         "a": {
             "5": 794,
