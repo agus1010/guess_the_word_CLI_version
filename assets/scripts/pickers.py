@@ -1,15 +1,16 @@
 from random import randint
 
 from wordle_core import PWordPicker
-from word_db import STATS, get_selectable_word_at_index
+import wordle_core.validation.wordfuncs as WordFuncs
+import word_db as WordDB
 
 
 
 def _pick_fixed_length_random_word(accents_mode:bool, max_word_length:int) -> str:
     accents_key = "accented" if accents_mode else "accentless"
-    total_word_count = STATS["selectables"][accents_key][str(max_word_length)]
+    total_word_count = WordDB.STATS["selectables"][accents_key][str(max_word_length)]
     chosen_index = randint(0, total_word_count)
-    return get_selectable_word_at_index(chosen_index, accents_mode, max_word_length)
+    return WordDB.get_selectable_word_at_index(chosen_index, accents_mode, max_word_length)
 
 
 
@@ -35,5 +36,9 @@ class RandomLengthWordPicker(BasicWordDBPicker):
 
 class DebugWordPicker(BasicWordDBPicker):
 
+    def __init__(self, word:str) -> None:
+        super().__init__(accents= WordFuncs.has_accent(word), word_length= len(word))
+        self.word = word
+
     def pick(self) -> str:
-        return "avión" if self.accents else "avion"
+        return self.word

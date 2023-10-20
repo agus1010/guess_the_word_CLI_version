@@ -15,6 +15,17 @@ class RAEWord:
     word:str
     definitions:list[RAEDefinition]
 
+    def pretty_str(self) -> str:
+        pretty_msg = f"{self.word}\n"
+        if len(self.definitions) > 0:
+            for definition in self.definitions:
+                sup_info = ", ".join((str(info) for info in definition.supplementary_info))
+                pretty_msg += f"• {sup_info}\n"
+                for explanation in definition.explanations:
+                    pretty_msg += f"   {explanation}\n"
+        else:
+            pretty_msg += "No definitions available.\n"
+        return pretty_msg
 
 
 

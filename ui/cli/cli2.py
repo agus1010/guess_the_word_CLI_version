@@ -1,8 +1,8 @@
 from wordle_core import WordValidation, Wordle
 
+from .base_cli import BaseCLI
 from .commons import print_msg
 from .helpers import CLIWordInput
-from .base_cli import BaseCLI
 
 import ui.colourful_functions as Colors
 import word_db as WordDB
@@ -33,38 +33,46 @@ class CLI2(BaseCLI):
         return self._current_validation.word
 
 
+
+    def _ask_player_for_definitions(self) -> bool:
+        self._output(msg= "¿Mostrar definiciones? (S/n): ", new_line= False)
+        self.keyboard = CLIWordInput(word_length= 1, accents=False, buffer_fill=" ")
+        user_selection = self.keyboard.input().strip().lower()
+        self.last_output.line += user_selection
+        self.last_output.clear()
+        return user_selection == "s"
+
+    def _output_rae_word(self, rae_word:RAE.RAEWord, word_color) -> None:
+        if len(rae_word.definitions) == 0:
+            return
+        pretty_lines = rae_word.pretty_str().splitlines()
+        pretty_lines[0] = f"{word_color(rae_word.word)}:"
+        for line in pretty_lines:
+            self._output(msg= line, new_line= True)
+
+
     def show_word_definitions(self, word:str):
-        user_input = input("¿Mostrar definiciones? (S/n): ").strip()
-        if (user_input != "s" and user_input != "S"):
+        if not self._ask_player_for_definitions():
             return
         
-        self._output("Definiciones:", new_line= True)
         hidden_word = self.game.hidden_word
         
-        rae_word = RAE.search_word(hidden_word)
+        hidden_rae_word = RAE.search_word(hidden_word)
+        original_accented = WordDB.get_original_accented_word(hidden_word)
+        original_rae_word = RAE.search_word(original_accented)
         
-        if len(rae_word.definitions) > 0:
-            self._output(Colors.green_f(hidden_word))
-            for definition in rae_word.definitions:
-                sup_info = ", ".join((str(info) for info in definition.supplementary_info))
-                self._output(f"• ({sup_info})", new_line= True)
-                for explanation in definition.explanations:
-                    self._output(f"  {explanation}", new_line=True)
-
+        self._output_rae_word(hidden_rae_word, Colors.green_f)
+        
         # accents check        
         original_accented = WordDB.get_original_accented_word(hidden_word)
-        if original_accented == "":
+        if original_accented == "" or hidden_word == original_accented:
             return
-        self._output("."*15)
-        self._output(Colors.yellow_f(original_accented))
+        if len(hidden_rae_word.definitions) > 0:
+            self._output("."*15)
+        self._output_rae_word(original_rae_word, Colors.yellow_f)
 
-        rae_word = RAE.search_word(original_accented)
-        for definition in rae_word.definitions:
-            sup_info = ", ".join((str(info) for info in definition.supplementary_info))
-            self._output(f"• ({sup_info})", new_line= True)
-            for explanation in definition.explanations:
-                self._output(f"  {explanation}", new_line=True)
-                self._output("", new_line=True)
+
+    
 
 
     def _get_original_word(self, word:str, accents_mode:bool) -> str:
