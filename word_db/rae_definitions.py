@@ -4,8 +4,7 @@ from pyrae.core import SearchResult
 
 
 @dataclass
-class RAEDefinition:
-    word:str
+class WordExplanation:
     supplementary_info:list[str]
     explanations:list[str]
 
@@ -13,7 +12,7 @@ class RAEDefinition:
 @dataclass
 class RAEWord:
     word:str
-    definitions:list[RAEDefinition]
+    definitions:list[WordExplanation]
 
     def pretty_str(self) -> str:
         pretty_msg = f"{self.word}\n"
@@ -40,7 +39,7 @@ def search_word(word:str) -> RAEWord:
     for article in search.articles:
         sup_info = [str(info) for info in article.supplementary_info]
         explanations = [definition.raw_text for definition in article.definitions]
-        definitions.append(RAEDefinition(word= word, supplementary_info= sup_info, explanations= explanations))
+        definitions.append(WordExplanation(supplementary_info= sup_info, explanations= explanations))
     return RAEWord(word= word, definitions= definitions)
 
 
