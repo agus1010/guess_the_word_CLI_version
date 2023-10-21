@@ -25,6 +25,10 @@ class RAEWord:
         else:
             pretty_msg += "No definitions available.\n"
         return pretty_msg
+    
+    @property
+    def __dict__(self) -> dict[str:any]:
+        return {'word':self.word, 'definitions':[exp.__dict__ for exp in self.definitions]}
 
 
 
