@@ -1,7 +1,7 @@
 from random import randint
 
-from wordle_core import PWordPicker
-import wordle_core.validation.wordfuncs as WordFuncs
+from core import PWordPicker
+import core.validation.wordfuncs as WordFuncs
 import word_db as WordDB
 
 

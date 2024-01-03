@@ -1,4 +1,4 @@
-from wordle_core import WordValidation, Wordle
+from core import WordValidation, WordGame
 
 from .base_cli import BaseCLI
 from .commons import print_msg
@@ -21,7 +21,7 @@ _FILL = "_"
 
 class CLI(BaseCLI):
 
-    def __init__(self, wordle: Wordle, accents: bool = False) -> None:
+    def __init__(self, wordle: WordGame, accents: bool = False) -> None:
         super().__init__(wordle, accents)
         self.keyboard = CLIWordInput(self.game.word_length, self.accents, _FILL)
         self._current_validation = WordValidation("", [], 0)
