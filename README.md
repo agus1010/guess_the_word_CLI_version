@@ -10,9 +10,9 @@ de la misma longitud que la palabra secreta.
  Por cada intento, el juego mostrará información sobre cada letra de la palabra
 arriesgada en forma de colores, que ayudarán a descubrir la palabra final.
  Los colores indican:
-  • <bold>VERDE</bold> : La letra está presente en la palabra final y está en la posición correcta.
-  • <bold>AMARILLO</bold> : La letra está presente en la palabra final pero en la posición equivocada.
-  • <bold>GRIS</bold> : La letra no está presente en la palabra final.
+  • <bold>VERDE</bold> : La letra está presente en la palabra final y está en la posición correcta.<br>
+  • <bold>AMARILLO</bold> : La letra está presente en la palabra final pero en la posición equivocada.<br>
+  • <bold>GRIS</bold> : La letra no está presente en la palabra final.<br>
 
 Por defecto:
  Las palabras secretas pertenecen al diccionario español, no tienen acentos y tienen 5 letras.
