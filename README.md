@@ -18,10 +18,10 @@ Por defecto:
  Las palabras secretas pertenecen al diccionario español, no tienen acentos y tienen 5 letras.
  El jugador tiene un total de 6 intentos.
 
-Todos los valores anteriores pueden personalizarse, de forma que:
-  • Se permitan palabras secretas con acento.
-  • La palabra secreta tenga entre más de 5 (pero menos de 11) letras.
-  • El total de intentos sea cualquier número
+Todos los valores anteriores pueden personalizarse, de forma que:<br>
+  • Se permitan palabras secretas con acento.<br>
+  • La palabra secreta tenga entre más de 5 (pero menos de 11) letras.<br>
+  • El total de intentos sea cualquier número.<br>
 
 (mire "wordgame help")
 
