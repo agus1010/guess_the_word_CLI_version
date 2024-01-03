@@ -1,4 +1,4 @@
-¡Wordle en Casa!
+¡Adivina la Palabra! (Versión CLI)
 
 
 ¿Cómo se juega?
