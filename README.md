@@ -8,8 +8,8 @@ acaben los intentos.
  Para ello el jugador deberá arriesgar una palabra del diccionario español y
 de la misma longitud que la palabra secreta.
  Por cada intento, el juego mostrará información sobre cada letra de la palabra
-arriesgada en forma de colores, que ayudarán a descubrir la palabra final.
- Los colores indican:
+arriesgada en forma de colores, que ayudarán a descubrir la palabra final.<br>
+ Los colores indican:<br>
   • <bold>VERDE</bold> : La letra está presente en la palabra final y está en la posición correcta.<br>
   • <bold>AMARILLO</bold> : La letra está presente en la palabra final pero en la posición equivocada.<br>
   • <bold>GRIS</bold> : La letra no está presente en la palabra final.<br>
