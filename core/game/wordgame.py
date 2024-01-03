@@ -5,7 +5,7 @@ from ..validation.validator import WordValidator
 from ..validation.commons import WordValidation, WORD_VALIDATION_STATUS
 
 
-class Wordle:
+class WordGame:
     
     def __init__(self, game_config:GameConfiguration, word_picker:PWordPicker, word_set:PWordSet) -> None:
         self._config = game_config

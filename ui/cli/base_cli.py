@@ -1,11 +1,11 @@
-from wordle_core import Wordle, WordValidation
+from core import WordGame, WordValidation
 
 from .commons import TerminalLine
 
 
 class BaseCLI:
 
-    def __init__(self, wordle:Wordle, accents:bool = False) -> None:
+    def __init__(self, wordle:WordGame, accents:bool = False) -> None:
         self.game = wordle
         self.accents = accents
         self.outputs_log : list[TerminalLine] = []

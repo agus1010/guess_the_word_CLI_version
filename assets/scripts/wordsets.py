@@ -1,4 +1,4 @@
-from wordle_core import PWordSet
+from core import PWordSet
 import word_db.funcs as WordDB
 
 

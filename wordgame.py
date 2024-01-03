@@ -1,7 +1,7 @@
 from sys import argv
 
 from ui import CLI, BaseCLI
-from wordle_core import Wordle, GameConfiguration
+from core import WordGame, GameConfiguration
 from word_db import MIN_WORD_LENGTH, MAX_WORD_LENGTH
 
 from assets.scripts.pickers import BasicWordDBPicker, DebugWordPicker
@@ -65,7 +65,7 @@ else:
     picker = BasicWordDBPicker(accents= config.accents, word_length= config.word_length)
 
 word_set = BasicWordDBSet(accents = config.accents)
-wordle = Wordle(game_config=config, word_picker=picker, word_set=word_set)
+wordle = WordGame(game_config=config, word_picker=picker, word_set=word_set)
 
 cli = CLI(wordle=wordle, accents=config.accents)
 cli.play()
