@@ -1,7 +1,7 @@
-¡Adivina la Palabra! (Versión CLI)
+<h1>¡Adivina la Palabra! (Versión CLI)</h1>
 
 
-¿Cómo se juega?
+<h3>¿Cómo se juega?</h3>
  
  El objetivo del juego es averiguar la palabra secreta antes de que se
 acaben los intentos.
@@ -10,9 +10,9 @@ de la misma longitud que la palabra secreta.
  Por cada intento, el juego mostrará información sobre cada letra de la palabra
 arriesgada en forma de colores, que ayudarán a descubrir la palabra final.
  Los colores indican:
-  • VERDE : La letra está presente en la palabra final y está en la posición correcta.
-  • AMARILLO : La letra está presente en la palabra final pero en la posición equivocada.
-  • GRIS : La letra no está presente en la palabra final.
+  • <bold>VERDE</bold> : La letra está presente en la palabra final y está en la posición correcta.
+  • <bold>AMARILLO</bold> : La letra está presente en la palabra final pero en la posición equivocada.
+  • <bold>GRIS</bold> : La letra no está presente en la palabra final.
 
 Por defecto:
  Las palabras secretas pertenecen al diccionario español, no tienen acentos y tienen 5 letras.
@@ -23,11 +23,15 @@ Todos los valores anteriores pueden personalizarse, de forma que:
   • La palabra secreta tenga entre más de 5 (pero menos de 11) letras.
   • El total de intentos sea cualquier número
 
-(mire "launcher help")
+(mire "wordgame help")
 
 
-USO:
+<h3>USO:</h3>
   Para iniciar el juego en modo "estándar":
-        python launcher.py
+        python wordgame.py
     
   El modo "estándar" consiste en adivinar una palabra de 5 letras sin acentos en 6 intentos.
+
+
+<h3>INSTALACIÓN</h3>
+pip install requirements.txt
